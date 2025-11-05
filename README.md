@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./logos.jpg" alt="Project & Partners Logos">
+</p>
+
+
 # Castello Ursino AR — Open Dataset
 
 This repository provides an open-access dataset produced for the **Castello Ursino AR** project, developed by **Phoenix Srl**.  
