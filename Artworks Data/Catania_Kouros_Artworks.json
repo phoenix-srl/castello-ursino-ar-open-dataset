@@ -1,0 +1,1284 @@
+[
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/00 - IPrimiPoetiItalianiAllaCorteDifedericoII.asset",
+    "ID": 0,
+    "Name": "00 - IPrimiPoetiItalianiAllaCorteDiFedericoII",
+    "Title": "IPrimiPoetiItalianiAllaCorteDiFedericoII",
+    "TitleLocalized": {
+      "21": "I Primi Poeti Italiani alla Corte di Federico II",
+      "10": "The First Italian Poets at the Court of Frederick II"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "1852–1854",
+    "RiddleTextKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_info_text",
+    "InfoTextLocalized": {
+      "21": "Bozzetto storico (1854) di Rapisardi sulla corte sveva di Federico II, ambientato nel cortile arabeggiante della Zisa. I poeti della Scuola Siciliana, tra cui Jacopo da Lentini e Giacomo da Pistoia, dialogano in uno spazio armonico. l’imperatore è suggerito dall’assetto delle figure. Tratto rapido e accurato, cromie raffinate. Opera premiata a Firenze (1855), emblema dello storicismo romantico e della nascita della poesia in volgare italiano (1220–1260), nel clima pre-unitario.",
+      "10": "Historical sketch (1854) by Rapisardi depicting Frederick II’s Hohenstaufen court, set in the Moorish courtyard of La Zisa. Poets of the Sicilian School, among them Jacopo da Lentini and Giacomo da Pistoia,converse within a balanced space. the emperor is implied by the figures’ arrangement. Swift yet precise draftsmanship and refined color. Awarded in Florence (1855), the work epitomizes Romantic historicism and the birth of Italian vernacular poetry (1220–1260) within a pre-unification cultural project."
+    },
+    "InfoAudioKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Descrizione\r\nBozzetto storico dedicato alla fioritura della cultura volgare italiana alla corte di Federico II\r\nPresenza di poeti come Jacopo da Lentini e Giacomo da Pistoia in ambiente colto e raffinato\r\nAmbientazione architettonica arabeggiante probabilmente nel cortile della Zisa\r\nTratto rapido e accurato che definisce gerarchie personaggi gesti e spazio\r\n\r\nComposizione e stile\r\nCorte sveva in radunanza solenne con poeti della Scuola Siciliana\r\nFigura di Federico II suggerita dall assetto delle figure più che rappresentata direttamente\r\nColori raffinati e pennellate studiate per vesti e gesti\r\nSpazio armonico con figure in dialogo e fondale essenziale da primo studio\r\nInterno cortese ispirato a fonti storiche o letterarie\r\nEquilibrio tra disegno e colore atmosfera narrativa ritmo delle figure\r\n\r\nContesto nella produzione di Rapisardi\r\nBozzetto completato nel 1854 durante la partecipazione alle promotrici fiorentine con soggetti storico letterari\r\nIn continuità con temi medievalisti come Dante e Beatrice\r\nInserito nel clima di promozione di una identità culturale nazionale post Risorgimento\r\nConsolidamento della reputazione dell artista in ambito nazionale\r\n\r\nRiconoscimenti\r\nMassima onorificenza della Promotrice di Firenze e medaglia d oro\r\nPremio della Società Promotrice di arte nel 1855 per valore storico e formale\r\nBozzetto preparatorio destinato a una composizione maggiore presentata alla Promotrice di Firenze\r\n\r\nSignificato e valore\r\nCelebrazione della Scuola poetica siciliana primo sviluppo della poesia in volgare italiano sotto Federico II\r\nOrgoglio della tradizione poetica siciliana e nascita della letteratura italiana\r\nOpera esemplare della pittura storicista romantica\r\nRilevanza per identità culturale e ricostruzione storica\r\nValore didattico come tramite tra conoscenza storica e creazione estetico letteraria\r\nRiferimento alla fase 1220 1260 della lirica in volgare e della metrica italiana\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4a663b095bfa89e47b3c1996f4533af9",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/01 - RitrattoDellaCognata.asset",
+    "ID": 1,
+    "Name": "01 - RitrattoDellaCognata",
+    "Title": "RitrattoDellaCognata",
+    "TitleLocalized": {
+      "21": "Ritratto della Cognata",
+      "10": "Portrait of the Sister-in-law"
+    },
+    "Artist": "Giuseppe Gandolfo",
+    "Date": 1823,
+    "RiddleTextKey": "RitrattoDellaCognata_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "RitrattoDellaCognata_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "RitrattoDellaCognata_info_text",
+    "InfoTextLocalized": {
+      "21": "Giuseppe Gandolfo (Catania, 1792), Ritratto della cognata. Neoclassico ritratto di nobildonna, modello dell’aristocrazia catanese ottocentesca. Sullo sfondo, Catania con l’Etna fumante crea un dialogo tra identità femminile e paesaggio vulcanico. La cura minuziosa dei dettagli, tessuti, gioielli, gesto, rivela il disegnatore raffinato e il principale ritrattista dell’élite etnea, autore anche di vedute dell’eruzione del 1852. Eleganza e carattere si fondono in un’immagine-simbolo della città.",
+      "10": "Giuseppe Gandolfo (Catania, 1792), Portrait of the Sister-in-Law. A neoclassical likeness of an aristocratic Catanese woman. The city with a smoking Etna forms a dialogue between female identity and volcanic landscape. Meticulous attention to fabrics, jewels, and pose reveals the artist’s draughtsmanship and role as leading portraitist of Etna’s cultural milieu. he also painted the 1852 eruption. Elegance and character merge into an emblematic image of Catania."
+    },
+    "InfoAudioKey": "RitrattoDellaCognata_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo\r\nRitratto della cognata\r\n\r\nSoggetto e ambientazione\r\nNobildonna cognata del pittore\r\nSfondo Catania con Etna fumante imponente e affascinante\r\nFinezze concentrate nella cura dei particolari\r\n\r\nStile e intenzione\r\nImpostazione neoclassica\r\nDefinizione del prototipo della donna aristocratica catanese di un tempo\r\n\r\nL’artista\r\nGiuseppe Gandolfo nato a Catania nel 1792\r\nPittore italiano dedito soprattutto al disegno\r\nAutore di numerosi ritratti di esponenti della cultura etnea\r\nConosciuto per riproduzioni di opere di Tiziano Raffaello Correggio\r\nTra i soggetti anche l’eruzione dell’Etna del 1852\r\nIl dipinto sull’eruzione assume valore aggiunto per la presenza dell’autore stesso\r\n\r\nSintesi del valore dell’opera\r\nRitratto che unisce eleganza aristocratica e identità catanese\r\nDialogo tra figura femminile e paesaggio vulcanico\r\nEsempio di neoclassicismo attento al dettaglio e alla resa dei caratteri sociali\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "bda606bd6835fbe44aea6c97eeae645c",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/02 - Autoritratto.asset",
+    "ID": 2,
+    "Name": "02 - Autoritratto",
+    "Title": "Autoritratto",
+    "TitleLocalized": {
+      "21": "Autoritratto",
+      "10": "Self-Portrait"
+    },
+    "Artist": "Giuseppe Gandolfo",
+    "Date": "   ",
+    "RiddleTextKey": "Autoritratto_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Autoritratto_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Autoritratto_info_text",
+    "InfoTextLocalized": {
+      "21": "Giuseppe Gandolfo, Autoritratto come contadino. L’artista si raffigura in abiti semplici, privo di orpelli, con la falce appoggiata alla spalla destra: segno esplicito d’identificazione rurale. Il volto frontale instaura uno scambio di sguardi diretto. Sullo sfondo, un paesaggio appena accennato con l’Etna lontano definisce l’identità catanese. A differenza dei consueti fondali scuri dei suoi ritratti, l’aperto naturale sostiene una lettura umile e operosa senza sottrarre centralità alla figura.",
+      "10": "Giuseppe Gandolfo, Self-Portrait as a Peasant. The painter depicts himself in plain dress, devoid of finery, a sickle resting on his right shoulder as a clear rural emblem. The frontal face engages the viewer. A lightly sketched landscape with distant Mount Etna signals Catania. Unlike his usual dark neutral grounds, the open-air setting supports a humble, laborious reading while keeping the figure central."
+    },
+    "InfoAudioKey": "Autoritratto_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo\r\nAutoritratto come contadino\r\n\r\nSoggetto\r\nIl pittore Giuseppe Gandolfo si rappresenta in una situazione insolita non collegata alla sua reale professione\r\n\r\nAbbigliamento e simboli\r\nVesti semplici prive di carattere regale o elegante\r\nFalce appoggiata sulla spalla destra come chiaro segno della volontà di mostrarsi contadino\r\n\r\nRelazione con l osservatore\r\nVolto rivolto frontalmente\r\nScambio di sguardi intenso e diretto\r\n\r\nAmbientazione\r\nScelta di uno sfondo naturalistico leggero e accennato\r\nDettagli volutamente approssimativi per non distrarre dalla figura\r\n\r\nConfronto con altri ritratti di Gandolfo\r\nDi norma fondale neutro e scuro\r\nIn questo caso scelta differente con paesaggio all aperto\r\n\r\nIndizi geografici\r\nPresenza del vulcano Etna in lontananza unica traccia del luogo\r\n\r\nSintesi interpretativa\r\nAutoritratto che ribalta l immagine ufficiale del pittore\r\nEnfasi sulla dimensione umile e laboriosa\r\nDialogo visivo con chi osserva sostenuto da pose semplici e segni chiari\r\nPaesaggio ridotto a nota essenziale per definire identita catanese senza prevalere sulla figura\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87a7d236a244d86449e9bdc9b79fbaa4",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/03 - TestaDiOfeliaPazza.asset",
+    "ID": 3,
+    "Name": "03 - TestaDiOfeliaPazza",
+    "Title": "TestaDiOfeliaPazza",
+    "TitleLocalized": {
+      "21": "Testa di Ofelia Pazza",
+      "10": "Head of Mad Ophelia"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": 1865,
+    "RiddleTextKey": "TestaDiOfeliaPazza_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "TestaDiOfeliaPazza_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "TestaDiOfeliaPazza_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi, Ofelia la pazza, 1865. Studio a olio su carta incollata su cartone. L’eroina shakespeariana appare in quiete apparente: labbra serrate, sguardo di sbieco. La compostezza esterna lascia trapelare l’inquietudine d’amore non corrisposto che conduce alla follia e alla morte. Con mezzi sobri e concentrati sulla figura, l’artista costruisce un dialogo silenzioso e tragico con lo spettatore, eco della vicenda di Amleto.",
+      "10": "Michele Rapisardi, Mad Ophelia, 1865. Oil study on paper mounted on cardboard. Shakespeare’s heroine seems outwardly calm: pressed lips, sidelong glance. Beneath the stillness, unrequited passion swells toward madness and death. With restrained means focused on the figure, the artist stages a silent, tragic exchange with the viewer, echoing Hamlet’s drama."
+    },
+    "InfoAudioKey": "TestaDiOfeliaPazza_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e autore\r\nMichele Rapisardi Ofelia la pazza 1865\r\n\r\nTipologia e tecnica\r\nStudio olio su carta incollata su cartone\r\n\r\nSoggetto\r\nOfelia personaggio dell’Amleto di Shakespeare\r\nFigura femminile in apparente quiete\r\n\r\nInquadratura e gesto\r\nLabbra serrate\r\nSguardo di sbieco\r\n\r\nTono emotivo e significato\r\nCalma solo in superficie\r\nInquietudine profonda che rivela la follia d’amore\r\nEspressione folle dovuta alla passione non corrisposta che conduce al suicidio\r\n\r\nContesto drammaturgico\r\nAllusione alla vicenda di Ofelia nella tragedia shakespeariana\r\nEco dei suoi versi ho visto\r\n\r\nEffetto sullo spettatore\r\nDialogo silenzioso e tragico con chi osserva\r\nTensione psicologica resa con mezzi sobri e concentrati sulla figura\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "da0c53c348646a64ba52bb8aa7b17ca3",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/04 - AutoritrattoDiFamiglia.asset",
+    "ID": 4,
+    "Name": "04 - AutoritrattoDiFamiglia",
+    "Title": "AutoritrattoDiFamiglia",
+    "TitleLocalized": {
+      "21": "Autoritratto di Famiglia",
+      "10": "Family Self-Portrait"
+    },
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "    ",
+    "RiddleTextKey": "AutoritrattoDiFamiglia_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "AutoritrattoDiFamiglia_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "AutoritrattoDiFamiglia_info_text",
+    "InfoTextLocalized": {
+      "21": "Ritratto di famiglia. Una delle opere capitali dell’artista. Mezzi busti intensamente caratterizzati sul piano fisionomico e psicologico. Al centro l’autoritratto: il pittore mostra la propria tela ai figli. A destra Michele, anch’egli pittore, sguardo obliquo e distante, sicuro e appartato. In primo piano Francesco guarda la madre. a sinistra moglie e figlia. in basso al centro due nipoti. Straordinaria cura del dettaglio e uso sapiente della luce con echi rinascimentali.",
+      "10": "Family Portrait. Among the artist’s most important works. Half-length figures with strong physiognomic and psychological character. At center, the self-portrait: the painter shows his canvas to his children. Right: Michele, also a painter, sidelong, detached, self-assured. Foreground: Francesco looks toward his mother. left: wife and daughter. center bottom: two grandchildren. Extraordinary detail and masterful handling of light, with Renaissance echoes."
+    },
+    "InfoAudioKey": "AutoritrattoDiFamiglia_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e soggetto\r\nRitratto di famiglia\r\n\r\nRilevanza\r\nUna delle opere più importanti e significative dell’artista\r\n\r\nImpostazione\r\nPersonaggi a mezzo busto\r\nCaratterizzazione fisionomica e psicologica intensa nelle espressioni dei volti\r\n\r\nCentro della scena\r\nAutoritratto del pittore\r\nMostra con la mano la propria tela ai figli\r\n\r\nFigure a destra\r\nMichele in fondo a destra anche lui pittore\r\nSguardo obliquo e distaccato\r\nConsapevolezza e sicurezza di sé\r\nTendenza a estraniarsi dal gruppo\r\n\r\nFigure in primo piano\r\nFrancesco in primo piano\r\nSguardo rivolto verso la madre\r\n\r\nFigure a sinistra\r\nMoglie e figlia\r\n\r\nFigure al centro in basso\r\nDue nipoti\r\n\r\nLuce e stile\r\nStraordinaria resa dei particolari\r\nUso sapiente della luce con richiami alla pittura rinascimentale",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "0ebc54a8b79b2e44eaee31a976cdf5fe",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/05 - RitrattoDellaMoglie.asset",
+    "ID": 5,
+    "Name": "05 - RitrattoDellaMoglie",
+    "Title": "RitrattoDellaMoglie",
+    "TitleLocalized": {
+      "21": "Ritratto della Moglie",
+      "10": "Portrait of the Wife"
+    },
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "RitrattoDellaMoglie_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "RitrattoDellaMoglie_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "RitrattoDellaMoglie_info_text",
+    "InfoTextLocalized": {
+      "21": "Giuseppe Gandolfo, Ritratto della moglie Rosaria De Luca. Mezzo busto frontale, sguardo diretto all’osservatore, profilo psicologico trattenuto. Impostazione realistica e minuzia descrittiva nei dettagli. cromie accese. Luce da destra che concentra il fulcro al centro del dipinto. Fondo scuro, in linea con la prassi ritrattistica dell’autore. L’immagine, ritratta anche dal figlio Michele in Ritratto di madre, unisce rigore formale e coinvolgimento, equilibrando brillantezza e controllo luminoso.",
+      "10": "Giuseppe Gandolfo, Portrait of his Wife Rosaria De Luca. Half-length, frontally posed, the sitter meets the viewer’s gaze. psychology is restrained. Realist setup with extraordinary precision of detail. vivid colors. Light from the right concentrates the focus at the center. Dark background, consistent with the artist’s portrait tradition. Also portrayed by his son Michele in Portrait of Mother. A rigorous, engaging image balancing chromatic brilliance and disciplined control of light."
+    },
+    "InfoAudioKey": "RitrattoDellaMoglie_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e soggetto\r\nRitratto della moglie Rosaria De Luca\r\n\r\nRimandi\r\nFigura ritratta anche dal figlio Michele Rapisardi nel Ritratto di madre\r\n\r\nInquadratura\r\nDonna a mezzo busto\r\nSguardo rivolto verso l’osservatore\r\nAssenza di tratti psicologici espliciti\r\n\r\nResa formale\r\nImpostazione realistica\r\nDefinizione dei dettagli di straordinaria precisione\r\nColori molto accesi\r\n\r\nLuce\r\nFonte luminosa da destra\r\nDominio della luce soprattutto al centro del quadro\r\n\r\nSfondo\r\nTonalità scura\r\nCoerente con la tradizione ritrattistica dell’artista\r\n\r\nSintesi\r\nRitratto rigoroso e frontalmente coinvolgente\r\nEquilibrio tra brillantezza cromatica e controllo della luce\r\nProfilo emotivo trattenuto a favore dell’esattezza descrittiva\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7fa0c40c32d781c4ba508847ffa6daea",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/06 - FedericoBarbarossaVintoDallaLegaLombarda.asset",
+    "ID": 6,
+    "Name": "06 - FedericoBarbarossaVintoDallaLegaLombarda",
+    "Title": "FedericoBarbarossaVintoDallaLegaLombarda",
+    "TitleLocalized": {
+      "21": "Federico Barbarossa Vinto dalla Lega Lombarda",
+      "10": "Frederick Barbarossa Defeated by the Lombard League"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": 1859,
+    "RiddleTextKey": "FedericoBarbarossaVintoDallaLegaLombarda_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "FedericoBarbarossaVintoDallaLegaLombarda_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "FedericoBarbarossaVintoDallaLegaLombarda_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi (1822–1886), Bozzetto patriottico sulla sconfitta imperiale (ca. 1858–1861). Studio su carta dai tratti rapidi e toni sobri (terre, grigi, ocra). Al centro, l’addensarsi di cavalieri, stendardi ed elmi incornicia Federico Barbarossa nel momento della disfatta: gesti eroici e concitazione medievale. Preparazione a una composizione monumentale, l’opera intreccia la memoria di Legnano (1176) e le istanze risorgimentali, celebrando identità civica e unità nazionale.",
+      "10": "Michele Rapisardi (1822–1886), Patriotic Sketch of the Imperial Defeat (c. 1858–1861). Study on paper with swift strokes and sober earth-grey-ochre tones. At the center, a press of riders, banners, and crested helmets frames Frederick Barbarossa at the instant of defeat—heroic gestures, medieval tumult. A preparatory step toward a monumental composition, the work binds the memory of Legnano (1176) to Risorgimento ideals, extolling civic identity and national unity."
+    },
+    "InfoAudioKey": "FedericoBarbarossaVintoDallaLegaLombarda_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nBozzetto patriottico sulla sconfitta imperiale ad opera dei comuni della Lega Lombarda\r\n\r\nTecnica e formato\r\nStudio su carta con tratti rapidi e vibranti che anticipano la monumentalità dell’opera finale\r\n\r\nScena\r\nL’imperatore Federico Barbarossa circondato dalle truppe della Lega Lombarda nel momento della sconfitta\r\nAffollamento di figure cavalli e stendardi che rende l’atmosfera concitata\r\n\r\nComposizione e movimento\r\nAddensamento al centro della scena\r\nBandiere elmi stemmi comunali come simboli di identità civica\r\nGestualità eroica che suggerisce dinamismo e confusione bellica\r\n\r\nColore e tratto\r\nToni sobri con prevalenza di terre grigi e ocra\r\nPennellate veloci a delineare soldati e cavalli\r\nSuggestione della tipica concitazione di uno scontro medievale\r\n\r\nAutore e periodo\r\nMichele Rapisardi 1822–1886 pittore storico siciliano\r\nFase di massima creatività tra il 1858 e il 1861\r\n\r\nOpere correlate\r\nFederico Barbarossa vinto dalla Lega Lombarda bozzetto 1859\r\nI Vespri Siciliani 1864–1865\r\nPercorso storico mitologico e patriottico coerente con l’ideologia risorgimentale\r\n\r\nValore e contesto\r\nIl bozzetto è impulso compositivo di primaria importanza nel processo creativo\r\nEnfasi su unità nazionale e autonomia comunale\r\nRiflesso del fervore risorgimentale\r\n\r\nSignificato storico\r\nRichiamo alla Battaglia di Legnano 1176 con i comuni lombardi vittoriosi\r\nOde alla libertà contro il dominio straniero\r\n\r\nValenza politica ottocentesca\r\nLa figura di Barbarossa usata come emblema della resistenza dei popoli italiani contro oppressioni esterne in linea con il moto unitario\r\n\r\nSintesi\r\nBozzetto preparatorio che unisce simboli identitari energia narrativa e finalità civica collegando memoria storica e aspirazione all’indipendenza nazionale\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2d47c063e5a82c449bc8eb2577f6f7b2",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/07 - Marina.asset",
+    "ID": 7,
+    "Name": "07 - Marina",
+    "Title": "Marina",
+    "TitleLocalized": {
+      "21": "Marina",
+      "10": "Seascape"
+    },
+    "Artist": "Francesco Lojacono",
+    "Date": 1884,
+    "RiddleTextKey": "Marina_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Marina_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Marina_info_text",
+    "InfoTextLocalized": {
+      "21": "Realizzata da Francesco Lojacono intorno al 1884, questa opera rivela la sua maestria tecnica e sensibilità artistica. Colori, luce e gesto concorrono a evocare un intenso valore simbolico e narrativo.",
+      "10": "Created by Francesco Lojacono around 1884, this work reveals the artist’s technical mastery and emotional sensitivity. Color, light, and gesture combine to convey a strong symbolic and narrative meaning."
+    },
+    "InfoAudioKey": "Marina_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Marina AI INFO",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "12c09d0bfdf5cf748b4e59a594a16e96",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/08 - Vitellino.asset",
+    "ID": 8,
+    "Name": "08 - Vitellino",
+    "Title": "Vitellino",
+    "TitleLocalized": {
+      "21": "Vitellino",
+      "10": "Calf"
+    },
+    "Artist": "Filippo Palizzi",
+    "Date": 1870,
+    "RiddleTextKey": "Vitellino_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Vitellino_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Vitellino_info_text",
+    "InfoTextLocalized": {
+      "21": "Filippo Palizzi (Vasto 1818–Napoli 1899), Vitellino (anni Settanta). Studio naturalistico dal vero: giovane bovino di profilo, illuminato da luce che accende riflessi bianchi su muso e dorso. Fondo scuro e neutro isola la figura. pennellata fine descrive peluria, ombre e struttura corporea senza idealizzazione. Specialista di animali, tra i padri del verismo, Palizzi unisce rigore anatomico e tenerezza poetica, conferendo dignità alla creatura, emblema d’innocenza e vitalità rurale.",
+      "10": "Filippo Palizzi (Vasto 1818–Naples 1899), Calf (1870s). A naturalistic study from life: a young bovine in profile, lit to catch white highlights on muzzle and back. A dark, neutral ground isolates the figure. fine brushwork renders fur, shadows, and bodily structure without idealization. A leading animal painter and pioneer of Italian verismo, Palizzi fuses anatomical rigor with gentle lyricism, granting dignity to the creature—an emblem of innocence and rural vitality."
+    },
+    "InfoAudioKey": "Vitellino_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nStudio naturalistico di un vitellino attenzione al vero della scuola napoletana\r\n\r\nSoggetto e ambientazione\r\nGiovane bovino di profilo in ambiente rurale\r\nLuce naturale che illumina la pelliccia morbida\r\nRiflessi bianchi su muso e dorso\r\n\r\nComposizione\r\nFondo scuro e neutro privo di dettagli per isolare la figura in primo piano\r\nPennellata fine e attenta\r\nDettagli di peluria ombre e struttura corporea\r\nImpostazione realistica non idealizzata\r\n\r\nAutore e contesto\r\nFilippo Palizzi Vasto 1818 Napoli 1899\r\nSpecialista in animali e scene di campagna\r\nInfluenze della scuola di Posillipo e del verismo francese\r\nVitellino inserito in un ciclo di studi animali degli anni Settanta\r\nTalento tecnico unito a componente affettiva e poetica verso il mondo contadino\r\n\r\nSignificato\r\nDignità conferita a un animale giovane simbolo di innocenza e vitalità\r\nRappresentazione della purezza e dell’osservazione diretta del vero\r\n\r\nValenza storico artistica\r\nElemento del verismo naturalista Palizzi tra i fondatori del verismo in pittura italiana\r\nEsemplare dell’osservazione dal vero priva di retorica\r\nStudio di forma e luce animale con attenzione anatomica e luministica\r\nTema frequente nella produzione dell’artista mucche capre bovini\r\n\r\nRiconoscimento critico\r\nEvidenza della sensibilità poetica verso la natura umile e quotidiana\r\nApprezzamento nei circoli artistici dell’epoca per la resa rispettosa e precisa delle piccole creature rurali\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "43602f167c1e8534b9d92d70ebe71e2b",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/09 - CardinaleDameECavalieri.asset",
+    "ID": 9,
+    "Name": "09 - CardinaleDameECavalieri",
+    "Title": "CardinaleDameECavalieri",
+    "TitleLocalized": {
+      "21": "Cardinale, Dame e Cavalieri",
+      "10": "Cardinal, Ladies and Knights"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "CardinaleDameECavalieri_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "CardinaleDameECavalieri_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "CardinaleDameECavalieri_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio, Scena aristocratica con cardinale, dame e cavalieri. In una sala d’epoca, il porporato in rosso accoglie dame settecentesche e gentiluomini, al centro di una conversazione rituale. Pennellate morbide, luci calde e minuzia di tessuti, ori ed espressioni rievocano un gusto rococò filtrato dall’Ottocento. L’artista, formatosi a Napoli e attivo a Roma, orchestra con precisione prospettica un coro di microstorie, testimone dei costumi dell’Ancien Régime. Opera apprezzata anche in aste internazionali.",
+      "10": "Natale Attanasio, Aristocratic Scene with Cardinal, Ladies and Cavaliers. In an opulent hall, the red-clad prelate receives eighteenth-century ladies and gentlemen amid ritual conversation. Soft brushwork, warm light, and meticulous fabrics, gilding, and faces revive a Rococo elegance reframed by the nineteenth century. Trained in Naples and active in Rome, the painter orchestrates precise perspective and interlaced micro-stories, documenting Ancien Régime manners. The work’s quality is confirmed by its appearance on international auction markets."
+    },
+    "InfoAudioKey": "CardinaleDameECavalieri_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nScena aristocratica con cardinale dame e cavalieri in abiti sontuosi tipica della pittura storicista\r\n\r\nSoggetto e ambientazione\r\nCardinale in veste rossa che riceve dame e cavalieri in una sala d’epoca con tappeti specchi lampadari arredi preziosi\r\nDame in abiti settecenteschi con gonne ampie e tessuti ricamati\r\nCavalieri in abiti eleganti e atteggiamento composto\r\n\r\nResa e stile\r\nCura minuziosa di tessuti decorazioni d’oro espressioni dei volti gestualità\r\nCardinale al centro che guida la conversazione\r\nFigure attorno in effetto corale e ritualità sociale\r\nPennellate morbide e luci calde per un’eleganza di gusto rococò rivisitata in chiave ottocentesca\r\n\r\nAutore e contesto\r\nNatale Attanasio formatosi a Napoli e attivo a Roma noto per opere storiche ritratti e scene di genere\r\nRiconoscimenti negli anni Ottanta e Novanta tra biennali torinesi ed esposizioni siciliane\r\nFase matura in cui unisce ricostruzione costume storicista e calore pittorico coinvolgente\r\n\r\nSignificato storico sociale\r\nTestimonianza della moda e dei costumi d’epoca e documento della cultura visiva del tempo\r\nRievocazione dell’universo aristocratico e clericale dell’Ancien Régime filtrato dalla sensibilità ottocentesca che intreccia nostalgia e documentazione\r\n\r\nValore narrativo e tecnico\r\nRacconto di microstorie tra sguardi gesti relazioni di cortesia in equilibrio tra stampa di costume e affresco familiare della vita aristocratica\r\nCapacità di orchestrare grandi compagini unendo figure e ambiente con equilibrio compositivo precisione prospettica e ricchezza decorativa\r\n\r\nCircolazione\r\nOpera passata in aste internazionali a conferma dell’interesse anche sui mercati esteri\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "e0a8d6f74d55f814a93bd295cf71cbd6",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/10 - TorquatoTassoEIlcardinaleLuigiDEste.asset",
+    "ID": 10,
+    "Name": "10 - TorquatoTassoEIlcardinaleLuigiDEste",
+    "Title": "TorquatoTassoEIlcardinaleLuigiDEste",
+    "TitleLocalized": {
+      "21": "Torquato Tasso e il Cardinale Luigi d’Este",
+      "10": "Torquato Tasso and Cardinal Luigi d’Este"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "TorquatoTassoEIlcardinaleLuigiDEste_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "TorquatoTassoEIlcardinaleLuigiDEste_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "TorquatoTassoEIlcardinaleLuigiDEste_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio (Catania 1845–Roma 1923), Tasso e il cardinale Luigi d’Este (ca. 1880–1900). In un chiostro rinascimentale, luce morbida scolpisce colonne e volti. Tasso, a sinistra, assorto e inquieto, fronteggia il cardinale in porpora, figura dominante. un assistente osserva in disparte. Pennellate misurate, equilibrio tra architettura e figure. minuzia di gesti e drappeggi. Il dialogo silenzioso riflette la tensione tra mecenatismo e libertà creativa negli anni ferraresi della Gerusalemme liberata.",
+      "10": "Natale Attanasio (Catania 1845–Rome 1923), Tasso and Cardinal Luigi d’Este (c. 1880–1900). In a Renaissance cloister, soft light shapes columns and faces. At left, Tasso—absorbed, uneasy—faces the scarlet-clad cardinal, the commanding presence. a third figure stands aside. Measured brushwork balances architecture and figures. finely observed gestures and drapery. The mute exchange stages the tension between patronage and creative freedom during the Ferrarese years of Jerusalem Delivered."
+    },
+    "InfoAudioKey": "TorquatoTassoEIlcardinaleLuigiDEste_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nScena intimista e psicologica tra Torquato Tasso e il cardinale Luigi d’Este dramma silenzioso sul rapporto tra mecenatismo e libertà creativa\r\n\r\nAmbientazione\r\nChiostro rinascimentale suggerito da colonne marmoree e pavimento geometrico a scacchi\r\nLuce morbida che valorizza volti e architettura tono solenne non pomposo\r\n\r\nDisposizione delle figure\r\nTasso in primo piano a sinistra dignitoso assorto volto inquieto rivolto al cardinale\r\nCardinale a destra in porpora e drappeggi ricchi figura dominante che guida il colloquio\r\nTerza figura in disparte possibile assistente o testimone\r\n\r\nStile e resa\r\nPennellate misurate equilibrio tra figure e spazio architettonico\r\nAttenzione ai dettagli di abiti gesti sguardi per una coralità controllata\r\n\r\nAutore e periodo\r\nNatale Attanasio Catania 1845 Roma 1923 allievo di Domenico Morelli\r\nPittore di scene storiche letterarie e sacre\r\nOpera collocabile nella fase finale 1880 1900 con forte attenzione psicologica e ambientazioni precise\r\n\r\nContesto dell’autore\r\nTema coerente con la sua narrativa culturale accanto a Le tentazioni di San Girolamo Donne per i campi Le pazze esposte nella stessa sala dedicate a figure religiose popolari letterarie\r\n\r\nSignificato storico letterario\r\nRievocazione del rapporto fra Tasso e il mecenate Luigi d’Este negli anni ferraresi 1565 1572 decisivi per La Gerusalemme liberata\r\nRiflessione sulla tensione tra creatività e autorità\r\n\r\nLettura psicologica\r\nTasso rispettoso ma in bilico tra devozione e inquietudine\r\nCardinale autorevole e contemplativo\r\n\r\nCollocazione museale\r\nSala storica del Castello Ursino dedicata tra gli altri a Rapisardi e Attanasio integrazione di narrazioni letterarie spirituali e sociali nella visione collezionistica del museo\r",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f00bc26191fa33c489ba4db1eb59a24b",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/11 - DameECavalieriATavola.asset",
+    "ID": 11,
+    "Name": "11 - DameECavalieriATavola",
+    "Title": "DameECavalieriATavola",
+    "TitleLocalized": {
+      "21": "Dame e Cavalieri a Tavola",
+      "10": "Ladies and Knights at the Table"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "DameECavalieriATavola_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "DameECavalieriATavola_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "DameECavalieriATavola_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio, Interno con dame e cavalieri (seconda metà XIX secolo). Convivio aristocratico in gusto rococò: dame e gentiluomini in abiti settecenteschi, gesti misurati. il conte versa il vino. Sala con pavimento a scacchi, stoviglie dorate e candelabro. luce calda e uniforme esalta trame e ricami. Pennellata precisa, tavolozza di pastelli, rossi morbidi e oro. Elegante rievocazione storicista della ritualità di corte. Collezione De Federicis Brizzi.",
+      "10": "Natale Attanasio, Interior with Ladies and Cavaliers (late 19th century). An aristocratic banquet in Rococo taste: eighteenth-century dress, measured gestures. the count pours wine. A checkerboard floor, gilt tableware, and an iron chandelier shape the setting. warm, even light enhances textures and embroidery. Precise brushwork, a palette of pastels, soft reds, and gold. A historicist, elegant evocation of courtly ritual. De Federicis Brizzi Collection."
+    },
+    "InfoAudioKey": "DameECavalieriATavola_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nInterno elegante con dame e cavalieri attorno a una tavola ricostruzione d’ambiente storico\r\n\r\nSoggetto e atmosfera\r\nRaffinato convivio nobiliario\r\nDame e cavalieri raccolti intorno a un tavolo sontuoso in dialogo discreto\r\nAbiti settecenteschi con gonne ampie corpetti ricamati giacche ornate gusto rococò\r\nGesti misurati il conte versa un calice le dame si scambiano sguardi alcuni cavalieri conversano\r\n\r\nArredi e luce\r\nStoviglie dorate tovaglie broccate candelabro in ferro battuto che illumina la sala\r\nPavimento a scacchi con effetto prospettico\r\nLuce calda e uniforme che valorizza trame e tessuti\r\nTavolozza con colori pastello rossi morbidi beige e oro\r\nPennellata sicura e attenta al dettaglio\r\n\r\nAutore e contesto\r\nNatale Attanasio\r\nSeconda metà dell’Ottocento\r\nFilone storico costumista affiancato ad altre scene aristocratiche come Reception with Cardinal e a temi letterari o sacri\r\nIn seguito interesse per soggetti sociali e realistici come Donne per i campi e Le tentazioni di San Girolamo\r\nIn questa opera permane l’eleganza decorativa\r\n\r\nSignificato\r\nEvocazione della convivialità aristocratica e della memoria storica\r\n\r\nLettura storico sociale\r\nRievocazione dei rituali di convivialità dell’aristocrazia settecentesca con taglio di ricostruzione dei costumi tipico dello storicismo ottocentesco\r\nDimensione narrativa fatta di microstorie sguardi atteggiamenti interazioni di etichetta tra ceti elevati\r\n\r\nQualità pittorica\r\nMaestria nella resa dei tessuti nella luce artificiale e nella prospettiva interna\r\nLusso realistico ottenuto con equilibrio compositivo\r\n\r\nValore collezionistico\r\nOpera del patrimonio De Federicis Brizzi rappresentativa della predilezione per scene storiche e di genere\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4f9b2af27d60e06449eb5859c60b77c2",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/12 - Premiazione.asset",
+    "ID": 12,
+    "Name": "12 - Premiazione",
+    "Title": "Premiazione",
+    "TitleLocalized": {
+      "21": "Premiazione",
+      "10": "Award Ceremony"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "Premiazione_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Premiazione_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Premiazione_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio (fine XIX secolo), Premiazione. Scena cerimoniale in interno sontuoso (stucchi, colonne, tappeti, drappeggi): un dignitario porge medaglia o diploma a un giovane, mentre dame e cavalieri in semicircolo assistono con posture rituali. Luce morbida concentra il gesto centrale. cromie calde e tessuti ricchi. Pennellata precisa, equilibrio tra figure e architettura guidano lo sguardo. Opera di genere-costume che celebra merito e riconoscimento pubblico, in sintonia con sensibilità ottocentesche e ideali civili post-risorgimentali.",
+      "10": "Natale Attanasio (late 19th century), Award Ceremony. In a sumptuous interior—stucco, columns, carpets, drapery—a dignitary presents a medal or diploma to a youth, while ladies and cavaliers arrayed in a semicircle attend with formal poise. Soft lighting isolates the central gesture. warm hues and rich textures prevail. Precise brushwork and a balanced architecture-figure dialogue guide the gaze. A costume-genre tableau celebrating merit and public recognition, aligned with nineteenth-century sensibilities and post-Risorgimento civic ideals."
+    },
+    "InfoAudioKey": "Premiazione_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nScena cerimoniale in costume momento di premiazione evocazione della cultura ottocentesca\r\n\r\nSoggetto e azione\r\nPersonaggio centrale dignitario o mecenate che consegna un premio a un giovane\r\nGesto di porgere una medaglia o un diploma\r\nAssemblea raffinata di dame e cavalieri disposti in semicircolo con posture formali e sguardi rivolti al premiato\r\n\r\nAmbientazione e décor\r\nInterno elegante con stucchi colonne tappeti drappeggi possibile arazzo sullo sfondo\r\nAccessori ricercati guanti e copricapi\r\n\r\nLuce e colore\r\nLighting morbido concentrato sul gesto centrale che crea solennità\r\nColori caldi e ricche texture dei tessuti\r\nPennellata precisa e bilanciata\r\n\r\nComposizione\r\nEquilibrio tra figura oggetto e ambiente\r\nRitmo di sguardi e gesti che guida verso il centro della scena\r\n\r\nAutore e contesto\r\nNatale Attanasio fine XIX secolo\r\nOpera in linea con il filone di genere e di costume\r\nAffinità con Cardinale dame e cavalieri e Dame e cavalieri a tavola\r\nApprezzamenti nelle esposizioni artistiche dell’epoca per eleganza narrativa e cura ornamentale\r\nCollaborazioni a commissioni private per famiglie siciliane e romane\r\n\r\nSignificato\r\nCelebrazione della meritocrazia e del riconoscimento del valore nell’arte e nella società\r\n\r\nChiavi di lettura\r\nTema celebrativo legato all’ideale risorgimentale di valorizzazione del talento e dell’impegno\r\nNarrazione di costume che restituisce uno spaccato storico culturale\r\nSimbolismo del premio come valore morale gratitudine pubblica e codici educativi e comunitari ottocenteschi\r\n\r\nQualità tecnica\r\nUso della luce per accentuare il gesto\r\nAttenzione decorativa a favore dell’impatto scenografico\r\nPrecisione nei dettagli di moda e negli arredi\r\n\r\nCollocazione culturale\r\nDocumento collezionistico che integra il percorso museale con scene di vita sociale letteraria e religiosa e con racconti simbolici e storici\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "a795cf34fe9a5514ea07f32941f0d858",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/13 - PescatoreCongerlaCheCamminaSullaSpiaggia.asset",
+    "ID": 13,
+    "Name": "13 - PescatoreCongerlaCheCamminaSullaSpiaggia",
+    "Title": "PescatoreCongerlaCheCamminaSullaSpiaggia",
+    "TitleLocalized": {
+      "21": "Pescatore con Gerla che Cammina sulla Spiaggia",
+      "10": "Fisherman with Basket Walking on the Beach"
+    },
+    "Artist": "Francesco Lojacono",
+    "Date": "   ",
+    "RiddleTextKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_info_text",
+    "InfoTextLocalized": {
+      "21": "Francesco Lojacono (Palermo, 1838–1915), Pescatore con gerla. Sulla battigia, un pescatore avanza con la grande gerla. sul fondo compagni raccolgono frutti di mare e attrezzi. Mare calmo, cielo luminoso, orizzonte aperto. Pennellata fluida e luminosa. gamme dai blu sereni ai verdi pallidi, tocchi d’ocra sabbia. La figura centrale guida lo sguardo verso il largo. Lirico realismo che esalta la dignità del lavoro e l’armonia uomo-natura, confermando Lojacono “ladro del sole” per la maestria di acqua, luce e atmosfera.",
+      "10": "Francesco Lojacono (Palermo, 1838–1915), Fisherman with Creel. Along the foreshore a fisherman strides with a creel. in the distance others gather shellfish and tend gear. Calm sea, bright sky, open horizon. Fluid, luminous handling. a palette of serene blues and pale greens with sandy ochres. The central figure leads the eye seaward. Lyrical realism exalts the dignity of labor and the harmony between man and nature, confirming Lojacono as the “thief of the sun” for mastery of water, light, atmosphere."
+    },
+    "InfoAudioKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nPescatore in cammino con gerla ambientazione marittima luce naturale senso del quotidiano\r\n\r\nSoggetto e azione\r\nPescatore che avanza sulla battigia con grande gerla sulle spalle\r\nScenario marino con acqua bassa riflessi chiaroscurali luce mattutina o pomeridiana\r\nSul fondo altre figure di pescatori che raccolgono frutti di mare o sistemano attrezzi\r\nOrizzonte aperto mare calmo cielo luminoso\r\n\r\nComposizione e colore\r\nPennellata fluida e luminosa con tocchi finissimi\r\nTonalità dai blu sereni ai verdi pallidi dell’acqua con tocchi di sabbia ocra e carnazioni brune\r\nEquilibrio compositivo con il pescatore centrale che guida lo sguardo verso le altre figure e l’orizzonte\r\n\r\nAutore e contesto\r\nFrancesco Lojacono Palermo 1838 1915 paesaggista e docente\r\nCelebre per marine liriche e realistiche in linea con opere come Pescatori di telline\r\nPartecipazione a mostre nazionali e internazionali e consenso per la sensibilità verso luce e paesaggio costiero\r\nNegli anni Settanta dell’Ottocento stile che integra realismo sociale e raffinatezza formale\r\n\r\nInterpretazione\r\nEsaltazione del lavoro umile e quotidiano dei pescatori figura tipica del paesaggio siciliano\r\nValorizzazione della dignità del lavoro e dell’armonia tra uomo e natura\r\nRealismo poetico con luce morbida e silenzio operativo che creano clima contemplativo\r\nIdentità mediterranea attraverso pratiche tradizionali della pesca e sensibilità naturalistica dell’epoca\r\n\r\nQualità pittorica\r\nMaestria nella resa di acqua luce atmosfera\r\nConferma della fama di Lojacono come ladro del sole\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "adecbaa45d812c944b48bbfb11e53fb3",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/14 - IlCarroVendemmiaToscana.asset",
+    "ID": 14,
+    "Name": "14 - IlCarroVendemmiaToscana",
+    "Title": "IlCarroVendemmiaToscana",
+    "TitleLocalized": {
+      "21": "Il Carro, Vendemmia Toscana",
+      "10": "The Cart, Tuscan Harvest"
+    },
+    "Artist": "Luigi Gioli",
+    "Date": 1887,
+    "RiddleTextKey": "IlCarroVendemmiaToscana_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "IlCarroVendemmiaToscana_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "IlCarroVendemmiaToscana_info_text",
+    "InfoTextLocalized": {
+      "21": "Luigi Gioli (1854–1947), Vendemmia in Toscana. Carro a buoi colmo d’uva sostato al margine del vigneto. contadini e contadine scaricano, conversano, attendono. Sul fondo colline con cipressi e case rurali. Luce en plein air, realismo post-macchiaiolo. Equilibrio fra figure, animali e paesaggio. pennellata fluida, impasti misurati. terre e ocra, verdi dei filari, porpora dell’uva. Prospettiva atmosferica per profondità. Documento sociale e omaggio alla dignità del lavoro comunitario, emblema d’identità toscana.",
+      "10": "Luigi Gioli (1854–1947), Tuscan Harvest. An ox-drawn cart laden with grapes halts by the vines. peasants unload, talk, and wait. Rolling hills with cypresses and farmhouses recede. En plein air light, post-Macchiaioli realism. Balanced dialogue of figures, animals, and landscape. fluid strokes, measured impasto. warm earths and ochres, vine greens, grape purples. Atmospheric perspective lends depth. A social document and tribute to communal labor, affirming Tuscan identity through poetic realism of light and air."
+    },
+    "InfoAudioKey": "IlCarroVendemmiaToscana_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nPittura naturalistica rurale toscana dedicata alla vendemmia con uso sapiente della prospettiva atmosferica e funzione di documento sociale e visivo\r\n\r\nSoggetto e ambientazione\r\nCarro trainato da buoi carico di ceste d’uva fermo sul ciglio del vigneto\r\nContadini e contadine che scaricano raccolti conversano attendono\r\nSul fondo paesaggio collinare con cipressi e case rurali\r\nLuce naturale en plein air tipica del realismo toscano post macchiaiolo\r\n\r\nComposizione e colore\r\nEquilibrio tra figura animale e paesaggio\r\nPennellata fluida e luminosa tocchi finissimi impasti misurati non sovrabbondanti\r\nTonalità calde terra bruna e ocra verdi dei filari rosso porpora dell’uva\r\nAcqua e aria rese in chiave atmosferica per profondità e respiro\r\n\r\nAutore e contesto\r\nLuigi Gioli 1854 1947 avvocato divenuto pittore\r\nIspirazioni post macchiaioli e naturalismo europeo dopo Parigi 1878\r\nOpera nel corpus di paesaggi animati con figure e animali come i buoi che arano esposti a Venezia 1887\r\nPartecipazioni a rassegne importanti Biennale di Venezia 1887 Expo di Parigi 1889 Roma 1911\r\nContributo apprezzato per coerenza stilistica e sensibilità verso temi di terra e lavoro\r\n\r\nSignificato e lettura\r\nRappresentazione del lavoro agricolo con dignità e dimensione comunitaria della vendemmia\r\nDialogo armonioso tra uomo animali e natura nel solco della tradizione post macchiaiola\r\nRealismo poetico fondato su luce naturale e variazioni atmosferiche\r\nTestimonianza dell’identità toscana e del vissuto rurale di fine Ottocento con valenza etnografica e pittorica\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "709ab29c343ca6f4eac36efe66b24cfe",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/15 - MaggioPescatoreSedutoInContemplazioneDelMareAperto.asset",
+    "ID": 15,
+    "Name": "15 - MaggioPescatoreSedutoInContemplazioneDelMareAperto",
+    "Title": "MaggioPescatoreSedutoInContemplazioneDelMareAperto",
+    "TitleLocalized": {
+      "21": "Maggio: Pescatore Seduto in Contemplazione del Mare Aperto",
+      "10": "May: Fisherman Sitting in Contemplation of the Open Sea"
+    },
+    "Artist": "V. Gubricy de Dragon",
+    "Date": 1914,
+    "RiddleTextKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_info_text",
+    "InfoTextLocalized": {
+      "21": "Vittore Grubicy de Dragon (1851–1920), Pescatore contemplante. Su un promontorio, una figura minuta guarda il mare aperto: il paesaggio, più che l’uomo, è protagonista. Tavolozza sommessa—grigi intrisi di blu e giallo chiaro—e luce diffusa creano un silenzio rarefatto. Pennellate vibranti, di impronta divisionista non ortodossa, affidano alla distanza il senso poetico. Opera tarda: meditazione sull’infinito marino, tra naturalismo lirico e sensibilità simbolista.",
+      "10": "Vittore Grubicy de Dragon (1851–1920), Contemplating Fisherman. On a headland, a small figure faces the open sea. landscape eclipses man. A muted palette—greys tinged with pale blue and yellow—and diffused light evoke hushed calm. Vibrant, atmospheric strokes, intuitively divisionist, let distance carry the poem. A late work: meditation on the sea’s infinitude, poised between lyrical naturalism and a symbolist sensibility."
+    },
+    "InfoAudioKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nPescatore assorto davanti al mare connotazione poetica e contemplativa legata alla natura\r\n\r\nSoggetto e inquadratura\r\nPescatore isolato seduto su promontorio o argine\r\nSguardo rivolto al mare aperto\r\nFigura piccola per enfatizzare la vastità delle acque oltre l’orizzonte\r\n\r\nColore e luce\r\nTavolozza sommessa con grigi intrisi di blu pallido e giallo chiaro\r\nLuce diffusa quasi misteriosa che genera calma rarefatta e silenziosa\r\n\r\nTecnica e stile\r\nPennellate vibranti e atmosferiche\r\nStruttura divisionista intuitiva senza rigoroso puntinismo\r\nComposizione che affida il senso poetico all’aria e alla distanza\r\n\r\nAutore e contesto\r\nVittore Grubicy de Dragon 1851–1920 gallerista critico e artista\r\nDiviene pittore a fine Ottocento adottando progressivamente il divisionismo dopo aver promosso Segantini e Morbelli\r\nTarda produzione segnata da approccio emotivo alla luce e all’atmosfera in paesaggi lacustri e marini\r\nPresenza della figura contemplativa in dialogo con la natura affine a soluzioni di Morbelli e Benvenuti\r\n\r\nSignificato e lettura\r\nContemplazione dell’infinito marino e riflessione sul rapporto uomo natura\r\nSolitudine esistenziale il pescatore non lavora ma medita\r\nTransizione stilistica tra divisionismo emotivo e sensibilità simbolista\r\nPartecipazione alla tradizione simbolista italiana dove la figura è agente introspettivo nel paesaggio\r\n\r\nLuoghi e motivi ricorrenti\r\nCentralità di mari e laghi come Lario e Lago Maggiore\r\nInteresse per acque cieli e orizzonti come teatro di stati d’animo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "74ec4efc949c5644184ac481f74bdf4a",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/16 - Ciociara.asset",
+    "ID": 16,
+    "Name": "16 - Ciociara",
+    "Title": "Ciociara",
+    "TitleLocalized": {
+      "21": "Ciociara",
+      "10": "Woman from Ciociaria"
+    },
+    "Artist": "Cesare Maccari",
+    "Date": 1896,
+    "RiddleTextKey": "Ciociara_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Ciociara_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Ciociara_info_text",
+    "InfoTextLocalized": {
+      "21": "Cesare Maccari (1840–1919), Ciociara, 1896. Ritratto a mezza figura, lieve torsione e sguardo fiero. Costume tradizionale: gonna, gilet ricamato, scialle, copricapo, collana di corallo. Sfondo neutro e pennellata morbida concentrano l’attenzione. tavolozza calda (ocra, terre, rosso corallo). Ricami e gioielli resi con precisione, tra realismo e nitore quasi fotografico. Omaggio alla cultura popolare e alla dignità del volto contadino, con sensibilità proto-etnografica.",
+      "10": "Cesare Maccari (1840–1919), Ciociara (1896). Half-length portrait, slight turn and steady, dignified gaze. Traditional costume, skirt, embroidered bodice, shawl, headpiece, coral necklace. Neutral background and soft brushwork focus the figure. warm palette of ochres, earths, coral red. Embroidery and jewelry rendered with precision, balancing realism and near-photographic clarity. A tribute to Italian folk culture and the dignity of rural faces, anticipating twentieth-century ethnographic sensibilities."
+    },
+    "InfoAudioKey": "Ciociara_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e soggetto\r\nRitratto di giovane donna in abito ciociaro con sfondo naturale tavolozza calda e vibrante\r\n\r\nDescrizione della figura\r\nCostume tradizionale della Ciociaria Lazio meridionale\r\nGonna lunga gilet ricamato scialle copricapo\r\nCollana di corallo tipica della cultura contadina\r\nRitratto a mezza figura frontale con lieve torsione verso lo spettatore\r\nSguardo intenso consapevole dignitoso\r\n\r\nAmbientazione e colore\r\nSfondo neutro e indefinito per concentrare l’attenzione sulla protagonista\r\nPennellata morbida\r\nColori caldi ocra terra rosso corallo\r\nResa naturale del volto e delle stoffe\r\n\r\nDettagli formali\r\nRicami e gioielli descritti con precisione\r\nEquilibrio tra realismo e sensibilità quasi fotografica\r\n\r\nSignificato\r\nOmaggio alla cultura popolare italiana e alle identità locali\r\nRivendicazione della dignità del volto popolare\r\nAnticipazione di sensibilità etnografica novecentesca\r\n\r\nAutore e contesto\r\nCesare Maccari 1840–1919 noto per scene storiche e affreschi come Cicerone denuncia Catilina a Palazzo Madama\r\nCiociara 1896 segnala una svolta verso soggetti più intimi e realistici\r\nIn continuità con la pittura del costume e il genere contadino diffusi nell’Italia ottocentesca\r\nConfronto con opere affini di Giuseppe Pelizza da Volpedo e Giuseppe Palizzi pur restando pagina meno nota del percorso di Maccari\r\n\r\nLettura critica\r\nRappresentazione veristica del costume priva di folclorismi\r\nViso dignitoso postura fiera sguardo presente\r\nGamma cromatica equilibrata e chiaroscuro delicato al servizio di tessuti pelle e gioielli\r\n\r\nRilevanza culturale\r\nDocumento dell’interesse ottocentesco per il contadinismo con valore etnografico e spirituale\r\nOpera simbolica di identità regionale e memoria collettiva\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f472e490b1d54c34d8981d372961782e",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/17 - RitrattoDelPadre.asset",
+    "ID": 17,
+    "Name": "17 - RitrattoDelPadre",
+    "Title": "RitrattoDelPadre",
+    "TitleLocalized": {
+      "21": "Ritratto del Padre",
+      "10": "Portrait of the Father"
+    },
+    "Artist": "Antonio Mancini",
+    "Date": "   ",
+    "RiddleTextKey": "RitrattoDelPadre_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "RitrattoDelPadre_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "RitrattoDelPadre_info_text",
+    "InfoTextLocalized": {
+      "21": "Antonio Mancini (1852–1930), Ritratto del padre. Don Paolo, seduto al tavolino, profilo appena volto allo spettatore: baffi folti, occhi attenti. il capo poggia alla mano in gesto di lettura/meditazione. Luce soffusa e tavolozza di terre e ocra modellano il volto. impasto denso e fondo atmosferico concentrano l’introspezione. Manifesto del verismo maturo di Mancini: realismo espressivo, profondità psicologica e affetto filiale in un’immagine intima di risonanza internazionale.",
+      "10": "Antonio Mancini (1852–1930), Portrait of the Artist’s Father. Don Paolo sits at a small table, profile slightly turned toward the viewer: thick moustache, intent eyes. head resting on his hand in a reading/meditative pose. Soft light and an earth-ochre palette model the face. dense impasto and an atmospheric ground focus the introspection. A manifesto of Mancini’s mature verismo: expressive realism, psychological depth, and filial affection in an intimate image of international resonance."
+    },
+    "InfoAudioKey": "RitrattoDelPadre_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e soggetto\r\nRitratto del padre dell’artista intenso personale carico di affetto e introspezione\r\n\r\nDescrizione della scena\r\nDon Paolo Mancini seduto al tavolino\r\nVolto di profilo leggermente girato verso lo spettatore\r\nBaffi folti pelle vissuta occhi attenti e concentrati\r\nGesto di lettura o meditazione capo appoggiato alla mano\r\nLuce soffusa che esalta l’espressione riflessiva\r\n\r\nStile e resa\r\nImpostazione verista\r\nPennellate dense impasto materico su volto e abiti\r\nSfondo indefinito a macchie atmosferiche che accentua la centralità del soggetto\r\nTavolozza di terre e ocra\r\nContrasto tra luce calda e ombra profonda per profondità emotiva e realismo intenso\r\n\r\nAutore e contesto\r\nAntonio Mancini 1852 1930 figura chiave del Verismo italiano\r\nDagli anni Novanta pittura di impasto materico e forti accenti emotivi\r\nPeriodo romano e poi a Frascati con ritratti della cerchia familiare amici personalità\r\nIn questo clima affettivo Ritratto del padre emerge come lavoro intimo e personale dove la poesia del vissuto passa attraverso luce e superficie del volto\r\n\r\nSignificato\r\nCelebrazione della figura paterna e dei legami familiari\r\nSimbolo del legame tra generazioni e del rispetto filiale\r\nRicerca di spessore psicologico oltre la somiglianza\r\nStudio riflessione e saggezza dell’età come nucleo espressivo\r\n\r\nValore artistico\r\nManifesto del verismo maturo di Mancini\r\nRealismo espressivo materia pittorica resa di emozioni interiori\r\n\r\nRisonanza\r\nIngresso nel circuito museale internazionale con riproduzione alla Tate a conferma della rilevanza oltre il contesto italiano\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7030b97827d38e74486bbe9496bcbc26",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/18 - PaesaggioLombardo.asset",
+    "ID": 18,
+    "Name": "18 - PaesaggioLombardo",
+    "Title": "PaesaggioLombardo",
+    "TitleLocalized": {
+      "21": "Paesaggio Lombardo",
+      "10": "Lombard Landscape"
+    },
+    "Artist": "Lorenzo Delleani",
+    "Date": "   ",
+    "RiddleTextKey": "PaesaggioLombardo_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "PaesaggioLombardo_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "PaesaggioLombardo_info_text",
+    "InfoTextLocalized": {
+      "21": "Lorenzo Delleani (1840–1908), Paesaggio lombardo. Veduta en plein air di colline e corsi d’acqua, con case e figure appena accennate. Pennellate rapide e dense fissano una luce di momento, privilegiando atmosfera e respiro sul dettaglio. Tavolozza di verdi terrosi, ocra e grigi “nuvola”. piani equilibrati creano armonia. Opera della svolta post-1880, nutrita dai viaggi olandesi: diario visivo della natura padana in chiave impressionista italiana.",
+      "10": "Lorenzo Delleani (1840–1908), Lombard Landscape. An en plein air view of rolling hills and streamlets. houses and figures scarcely indicated. Quick, dense strokes seize a specific light, privileging atmosphere over detail. A palette of earthy greens, ochres, and cloud greys. balanced planes yield harmony. A post-1880 work shaped by Dutch travels: a visual diary of the Po plain in an Italian impressionist register."
+    },
+    "InfoAudioKey": "PaesaggioLombardo_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nPaesaggio delle campagne lombarde ampio respiro e luce diffusa in stile impressionista\r\n\r\nSoggetto e atmosfera\r\nVeduta lombarda o piemontese con colline morbide macchie arboree piccoli corsi d’acqua\r\nFigure e case appena accennate integrate senza turbare la serenità visiva\r\n\r\nTecnica e luce\r\nEsecuzione en plein air\r\nPennellate veloci dense luminose\r\nLuce di momento specifico della giornata che privilegia l’atmosfera rispetto all’architettura\r\n\r\nColore e composizione\r\nTonalità miste verdi terrosi ocra grigio nuvola\r\nEquilibrio tra piani paesaggistici per un impianto vivo e armonico\r\n\r\nAutore e contesto\r\nLorenzo Delleani 1840–1908 formato all’Accademia Albertina di Torino inizialmente autore di quadri storici\r\nDal 1880 svolta verso paesaggi dal vero con impasto denso e luminoso\r\nViaggi in Olanda nel 1883 che affinano tavolozza e osservazione in dialogo con il realismo fiammingo\r\nOpere esposte in sedi di rilievo tra cui Biennale di Venezia 1905\r\nPredilezione per vedute piemontesi e lombarde qui richiamate per il contatto intenso con la natura\r\n\r\nMetodo e pratiche\r\nApproccio verista e impressionista fondato sull’osservazione diretta post 1880\r\nPiccole tele come diario visivo con impressioni cronologiche talvolta annotate con giorno mese anno\r\n\r\nTerritorio e stagioni\r\nFocus su pianura e colline del Nord Italia con attenzione alla luce mutevole e al ritmo stagionale degli anni Ottanta dell’Ottocento\r\n\r\nSignificato e valore\r\nDocumento visivo delle campagne lombarde e della loro rappresentazione moderna\r\nMediazione storica e stilistica tra scuola romantica e fermenti impressionisti e divisionisti\r\nTestimonianza di una ricerca pittorica italiana orientata a una identità contemporanea fondata su luce atmosfera e sintesi dal vero\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "23497c59447846e4ca3fdddc6dd4194c",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/19 - LaCuoca.asset",
+    "ID": 19,
+    "Name": "19 - LaCuoca",
+    "Title": "LaCuoca",
+    "TitleLocalized": {
+      "21": "La Cuoca",
+      "10": "The Cook"
+    },
+    "Artist": "Domenico Induno",
+    "Date": "ca. 1865",
+    "RiddleTextKey": "LaCuoca_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LaCuoca_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LaCuoca_info_text",
+    "InfoTextLocalized": {
+      "21": "Domenico Induno, La cuoca. In un umile interno, accanto a tavolo rustico e camino, una donna cucina alla luce di una finestra. Toni terrosi (ocra, sabbie, bruni) con accenti verdi. pennellata rapida e materica. Volto raccolto, non minuzioso: dignità e concentrazione. Verismo lombardo di genere, empatico e privo di moralismi, in dialogo con la tradizione post-1848. Un elogio del lavoro quotidiano e una testimonianza della vita popolare ottocentesca.",
+      "10": "Domenico Induno, The Cook. In a humble interior, beside a rustic table and hearth, a woman works by window light. Earth tones—ochres, sands, browns—with green accents. brisk, tactile brushwork. The unelaborate, absorbed face conveys dignity and focus. A Lombard genre verismo painted with empathy, free of moralizing, and resonant with post-1848 realism. An homage to everyday labor and a vivid record of nineteenth-century popular life."
+    },
+    "InfoAudioKey": "LaCuoca_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nInterno domestico con cuoca in attività semplice diretto carico di dignità quotidiana\r\n\r\nSoggetto e ambiente\r\nDonna intenta a cucinare o svolgere faccende in un interno umile cucina o stanza popolare\r\nVicino a tavolo rustico e camino\r\nFinestra che illumina lo spazio con luce naturale\r\n\r\nColore e materia\r\nToni terrosi ocra sabbia marrone con accenti di verde sulle stoffe\r\nPennellata rapida e materica\r\nVolto non minuzioso ma concentrato e dignitoso\r\nArredi delineati pentole stoviglie credenza in un contesto essenziale ma vissuto\r\n\r\nAutore e contesto\r\nDomenico Induno dopo esordi storici e religiosi si dedica alla pittura di genere\r\nSuccesso con scene intime e patetiche come Al cader delle foglie 1859 e Un dramma domestico medaglia d’oro Vienna 1873 valutazionearte it e Wikipedia e Gogna Srl\r\nLa cuoca rispecchia ambienti poveri personaggi semplici pennellata empatica\r\nFortuna in esposizioni lombarde ed europee\r\n\r\nSignificato\r\nElogio della semplicità e del lavoro quotidiano tema centrale dell’Ottocento\r\n\r\nLettura sociale ed emotiva\r\nDocumentazione di vita popolare nel filone domestico caro a Induno ritratto con empatia senza moralismo ma per umanità fonti Wikipedia\r\nSguardo abbassato e atteggiamento introspettivo che evocano fatica riflessione rispetto per il lavoro essenziale\r\n\r\nStile\r\nVerismo di genere lombardo\r\nMateria pittorica luci naturali atmosfera raccolta\r\nRiferimenti a Hayez e impronta realista post 1848 Wikipedia e dimanoinmano it\r\n\r\nValore culturale\r\nIn contesto siciliano assume valenza etnografica mostrando la quotidianità domestica del periodo e favorendo la comprensione del ruolo femminile nel lavoro di casa\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "41edfa5f6354b864cb80de5dd8718483",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/20 - LaMorteDelTasso.asset",
+    "ID": 20,
+    "Name": "20 - LaMorteDelTasso",
+    "Title": "LaMorteDelTasso",
+    "TitleLocalized": {
+      "21": "La Morte del Tasso",
+      "10": "The Death of Tasso"
+    },
+    "Artist": "Domenico Morelli",
+    "Date": 1869,
+    "RiddleTextKey": "LaMorteDelTasso_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LaMorteDelTasso_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LaMorteDelTasso_info_text",
+    "InfoTextLocalized": {
+      "21": "Domenico Morelli, La morte di Torquato Tasso, 1869. Nel convento di Sant’Onofrio, il poeta giace su un letto, il capo reclinato. una corona d’alloro idealizzata e figure riverenti—una porge libro o medaglia—ne sanciscono il tributo. La luce radente da sinistra, su ocra e bruni con bianchi e azzurri, esalta il pathos. Pennellata sciolta di piena maturità. Visione romantica dell’isolamento del genio, tra storia e simbolo. Collezione Castello Ursino.",
+      "10": "Domenico Morelli, The Death of Torquato Tasso, 1869. In the convent of Sant’Onofrio, the poet lies with head bowed. an ideal laurel crown and attendants—one offering a book or medal—pay homage. Raking light from the left, over ochres and browns with whites and blues, heightens the pathos. Loose mature brushwork. A Romantic vision of the genius’s solitude, poised between history and symbol. Castello Ursino Collection."
+    },
+    "InfoAudioKey": "LaMorteDelTasso_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nDrammatica rappresentazione della morte di Torquato Tasso solo e sofferente nel convento di Sant’Onofrio luce radente che sottolinea la sofferenza fisica e psicologica accento su abbandono e solitudine del genio in sintonia con il Romanticismo\r\n\r\nDescrizione della scena\r\nIl poeta negli ultimi istanti coronato idealmente d’alloro\r\nFigure femminili e maschili gli rendono onore una porge libro o medaglia\r\nTasso giace su un letto tra panneggi e cuscini capo reclinato sguardo semichiuso immerso in luce calda\r\nSul fondo presenze secondarie rese in modo suggestivo e atmosferico\r\n\r\nColore e tecnica\r\nPalette con ocra marroni tonalità carne bianchi e azzurri delle vesti in contrasto con ombre profonde\r\nLuce orientata da sinistra che mette in risalto volto e fulcro dell’azione\r\nPennellata sciolta e vibrante tipica della maturità di Morelli\r\n\r\nAutore e contesto\r\nDomenico Morelli 1823–1901 figura trainante della Scuola Napoletana capace di unire tradizione storica accenti simbolisti e patriottici\r\nTra fine anni Sessanta e Settanta alterna soggetti religiosi letterari patriottici\r\nLa morte del Tasso insieme ad Arabo in preghiera conferma una visione umanistica del dramma interiore\r\n\r\nInterpretazione\r\nRappresentazione del genio incompreso e della tensione tra mondo interiore e società riflessione sull’alienazione intellettuale\r\nCelebrazione poetica momento emblematico della fine di Tasso con incoronazione figurativa a poeta nazionale\r\nIntreccio di storia e simbolo cura dei dettagli costume-storici e centralità del pathos\r\n\r\nCronologia e ricezione\r\nData 1869 fase di transizione dal romanticismo al simbolismo con intatto impatto narrativo ed emotivo\r\n\r\nCollocazione\r\nOpera nella collezione del Castello Ursino momento di riflessione letteraria e spirituale nella pinacoteca catanese\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ff03ca19caa5cc4499d112c798f8df4c",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/21 - LAddio.asset",
+    "ID": 21,
+    "Name": "21 - LAddio",
+    "Title": "LAddio",
+    "TitleLocalized": {
+      "21": "L’Addio",
+      "10": "The Farewell"
+    },
+    "Artist": "Francesco P. Michetti",
+    "Date": 1893,
+    "RiddleTextKey": "LAddio_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LAddio_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LAddio_info_text",
+    "InfoTextLocalized": {
+      "21": "Francesco Paolo Michetti (1851–1929), L’Addio. Scena di separazione: una figura, forse femminile, si congeda con gesto delle mani e sguardo incrociato. sullo sfondo, mare e viaggio. Pennellata densa ma delicata, luce radente crepuscolare, tavolozza calda dorata. Il verismo emozionale di Michetti traduce l’attimo struggente dell’abbandono in vibrazione cromatica e atmosfera, preludendo alle sue marine e alle narrazioni abruzzesi di fine Ottocento.",
+      "10": "Francesco Paolo Michetti (1851–1929), The Farewell. An emotional parting: a likely female figure bids goodbye, hands and gazes entwined. the sea behind suggests departure. Dense yet gentle brushwork, raking twilight light, a warm golden palette. Michetti’s emotional verismo turns the poignant instant of separation into chromatic vibration and atmosphere, foreshadowing his seascapes and Abruzzese narratives of the late nineteenth century."
+    },
+    "InfoAudioKey": "LAddio_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nL’Addio scena emozionale di separazione tra due figure con pennellata densa e vibrante e gamma cromatica drammatica\r\n\r\nComposizione\r\nFigura probabilmente femminile che si congeda da un’altra persona forse in lontananza\r\nGesto delle mani e incrocio degli sguardi come chiavi iconografiche\r\nPaesaggio marino sullo sfondo che suggerisce viaggio e distacco\r\n\r\nColore e pennellata\r\nTavolozza su toni caldi e dorati di atmosfera crepuscolare\r\nPennellate dense ma delicate orientate a evocare l’emozione più che la resa fotografica\r\n\r\nLuce e atmosfera\r\nLuce radente che avvolge personaggi e paesaggio\r\nTransizione emotiva e spaziale tra mattina e pomeriggio tra terra e mare\r\n\r\nAutore e contesto\r\nFrancesco Paolo Michetti 1851–1929 interprete del verismo emozionale italiano\r\nSensibilità paesaggistica e narrativa dopo soggetti urbani e religiosi\r\nAttenzione a scene popolari contadine pastorali marine\r\nL’Addio come tappa verso uno stile più lirico guidato da luce naturale sentimento tattilità del colore e preludio alle celebri marine e ai temi della vita quotidiana degli Abruzzi\r\n\r\nSignificato\r\nSimbolo visivo dell’abbandono e dell’ineluttabilità del distacco\r\nElemento centrale dell’estetica sentimentale e pittorica del secondo Ottocento\r\n\r\nLettura critica\r\nTema universale dell’addio con attimo struggente prima della partenza\r\nEmpatia e realismo emotivo ottenuti attraverso gesti luci colori\r\nFilone del verismo evocativo che integra sensibilità verista con cromie meditate e vibrazione della pennellata\r\n\r\nRilievo e fonti\r\nOpera legata alla pinacoteca Ursino come tassello dell’identità culturale locale tra fine Ottocento e primo Novecento\r\nInfluenza letteraria e fotografica nella pratica di Michetti con cronache abruzzesi e narrazione fluida tipica della sua produzione post 1890\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3ec8693bbd1c32345a4e512cd216b569",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/22 - AmoreEMorte.asset",
+    "ID": 22,
+    "Name": "22 - AmoreEMorte",
+    "Title": "AmoreEMorte",
+    "TitleLocalized": {
+      "21": "Amore e Morte",
+      "10": "Love and Death"
+    },
+    "Artist": "Calcedonio Reina",
+    "Date": 1881,
+    "RiddleTextKey": "AmoreEMorte_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "AmoreEMorte_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "AmoreEMorte_info_text",
+    "InfoTextLocalized": {
+      "21": "Calcedonio Reina, Amore e Morte, 1881. Acquistato dal Comune di Catania nello stesso anno. Nelle Catacombe dei Cappuccini (Palermo), due amanti si baciano tra teschi e mummie: gesto centrale, drappeggi plastici, colore ricco e teatrale. L’eredità morelliana si fonde con simbolismo mediterraneo dal tono macabro. Dialettica eros/thanatos: bellezza che nasce dal sepolcro, meditazione su desiderio e caducità. Icona ottocentesca dell’immaginario siciliano, sospesa tra visione e allegoria.",
+      "10": "Calcedonio Reina, Love and Death, 1881. Purchased by the City of Catania that same year. In Palermo’s Capuchin Catacombs, two lovers kiss amid skulls and mummies: the gesture is central. sculptural drapery and a rich, theatrical palette intensify pathos. Morellian training merges with Mediterranean Symbolism and a macabre inflection. The Eros/Thanatos dialectic—beauty blooming from the tomb—meditates on desire and transience. An emblematic nineteenth-century Sicilian image, poised between vision and allegory."
+    },
+    "InfoAudioKey": "AmoreEMorte_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e data\r\nCalcedonio Reina Amore e Morte 1881\r\n\r\nProvenienza\r\nAcquistato dal Comune di Catania nel 1881\r\n\r\nSoggetto e ambientazione\r\nBacio appassionato tra due amanti\r\nScenario delle catacombe dei Cappuccini di Palermo\r\nPresenza di teschi e mummie a sottolineare il contrasto tra amore e morte\r\n\r\nComposizione e resa\r\nCentralità del gesto del bacio\r\nDrappeggi curati e attenti al rilievo plastico\r\nUso del colore ricco e teatrale per intensificare pathos e atmosfera\r\n\r\nStile e influenze\r\nFormazione presso Domenico Morelli maestro della scuola napoletana\r\nEredità morelliana nell’uso del colore e nel trattamento dei panneggi\r\nAderenza alla cultura europea e alla corrente simbolista ottocentesca\r\n\r\nProfilo dell’autore\r\nPittore catanese con vena macabra ricorrente\r\nInteresse per temi emotivi e visionari con forte carica allegorica\r\n\r\nTemi e significato\r\nDialettica eros thanatos amore e morte come poli opposti e complementari\r\nBellezza che nasce dal luogo terribile del sepolcro trasformato in teatro di passione\r\nRiflessione sul limite tra vita desiderio e caducità\r\n\r\nLettura critica\r\nEsempio di simbolismo mediterraneo in chiave scenografica\r\nEquilibrio tra fascinazione macabra e intensità sentimentale\r\nIcona del bacio nell’arte per forza evocativa e memoria collettiva\r\n\r\nSintesi\r\nOpera che unisce suggestione funebre e lirismo amoroso\r\nCapace di coniugare tradizione morelliana sensibilità simbolista e identità siciliana\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "239801dbf06358b48a0c218c50a7cf7c",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/23 - IVespriSiciliani.asset",
+    "ID": 23,
+    "Name": "23 - IVespriSiciliani",
+    "Title": "IVespriSiciliani",
+    "TitleLocalized": {
+      "21": "I Vespri Siciliani",
+      "10": "The Sicilian Vespers"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "1864-1865",
+    "RiddleTextKey": "IVespriSiciliani_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "IVespriSiciliani_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "IVespriSiciliani_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi (Catania, 1822), formatosi a Roma e attivo a Firenze, unisce accademia e dramma. Nei Vespri Siciliani la scintilla è l’offesa di un soldato francese a una palermitana: la rivolta che pone fine al dominio angioino. Miscuglio di corpi, armi e volti. in primo piano la donna svenuta, a destra una coppia in difesa. possibile autoritratto che indica il fulcro. Tavolozza vibrante e ritmo corale fanno della storia memoria identitaria.",
+      "10": "Michele Rapisardi (Catania, 1822), trained in Rome and active in Florence, fuses academic rigor and drama. In The Sicilian Vespers a French soldier’s offense to a Palermo woman ignites the revolt ending Angevin rule. Bodies, weapons, and faces interlace. the fainted woman foregrounds tragedy, a couple defends at right. a possible self-portrait signals the focus. A vibrant palette and choral momentum turn history into a meditation on Sicilian identity."
+    },
+    "InfoAudioKey": "IVespriSiciliani_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Sezione\r\nOpere di Michele Rapisardi varietà cromatica che incanta\r\n\r\nBiografia essenziale\r\nNato a Catania il 27 dicembre 1822\r\nFormazione a Roma poi rientro a Catania con produzione di ritratti in stile romantico\r\nNel 1852 studi nelle principali città italiane d’arte\r\nStabilimento a Firenze con affermazione nel genere storico letterario\r\n\r\nOpera di spicco\r\nI Vespri Siciliani\r\n\r\nSoggetto e significato\r\nScena in cui un soldato francese offende una donna palermitana\r\nL’episodio scatena la vendetta e la rivolta popolare nota come i Vespri siciliani\r\nEsito storico fine della dominazione angioina\r\n\r\nComposizione e dinamica\r\nMiscuglio di corpi visi arti e armi che anima vivacemente la scena\r\nIn primo piano donna svenuta che amplifica la drammaticità\r\nA destra coppia che si stringe in gesto di difesa\r\nIpotesi autoreferenziale presenza del pittore che indica il focus della scena\r\n\r\nStile e resa\r\nTavolozza varia e vibrante\r\nEnergia narrativa tipica del romanticismo storico\r\nAttenzione al pathos e al movimento corale\r\n\r\nSintesi critica\r\nRapisardi unisce formazione accademica e sensibilità drammatica\r\nRitratti romantici e grandi scene storiche come capitoli di una stessa ricerca sulla memoria e sull’identità siciliana\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "03c8a8066c737f64f98a69ef63023216",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/24 - LIncuboDiElisabettaI.asset",
+    "ID": 24,
+    "Name": "24 - LIncuboDiElisabettaI",
+    "Title": "LIncuboDiElisabettaI",
+    "TitleLocalized": {
+      "21": "L’Incubo di Elisabetta I",
+      "10": "The Nightmare of Elizabeth I"
+    },
+    "Artist": "Pasquale Liotta",
+    "Date": "   ",
+    "RiddleTextKey": "LIncuboDiElisabettaI_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LIncuboDiElisabettaI_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LIncuboDiElisabettaI_info_text",
+    "InfoTextLocalized": {
+      "21": "Pasquale Liotta Cristaldi (1850–1903), L’incubo di Elisabetta I. Olio su tela (133×193 cm). La regina, destata dal sogno, vede Maria Stuart avanzare recando la propria testa. teschi e arredi gotici intensificano il presagio, mentre un vecchio figura l’incubo. Visione onirica che intreccia storia e leggenda, fra eros di corte e thanatos della decapitazione. Opera dal forte impatto scenico e simbolico, forse dedicata all’amico Calcedonio Reina, emblema della sensibilità ottocentesca catanese.",
+      "10": "Pasquale Liotta Cristaldi (1850–1903), Elizabeth I’s Nightmare. Oil on canvas (133×193 cm). The queen awakens to Mary Stuart advancing with her severed head. skulls and Gothic décor sharpen the omen, while an old man personifies the nightmare. A dream-vision weaving history and legend, between courtly eros and the thanatos of beheading. A work of strong theatrical and symbolic force—possibly dedicated to friend Calcedonio Reina—reflecting late-nineteenth-century Catanese sensibilities."
+    },
+    "InfoAudioKey": "LIncuboDiElisabettaI_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e autore\r\nPasquale Liotta Cristaldi 1850 1903 pittore catanese dell Ottocento\r\n\r\nContesto\r\nPeriodo ricco di scambi tra le arti e di affinità elettive\r\nProduzione intensa soprattutto locale\r\nOpera esposta insieme ad altri quadri ma capace di catturare sguardo e attenzione per storia colori e scena\r\n\r\nDati tecnici\r\nOlio su tela con cornice\r\nMisure 133 x 193 cm dimensione prossima a una scena reale\r\n\r\nSoggetto\r\nIncubo della regina Elisabetta I d Inghilterra\r\nLa sovrana si desta alla visione della cugina Maria Stuart che regge la propria testa\r\n\r\nProfilo storico\r\nMaria Stuart regina di Scozia di fede cattolica\r\nRivolta dei protestanti contro di lei\r\nFuga in Inghilterra in cerca di ospitalità dalla cugina Elisabetta I\r\nPrigionia per quasi vent anni\r\nEsecuzione finale per neutralizzare il fronte scozzese e l opposizione cattolica\r\n\r\nIconografia e stile\r\nPresenza di elementi gotici\r\nSimboli forti come i teschi alle spalle di Maria\r\nFigura di un vecchio interpretabile come personificazione dell incubo\r\nPossibile ritratto dell amico Calcedonio Reina cui Liotta dedica l opera\r\n\r\nLettura\r\nContrasto tra eros della vita di corte e thanatos della decapitazione\r\nVisione onirica che mescola storia leggenda e memoria affettiva dell artista\r\n\r\nSintesi\r\nOpera di forte impatto scenico e simbolico che unisce cultura locale sensibilità ottocentesca e immaginario gotico\r\nLa visione è più suggestiva dal vero ma attenzione alla cosiddetta sindrome di Stendhal\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "40c42a79ece9ff54e91127f00de58798",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/25 - PaesaggioConFigure.asset",
+    "ID": 25,
+    "Name": "25 - PaesaggioConFigure",
+    "Title": "PaesaggioConFigure",
+    "TitleLocalized": {
+      "21": "Paesaggio con Figure",
+      "10": "Landscape with Figures"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "1864-1875",
+    "RiddleTextKey": "PaesaggioConFigure_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "PaesaggioConFigure_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "PaesaggioConFigure_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi, Paesaggio animato da figure (studio, ca. 1864–1875). Bozzetto en plein air: sentiero, alberi radi, orizzonte aperto. contadini/pastori resi da rapidi accenni cromatici. Pennellata densa e calibrata, terre e verdi illuminati dai chiari di cielo. Immagine vibrante dal vero, in equilibrio fra spontaneità e racconto rurale. Tra Macchiaioli e romanticismo, lo studio verifica rapporti spaziali e tonali e alimenta le future composizioni storiche dell’artista.",
+      "10": "Michele Rapisardi, Landscape with Figures (study, c. 1864–1875). An en plein air sketch: dirt path, sparse trees, open horizon. peasants or herders indicated by quick chromatic touches. Dense, measured strokes. earth and greens brightened by sky highlights. A vibrant sight from life, balancing spontaneity and rural narrative. Between Macchiaioli influence and Romantic legacy, the study tests spatial and tonal relations and feeds the artist’s later historical compositions."
+    },
+    "InfoAudioKey": "PaesaggioConFigure_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nPaesaggio animato da figure studio atmosferico e narrativo\r\n\r\nSoggetto e ambientazione\r\nStudio preparatorio in formato quadro\r\nFigure umane contadini o pastori disperse in campagna\r\nSentiero sterrato alberi radi orizzonte aperto in luce naturale\r\n\r\nTecnica e colore\r\nPennellate rapide dense e calibrate\r\nToni terrosi e verdi con luminosità nei chiari di cielo e luce\r\nFigure rese come brevi accenni cromatici evocativi del gesto più che del dettaglio\r\n\r\nEsito visivo\r\nImmagine vibrante dal vero\r\nMateria pittorica che restituisce un momento di osservazione naturalistica spensierata\r\nEquilibrio tra composizione spontanea e struttura narrativa con allusione a una scena di vita rurale fedele all’osservazione diretta\r\n\r\nContesto nella produzione di Rapisardi\r\nDatazione probabile 1864–1875\r\nAnni in cui l’artista combina studi naturalistici anche di figura femminile con opere storiche drammatiche\r\nEsperienza sul campo che informa le pitture narrative e retoriche garantendo qualità visiva spontanea anche nelle grandi tele\r\nParziale emulazione dei Macchiaioli e attenzione ai mutamenti moderni\r\nIntegrazione dello studio dal vero con la tradizione romantico storico letteraria\r\n\r\nSintesi interpretativa\r\nUnione di paesaggio ed elemento umano come esercizio compositivo e narrativo\r\n\r\nChiavi di lettura\r\nPratica en plein air come impegno nella pittura dal vero bozzetto a diretto contatto con la natura che anticipa composizioni monumentali e storiche come I Vespri Siciliani\r\nVerifica dei rapporti spaziali e cromatici con l’accento umano come nucleo narrativo soggiacente\r\nTransizione dal romanticismo descrittivo verso un approccio più sicuro pulsante e aperto alle influenze realistiche e naturaliste vicine ai paesaggisti italiani\r\nValore documentario nella scelta di formato palette e movimento che elevano paesaggio e figure marginali a tema artistico legittimo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f794530baf3ac0a45a76aff65998daad",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/26 - BagnanteSedutaSuUnaCassa.asset",
+    "ID": 26,
+    "Name": "26 - BagnanteSedutaSuUnaCassa",
+    "Title": "BagnanteSedutaSuUnaCassa",
+    "TitleLocalized": {
+      "21": "Bagnante Seduta su una Cassa",
+      "10": "Bather Sitting on a Crate"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "BagnanteSedutaSuUnaCassa_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "BagnanteSedutaSuUnaCassa_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "BagnanteSedutaSuUnaCassa_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi, Donna bagnante seduta su una cassa (ca. 1864–1875). Studio intimista del nudo: giovane figura in posa rilassata, schiena arcuata, capo reclinato, sguardo introspettivo. Interno neutro da backstage. Luce morbida modella pelle e ombre leggere. tavolozza sobria di rosa, crema, verdi grigiati. Pennellata sciolta e controllata privilegia grazia e sospensione meditativa. In contrappunto ai grandi storici, segna una svolta lirica e simbolica nella ricerca matura di Rapisardi.",
+      "10": "Michele Rapisardi, Seated Bather on a Crate (c. 1864–1875). An intimate nude study: a young woman at rest, arched back, head inclined, inward gaze. Neutral, backstage-like interior. Soft light models skin and gentle shadows. a restrained palette—pinks, creams, greyed greens. Loose yet controlled brushwork favors grace and meditative suspension. In counterpoint to his historical canvases, the work signals a lyrical, symbolist inflection within Rapisardi’s mature practice."
+    },
+    "InfoAudioKey": "BagnanteSedutaSuUnaCassa_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nDonna bagnante seduta su una cassa studio della figura femminile in posa rilassata\r\n\r\nSoggetto e ambientazione\r\nGiovane bagnante o venere domestica seduta su cassa\r\nInterno neutro o backstage che evoca atmosfera del nudo lirico e femminile\r\nSchiena arcuata testa reclinata sguardo introspettivo capelli raccolti\r\n\r\nLuce e colore\r\nLuce morbida che fa emergere il corpo come forma delicata\r\nPelle resa con accenti chiari e ombre leggere che rivelano la materia pittorica\r\nTavolozza sobria rosa crema verde grigiastro con ombre soffuse\r\n\r\nStile e tecnica\r\nIntimismo lontano dalla monumentalità storica\r\nPennellata sciolta ma controllata a favore dell’eleganza naturale del soggetto\r\nImpronta simbolica e intimista più narrativa che anatomica\r\n\r\nContesto nella produzione di Rapisardi\r\nEsecuzione tra 1864 e 1875 fase matura con linguaggio più libero intimista e naturale\r\nIn contrappunto ai grandi quadri storici come I Vespri Siciliani\r\nRicorrenza del nudo in studi e bozzetti a conferma di versatilità e ricerca espressiva centrata sul contenuto emotivo\r\n\r\nLettura e significato\r\nStudio che esplora grazia e sensualità attraverso la figura femminile\r\nTransizione tematica in dialogo con altri nudi come Ofelia e Venere verso una pittura più intima poetica e di memoria estetica\r\nPsicologia della bagnante non virtuosismo anatomico ma quiete emotiva e sospensione meditativa\r\nLegame con la poetica figurativa europea di fine Ottocento sensibilità simbolista filtrata dalla formazione storica e romantica dell’artista\r\nValore estetico lirico maturità nel trattare il nudo con eleganza e misura senza eccessi accademici o compiacimenti sensuali\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ba096a54ff8bb5143ad94a7dcfa59f99",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/27 - PaesaggioConCascataDAcqua.asset",
+    "ID": 27,
+    "Name": "27 - PaesaggioConCascataDAcqua",
+    "Title": "PaesaggioConCascataDAcqua",
+    "TitleLocalized": {
+      "21": "Paesaggio con Cascata d’Acqua",
+      "10": "Landscape with Waterfall"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "1864-1875",
+    "RiddleTextKey": "PaesaggioConCascataDAcqua_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "PaesaggioConCascataDAcqua_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "PaesaggioConCascataDAcqua_info_text",
+    "InfoTextLocalized": {
+      "21": "Michele Rapisardi, Studio di cascata (ca. 1864–1875). In un bosco, l’acqua precipita su rocce tra bagliori e riflessi. Tavolozza di verdi e bruni con bianchi spumosi, equilibrio fra volume e trasparenza. Pennellata rapida e materica suggerisce freschezza, muschi, felci, energia del flusso. Studio dal vero a vocazione luministica, ponte fra grandi tele storiche e ricerca en plein air. composizione autonoma che unisce terreno, acqua e luce senza retorica.",
+      "10": "Michele Rapisardi, Study of a Waterfall (c. 1864–1875). In woodland, water cascades over rocks amid glints and reflections. A palette of greens and earth browns with foaming whites balances volume and transparency. Quick, tactile strokes evoke freshness—moss, ferns, the torrent’s energy. A light-driven study from life, bridging his historical canvases and en plein air research. an autonomous composition uniting ground, water, and light without rhetorical narrative."
+    },
+    "InfoAudioKey": "PaesaggioConCascataDAcqua_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nStudio pittorico di una cascata immersa in paesaggio naturale con attenzione a luce e movimento\r\n\r\nSoggetto e resa\r\nCascata in bosco con acqua che scroscia su rocce e giochi di luce e riflesso\r\nVegetazione resa con pennellate rapide e materiche che suggeriscono freschezza umidità vita silvestre\r\nColori dominanti verdi intensi bruni terrosi bianchi del getto d’acqua in equilibrio tra volume e trasparenza\r\nDettagli naturali muschi felci e tensione del flusso trattati con spontaneità senza idealizzazione\r\n\r\nEsito visivo\r\nImmagine vibrante dal vero centrata sull’energia dell’acqua e sull’atmosfera del sito\r\n\r\nContesto nella produzione di Rapisardi\r\nPeriodo 1864–1875 alternanza tra grandi opere come I Vespri Siciliani e studi naturalistici\r\nEsercizi en plein air e ricerca sulla luce naturale applicati a nudi ritratti e paesaggi\r\nAl Castello Ursino questi studi dialogano con le tele narrative rivelando un artista poliedrico tra storico intimista e paesaggista attento alle nuove suggestioni naturalistiche\r\n\r\nSignificato e lettura\r\nEsaltazione della potenza della natura mediante una tecnica orientata alla resa luministica\r\nTestimonianza di osservazione diretta la cascata è ricostruita con attenzione al vero e alle condizioni reali di luce\r\n\r\nFunzione e stile\r\nStudio preparatorio utile alle composizioni maggiori per integrare paesaggio figura e atmosfera con calibrata coesione\r\nSegnale di transizione matura verso uno stile più naturale vibrante e libero influenzato dal realismo italiano e dalla pratica dei paesaggisti\r\n\r\nValore compositivo\r\nStruttura autonoma e suggestiva anche isolata equilibrio tra terreno acqua e luce senza necessità di figure o retoriche narrative\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ecfa96dfbe422db42ad522f90df0acaa",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/28 - RitrattoDiMarioPapisardi.asset",
+    "ID": 28,
+    "Name": "28 - RitrattoDiMarioPapisardi",
+    "Title": "RitrattoDiMarioPapisardi",
+    "TitleLocalized": {
+      "21": "Ritratto di Mario Papisardi",
+      "10": "Portrait of Mario Papisardi"
+    },
+    "Artist": "Antonino Gandolfo",
+    "Date": "ca. 1934",
+    "RiddleTextKey": "RitrattoDiMarioPapisardi_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "RitrattoDiMarioPapisardi_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "RitrattoDiMarioPapisardi_info_text",
+    "InfoTextLocalized": {
+      "21": "Ritratto di Mario Rapisardi, poeta. Figura frontale, sguardo diretto che cerca relazione con l’osservatore. Abiti sobri in toni scuri. unico accento il colletto bianco. Su fondo anch’esso scuro, la figura tende a confondersi con lo spazio. Un tenue lampo di luce, dall’angolo alto destro, modella i volumi senza incrinare l’unità tonale. Impostazione essenziale, concentrata sul volto: un’indagine introspettiva. Opera non firmata e non datata.",
+      "10": "Portrait of Mario Rapisardi, a Poet. Frontal pose with a direct, searching gaze. Dark, sober dress. the only highlight is the white collar. Against a dark ground, the figure nearly merges with its surroundings. A faint shaft of light from the upper right shapes the volumes without breaking tonal unity. An essential, face-centered setup privileging introspection. Unsigned and undated."
+    },
+    "InfoAudioKey": "RitrattoDiMarioPapisardi_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Soggetto\r\nPoeta ritratto in posizione frontale con sguardo diretto verso l’osservatore in cerca di relazione visiva\r\n\r\nAbiti e dettagli\r\nVesti sobrie dai toni scuri\r\nUnico elemento in evidenza il colletto della camicia bianca\r\n\r\nAmbientazione\r\nSfondo scuro come negli altri ritratti dell’artista\r\nLa figura del poeta tende a uniformarsi allo spazio circostante\r\n\r\nLuce\r\nAccenno luminoso proveniente dall’angolo in alto a destra della tela\r\nIlluminazione minima che definisce i volumi senza interrompere l’unità tonale\r\n\r\nCarattere del ritratto\r\nImpostazione essenziale e concentrata sul volto\r\nRegistro introspettivo fondato su sguardo e misura cromatica\r\n\r\nDati tecnici\r\nAssenza di firma\r\nAssenza di data\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8cc110f9d2467be489dba99df010cb0f",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/29 - LOrientale.asset",
+    "ID": 29,
+    "Name": "29 - LOrientale",
+    "Title": "LOrientale",
+    "TitleLocalized": {
+      "21": "L’Orientale",
+      "10": "The Oriental"
+    },
+    "Artist": "Michele Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "LOrientale_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LOrientale_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LOrientale_info_text",
+    "InfoTextLocalized": {
+      "21": "Ritratto femminile d’origine orientale. La figura, dagli inconfondibili tratti somatici orientali, indossa stoffe preziose dipinte con estrema ricercatezza. Ricami lucenti e riflessi mettono in valore la trama, suggerendo tattilità e peso dei materiali. La tavolozza ricca esalta luminosità e cromie, mentre l’attenzione al dettaglio trasforma il virtuosismo tessile in emblema d’esotismo. Un’immagine che coniuga eleganza decorativa e identità culturale, specchio del gusto ottocentesco per l’Oriente.",
+      "10": "Female Portrait of Eastern Origin. The sitter’s unmistakably Eastern features pair with sumptuous textiles rendered with refined precision. Shimmering embroidery and highlights showcase weave and sheen, evoking the fabrics’ tactile weight. A rich palette enhances light and color, while meticulous detail turns textile virtuosity into a sign of exoticism. An image that unites decorative elegance and cultural identity, reflecting the nineteenth century’s fascination with the Orient."
+    },
+    "InfoAudioKey": "LOrientale_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e soggetto\r\nRitratto femminile di origine orientale\r\n\r\nAbbigliamento e resa pittorica\r\nStoffe preziose dipinte con ricercatezza\r\nAttenzione ai particolari di trama e riflessi\r\nRicami lucenti che amplificano il pregio dell’abito\r\n\r\nIdentità e caratteri\r\nLuccichio dei ricami come indizio della provenienza orientale\r\nTratti somatici orientali evidenziati con cura\r\n\r\nColore e materia\r\nTavolozza ricca che valorizza tessuti e luminosità\r\nSuperfici rese con finezza per suggerire tattilità e peso dei materiali\r\n\r\nContesto di gusto\r\nRimando al fascino ottocentesco per l’Oriente\r\nInteresse europeo per tessuti colori e fisionomie orientali in fase di scoperta\r\n\r\nSintesi interpretativa\r\nImmagine che coniuga eleganza decorativa e identità culturale\r\nIl virtuosismo nella resa dei tessuti diventa veicolo di esotismo e segno del gusto del tempo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "b679b9a3af85cbb40af0a2e9bbb0f189",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/30 - LaDesolazioneDel1814.asset",
+    "ID": 30,
+    "Name": "30 - LaDesolazioneDel1814",
+    "Title": "LaDesolazioneDel1814",
+    "TitleLocalized": {
+      "21": "La Desolazione del 1814",
+      "10": "The Desolation of 1814"
+    },
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "LaDesolazioneDel1814_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LaDesolazioneDel1814_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LaDesolazioneDel1814_info_text",
+    "InfoTextLocalized": {
+      "21": "Giuseppe Rapisardi, La desolazione del 1814. Memoria della Restaurazione borbonica in Sicilia: contadini, soldati e famiglie in interni e paesaggi spogli incarnano il trauma collettivo post-napoleonico. Tono cupo, impianto sobrio, centralità del pathos psicologico. equilibrio tra misura neoclassica e sensibilità romantica. L’accuratezza maturata in ritratti e sacre conversazioni si applica a un tema civile raro nella sua produzione. Documento pittorico della Sicilia preunitaria, in dialogo con le opere ottocentesche della famiglia Rapisardi.",
+      "10": "Giuseppe Rapisardi, The Desolation of 1814. A remembrance of the Bourbon Restoration in Sicily: peasants, soldiers, and families in bare interiors and landscapes embody post-Napoleonic trauma. Sombre tonality, sober design, and psychological pathos. a balance of Neoclassical measure and Romantic feeling. Draftsmanship honed in portraits and sacred scenes serves a rare civic subject in his oeuvre. A pictorial document of pre-unification Sicily, in dialogue with nineteenth-century Rapisardi works."
+    },
+    "InfoAudioKey": "LaDesolazioneDel1814_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nLa desolazione del 1814 memoria storica siciliana legata alla Restaurazione borbonica dopo l’occupazione napoleonica\r\n\r\nAtmosfera e soggetto\r\nGrafica cupa e intensamente emotiva\r\nFigure umane provate contadini soldati famiglie\r\nPaesaggi spogli o interni senza speranza come scenario simbolico di afflizione e smarrimento collettivo\r\n\r\nImpostazione visiva\r\nComposizione equilibrata con accenti neoclassico romantici\r\nCentralità del pathos psicologico\r\nToni scuri e impianto sobrio per amplificare l’intensità del tema storico\r\n\r\nAttribuzione e stile\r\nGiuseppe Rapisardi autore attento a psicologia e misura compositiva\r\nAccuratezza derivata dalla pratica in ritratti e sacre conversazioni applicata a un soggetto civile e storico\r\nScelta di una resa intima per tradurre il trauma della transizione politica del 1814\r\n\r\nContesto nell’opera di Rapisardi\r\nFormazione locale tra affreschi sacri dipinti mitologici e ritratti d’élite\r\nLa desolazione del 1814 come rara incursione in temi storico politici coerente con la sua sensibilità narrativa e introspettiva\r\n\r\nLettura critica\r\nTestimonianza del disagio della popolazione all’indomani del mutamento di potere\r\nIntrospezione che affianca la narrazione storica facendo emergere stati d’animo collettivi\r\nEquilibrio tra effetto realistico e sensibilità romantica nel solco del neoclassicismo siciliano\r\n\r\nValore e collocazione\r\nDocumento pittorico della Sicilia preunitaria e della cultura visiva ottocentesca\r\nInserimento nella sala dell’Ottocento in dialogo con altri dipinti della famiglia Rapisardi e ritratti di nobili catanesi\r\nContributo al percorso iconografico e culturale della città attraverso il racconto di una crisi storica\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "98ce1026c37e39649bad5c475b18f536",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/31 - DonnePerICcampi.asset",
+    "ID": 31,
+    "Name": "31 - DonnePerICcampi",
+    "Title": "DonnePerICcampi",
+    "TitleLocalized": {
+      "21": "Donne per i Campi",
+      "10": "Women in the Fields"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "DonnePerICcampi_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "DonnePerICcampi_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "DonnePerICcampi_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio, Donne per i campi. Scena di genere meridionale: contadine in cammino o in sosta, gonne alla caviglia e fazzoletti, immerse in ampi spazi rurali. Toni terrosi e verdi polverosi, luce delicata che scolpisce profili e profondità. Pennellata sobria, priva di decorativismi, per una visione verista che valorizza dignità del lavoro femminile, fatica condivisa e solidarietà comunitaria: un capitolo centrale della sua ricerca sociale.",
+      "10": "Natale Attanasio, Women in the Fields. A Southern Italian genre scene: peasant women walking or pausing, ankle-length skirts and headscarves, set within broad rural spaces. Earth tones and dusty greens. gentle light models contours and depth. Restrained brushwork, free of ornament, offers a verist view centred on the dignity of female labour, shared fatigue, and communal solidarity—an essential chapter in Attanasio’s socially engaged practice."
+    },
+    "InfoAudioKey": "DonnePerICcampi_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e tema\r\nDonne per i campi scena di genere realista ottocentesca nell’Italia meridionale\r\n\r\nSoggetto e atmosfera\r\nPiù contadine impegnate nel lavoro agricolo in un clima silenzioso e naturale\r\nAbiti semplici gonne alla caviglia fazzoletti in testa\r\nFigure che camminano o sostano con pose tranquille ma espressive\r\nSfondo di ampi spazi rurali con vegetazione a contrasto\r\n\r\nLuce e colore\r\nToni tenui e terrosi ocra verdi polverosi marroni caldi\r\nIlluminazione delicata che definisce i contorni e aggiunge profondità realistica\r\nAssenza di decorativismi eccessivi a favore della sobrietà\r\n\r\nAutore e contesto\r\nNatale Attanasio formato a Napoli con Domenico Morelli e attivo a Roma\r\nCelebre per scene di genere quadri storici e ritratti\r\nOpere affini Sunt lacrimae rerum Le pazze 1891 e Tasso e il cardinale d’Este\r\nDonne per i campi tra i contributi più significativi alla sua pittura di genere\r\n\r\nSignificato sociale e poetica\r\nAttenzione alla condizione delle classi lavoratrici rurali\r\nRitratto delle contadine con dignità e rispetto immerse nella quotidianità\r\nComunità femminile fatta di fatica condivisione e solidarietà\r\n\r\nImportanza e collocazione\r\nDimensione sociale che anticipa una lettura quasi etnografica del lavoro rurale\r\nInserimento nel percorso espositivo del Castello Ursino accanto a opere storiche e ritrattistiche per una visione articolata del realismo ottocentesco\r\nValore artistico nella resa spontanea e verista dei gesti essenziali coerente con la poetica dei fatti della vita di Attanasio\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87164a2087e23c84da3d92e382eac27a",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/32 - LeTentazioniDiSanGirolamo.asset",
+    "ID": 32,
+    "Name": "32 - LeTentazioniDiSanGirolamo",
+    "Title": "LeTentazioniDiSanGirolamo",
+    "TitleLocalized": {
+      "21": "Le Tentazioni di San Girolamo",
+      "10": "The Temptations of Saint Jerome"
+    },
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "LeTentazioniDiSanGirolamo_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LeTentazioniDiSanGirolamo_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LeTentazioniDiSanGirolamo_info_text",
+    "InfoTextLocalized": {
+      "21": "Natale Attanasio (Catania 1845–Roma 1923), Le tentazioni di San Girolamo. Il santo, seduto in meditazione con libro e simboli (croce, teschio), resiste a figure femminili evanescenti, demoniache allegorie del desiderio. Terra bruciata e rossi bruni definiscono Girolamo. le tentatrici, sfumate, vibrano in una luce sospesa. Fondo oscuro, lume concentrato su volto e mani. Visione insieme realista e simbolista, di intensa introspezione spirituale. Collezioni civiche catanesi.",
+      "10": "Natale Attanasio (Catania 1845–Rome 1923), The Temptations of Saint Jerome. The saint, absorbed in prayer with book, cross, and skull, withstands ethereal female figures—demonic allegories of desire. Burnt earth and reddish browns model Jerome, while the tempters shimmer in diffused light. A dark ground and focused glow on face and hands heighten tension. At once realist and symbolist, the painting conveys profound spiritual introspection. Catania civic collections."
+    },
+    "InfoAudioKey": "LeTentazioniDiSanGirolamo_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Tema e soggetto\r\nSan Girolamo seduto in contesto desertico o di studio mentre resiste alle tentazioni demoniache\r\nFigure femminili evanescenti come demoni o allegorie della tentazione che fluttuano con pose seduttive e atteggiamenti inquietanti\r\nLibri e simboli clericali come croce o teschio a incorniciare il santo in preghiera su un drappo scorbutico\r\n\r\nLuce colore atmosfera\r\nContrasto tra il santo a linee marcate e colori terrosi e le tentatrici in tonalità sfumate\r\nIlluminazione morbida sospesa che crea un’aura tra realtà e visione\r\nSfondo buio con luce fioca concentrata su volto mani e pieghe del mantello rosso marrone\r\n\r\nDescrizione della scena\r\nGirolamo seduto o genuflesso con tavoletta o libro fra le mani assorto in meditazione\r\nFigure femminili eteree sospese nell’aria avvolte da luce spettrale\r\nTensione psicologica tra rettitudine spirituale e seduzioni mondane delle presenze semitrasparenti\r\n\r\nAutore e contesto\r\nNatale Attanasio Catania 1845 Roma 1923 allievo di Domenico Morelli attivo tra Napoli Roma e Catania\r\nPittura storica di genere e religiosa\r\nLe tentazioni di San Girolamo presente nelle raccolte civiche catanesi e in dialogo con opere come Le pazze e Tasso e il cardinale d’Este\r\n\r\nSignificato\r\nTematica spirituale del ritiro nel deserto e delle insidie del demonio con forte introspezione\r\nValore espressivo nella resa delle figure inquietanti e nello sguardo intenso del santo\r\n\r\nLettura critica\r\nSintesi di sensibilità realista e decorso simbolico visionario con anticipazioni di inquietudini novecentesche\r\nOpera con funzione meditativa e devozionale e ruolo identitario nel percorso del Castello Ursino che unisce arte sacra storica e morale\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7db0fee102cf3cf4fa62c32f529f5349",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/33 - LEffettoDellHashish.asset",
+    "ID": 33,
+    "Name": "33 - LEffettoDellHashish",
+    "Title": "LEffettoDellHashish",
+    "TitleLocalized": {
+      "21": "L'effetto dell'hashish",
+      "10": "Effects of hashish"
+    },
+    "Artist": "Pasquale Liotta Cristaldi",
+    "Date": 1875,
+    "RiddleTextKey": "LEffettoDellHashish_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LEffettoDellHashish_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LEffettoDellHashish_info_text",
+    "InfoTextLocalized": {
+      "21": "Pasquale Liotta Cristaldi, L’effetto dell’hashish, 1875. XIX sala, Pinacoteca del Castello Ursino. Un giovane arabo in jellabah, il capo inclinato e un sorriso appagato, abbandona i sensi agli effetti dell’hashish. Interno scuro, rosso caldo del divano in risalto. ocra e bruni morelliani, fantasie floreali minuziose. Pennellata attenta al décor, atmosfera intima e sospesa. Orientalismo ottocentesco come spazio estetico e mentale: ritratto moderno dell’alterazione percettiva.",
+      "10": "Pasquale Liotta Cristaldi, The Effect of Hashish, 1875. 19th-Century Room, Castello Ursino Gallery. A young Arab in jellabah, head tilted and satisfied smile, yields to hashish’s effects. Dark interior set against a warm red sofa. Morellian ochres and browns, finely rendered floral patterns. Detail-conscious brushwork, intimate, suspended mood. Nineteenth-century Orientalism as aesthetic and mental space: a modern portrait of altered perception."
+    },
+    "InfoAudioKey": "LEffettoDellHashish_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e collocazione\r\nL’effetto dell’hashish Pasquale Liotta Cristaldi 1875\r\nXIX sala Pinacoteca del Castello Ursino\r\n\r\nAutore\r\nPasquale Liotta Cristaldi Acireale 1850 Catania 1903\r\nFormazione a Napoli presso l’Istituto di Belle Arti\r\nInfluenza di Domenico Morelli tavolozza ricca con toni scuri prevalenza di ocra e bruni\r\n\r\nTema e contesto\r\nScena di vita di un giovane arabo in momento di relax\r\nGusto ottocentesco per l’esotico e l’orientale\r\nRimando all’orientalismo introdotto in pittura da Eugène Delacroix e presente nella letteratura del secolo\r\nEsempio di dialogo tra arti e culture\r\n\r\nSoggetto\r\nUomo in veste marocchina jellabah\r\nAbbandono agli effetti dell’hashish\r\nCapo inclinato collo leggermente allungato\r\nSmorfia appagata che definisce l’espressione del volto\r\n\r\nComposizione e luce\r\nInterno con sfondo scuro\r\nDominante calda del rosso del divano in contrasto con il buio retrostante\r\nTonalità calde e brillanti che modellano figure e oggetti\r\nFantasie floreali vivaci rese con particolare accuratezza\r\n\r\nStile e resa\r\nPennellata attenta al dettaglio decorativo\r\nImpianto cromatico morelliano con equilibrio tra chiaroscuro e accenti saturi\r\nAtmosfera intima e sospesa con effetto di prossimità allo spettatore\r\n\r\nSignificato\r\nRappresentazione dell’alterazione percettiva e dell’abbandono sensoriale\r\nInterpretazione ottocentesca dell’Oriente come spazio estetico e mentale\r\nArmonia tra ornamento costume e psicologia del personaggio\r\n\r\nSintesi\r\nOpera che unisce orientalismo letterario e ricerca pittorica napoletana\r\nRitratto moderno per immediatezza quasi fotografica e immersività dello sguardo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "905bb76e4e0bc304aa6b4a5a1f4e6d9b",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/34 - IlProfeta.asset",
+    "ID": 34,
+    "Name": "34 - IlProfeta",
+    "Title": "IlProfeta",
+    "TitleLocalized": {
+      "21": "Il Profeta",
+      "10": "The Prophet"
+    },
+    "Artist": "Jusepe De Ribera",
+    "Date": 1613,
+    "RiddleTextKey": "IlProfeta_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "IlProfeta_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "IlProfeta_info_text",
+    "InfoTextLocalized": {
+      "21": "Jusepe de Ribera, detto lo Spagnoletto (Játiva, 1591), protagonista del Seicento napoletano e maestro del luminismo caravaggesco, poi schiarito dopo l’incontro con Velázquez (1630). Al Castello Ursino: Profeta (olio, c. 1613), mezzo busto barbuto con turbante e libro su fondo neutro, pagina esemplare del primo naturalismo. Vicende attributive: dagli inventari novecenteschi a Bologna (1953, Maestro del Giudizio di Salomone). restauri 1973 e 2011. Tra i capolavori più richiesti della Pinacoteca.",
+      "10": "Jusepe de Ribera, called Lo Spagnoletto (Játiva, 1591), a pillar of Neapolitan Baroque and master of Caravaggesque light, later softened after meeting Velázquez (1630). At Castello Ursino: Prophet (oil, c. 1613), a bearded half-length with turban and book against a neutral ground—an exemplar of early naturalism. Attribution history ranges from early museum inventories to Bologna’s 1953 proposal (Master of the Judgment of Solomon). restorations in 1973 and 2011. Today, among the gallery’s most requested highlights."
+    },
+    "InfoAudioKey": "IlProfeta_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e autore\r\nJusepe de Ribera detto lo Spagnoletto nato a Játiva vicino Valencia nel 1591\r\n\r\nProfilo\r\nProtagonista della pittura napoletana seicentesca accanto a Luca Giordano Francesco Solimena Mattia Preti\r\nA Roma nel 1613 con opere documentate\r\nA Napoli dal 1616 forse chiamato dal Viceré conte di Osuna\r\n\r\nStile\r\nAdesione piena al luminismo caravaggesco pittura drammatica e tenebrosa con forti chiaroscuri\r\nViaggio a Napoli per studiare il periodo più tragico di Caravaggio\r\nIncontro con Velázquez nel 1630 svolta verso toni più pacati soggetti quotidiani colore più chiaro\r\n\r\nFortuna\r\nOpere diffuse nei maggiori musei Museo del Prado Metropolitan Museum di New York\r\n\r\nOpera al Castello Ursino\r\nProfeta olio su tela circa 1613 attribuito alla fase giovanile\r\nMezzo busto di uomo barbuto forse Averroè con turbante e libro\r\nSfondo neutro che esalta il soggetto cifra caravaggesca\r\nCollezione documentata negli inventari del Museo dagli anni Trenta registrata in origine come opera novelliana\r\nNel catalogo Libertini assegnata al XVIII secolo\r\n\r\nStoria attributiva e restauri\r\nNel 1953 Ferdinando Bologna ipotizza appartenenza a una serie iconografica e attribuisce al Maestro del Giudizio di Salomone denominazione introdotta da Roberto Longhi per un anonimo caravaggesco dalla personalità ancora fluida\r\nRestauro 1973 a cura del professor Nicolosi con prime correzioni\r\nFine anni Ottanta la direzione del Museo identifica il soggetto come profeta o padre della Chiesa più che il filosofo arabo\r\nRestauro 2011 con reintegrazione di cadute di colore e correzione di ossidazioni\r\n\r\nSintesi\r\nPagine esemplare del primo naturalismo caravaggesco a Napoli\r\nUno dei fiori all’occhiello della Pinacoteca di Castello Ursino oggi molto richiesta in ambito espositivo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "5d996e4c95df2634b89cefebdc6e5f15",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/35 - LAdorazioneDeiMagi.asset",
+    "ID": 35,
+    "Name": "35 - LAdorazioneDeiMagi",
+    "Title": "LAdorazioneDeiMagi",
+    "TitleLocalized": {
+      "21": "L'Adorazione dei magi",
+      "10": "The Adoration of the Magi"
+    },
+    "Artist": "Simone De Wobrek",
+    "Date": "   ",
+    "RiddleTextKey": "LAdorazioneDeiMagi_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "LAdorazioneDeiMagi_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "LAdorazioneDeiMagi_info_text",
+    "InfoTextLocalized": {
+      "21": "Simone De Wobrek, Adorazione dei Magi, 1585, olio e tempera su tavola, 399×235 cm. Fiammingo attivo in Sicilia, pone la Natività tra rovine classiche (Jacopo da Varagine: il Cristianesimo nasce dal paganesimo). Corteo affollato, fisionomie incisive, colori brillanti e forte chiaroscuro. in basso a sinistra il nano invita lo spettatore. Pala per la Compagnia del Celso, passata sul mercato dopo le leggi Siccardi. acquistata da G.B. Finocchiaro e donata al Castello Ursino.",
+      "10": "Simone De Wobrek, Adoration of the Magi, 1585, oil and tempera on panel, 399×235 cm. A Flemish painter active in Sicily, he sets the Nativity amid classical ruins (after Jacobus de Voragine: Christianity rising from pagan collapse). A crowded cortege with incisive faces, brilliant color, and strong chiaroscuro. at lower left a dwarf meets our gaze. Painted for Palermo’s Compagnia del Celso. after the Siccardi laws it entered the market, was bought by G.B. Finocchiaro, and gifted to Castello Ursino."
+    },
+    "InfoAudioKey": "LAdorazioneDeiMagi_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e dati\r\nAdorazione dei Magi Simone De Wobrek 1585 olio e tempera su tavola\r\n\r\nAutore e contesto\r\nPittore fiammingo attivo in Sicilia per oltre trent’anni\r\nOpera esposta al centro della sala del parlamento\r\n\r\nSoggetto e originalità\r\nNatività ambientata non nella mangiatoia ma tra rovine di architettura classica\r\nRiferimento a Jacopo da Varagine il Cristianesimo nasce dalle rovine del mondo pagano\r\n\r\nComposizione e stile\r\nSchiera ricca di personaggi con fisionomie accentuate e atteggiamenti vari\r\nColori brillanti e forte chiaroscuro a celebrare il trionfo della religione cristiana\r\nDettaglio memorabile il nano in basso a sinistra che guarda lo spettatore e invita alla partecipazione\r\n\r\nFormato e destinazione originaria\r\nGrande tavola 399 x 235 cm\r\nCommissione come pala d’altare per la chiesa palermitana della Compagnia del Celso\r\n\r\nProvenienza e storia collezionistica\r\nCon le leggi Siccardi 1866 1867 e la confisca dei beni ecclesiastici il dipinto passa sul mercato\r\nAcquistato dal collezionista siciliano Giovanbattista Finocchiaro\r\nAlla sua morte donato al Museo Civico del Castello Ursino insieme ad altre 122 opere\r\n\r\nSintesi\r\nCapolavoro tardo cinquecentesco che unisce iconografia sacra e citazione antiquaria\r\nLuce colore e teatralità corale rendono la scena un manifesto della fede cristiana nata dalle rovine del paganesimo\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3bc6f03fa83bf5c4784a5ac9f452f088",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/36 - CristoAllaColonna.asset",
+    "ID": 36,
+    "Name": "36 - CristoAllaColonna",
+    "Title": "CristoAllaColonna",
+    "TitleLocalized": {
+      "21": "Cristo alla colonna",
+      "10": "Christ at the Column"
+    },
+    "Artist": "Mario Minniti",
+    "Date": "   ",
+    "RiddleTextKey": "CristoAllaColonna_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "CristoAllaColonna_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "CristoAllaColonna_info_text",
+    "InfoTextLocalized": {
+      "21": "Mario Minniti (Siracusa, 1577–1640), allievo a Roma del Cavalier d’Arpino e vicino a Caravaggio, di cui fu amico e modello. Rientrato in Sicilia dal 1606, ricevette numerose commissioni. Cristo alla colonna (olio su tela, 140×106 cm) mostra impronta caravaggesca: fondo scuro, luce radente da sinistra, corpo di Cristo realistico in primo piano. Il flagellatore arretra nell’ombra. rosso della veste allude alla violenza, il drappo bianco alla purezza. Chiaroscuro drammatico: colpa contro innocenza.",
+      "10": "Mario Minniti (Syracuse, 1577–1640) trained in Rome with the Cavaliere d’Arpino, befriended Caravaggio and modelled for him. Back in Sicily from 1606, he received many commissions. Christ at the Column (oil on canvas, 140×106 cm) is distinctly Caravaggesque: dark ground, raking light from the left, Christ’s body rendered with stark realism. The scourger recedes into shadow. the red garment signals violence, the white cloth purity. A dramatic chiaroscuro opposing guilt and innocence."
+    },
+    "InfoAudioKey": "CristoAllaColonna_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e autore\r\nMario Minniti 1577 Siracusa – 1640 Siracusa\r\n\r\nFormazione e influenze\r\nApprendistato in Sicilia poi trasferimento a Roma nel 1593\r\nBottega del Cavalier d’Arpino\r\nIncontro con Michelangelo Merisi detto Caravaggio e assimilazione dello stile caravaggesco\r\nRapporto di amicizia modello e collaborazione con Caravaggio nella bottega di Lorenzo Carli\r\n\r\nRuolo di modello\r\nMinniti raffigurato da Caravaggio in più opere\r\nEsempio Fanciullo con canestro di frutta\r\n\r\nRientro in Sicilia\r\nDal 1606 attività in patria con numerose commissioni\r\nOpere conservate anche nel Museo del Convento dei Padri Cappuccini a Caltagirone\r\n\r\nOpera esposta\r\nCristo alla colonna\r\nOlio su tela 140 x 106 cm\r\nImpronta caravaggesca\r\n\r\nSoggetto e impostazione\r\nIspirazione alla Flagellazione di Cristo di Caravaggio\r\nSfondo scuro con figure che emergono per luce radente da sinistra\r\nCristo in primo piano corpo reso con forte realismo fulcro della scena\r\n\r\nPersonaggi e simboli\r\nFlagellatore alle spalle con volto non visibile per la scarsa luce\r\nVeste rossa del carnefice come segno di violenza e spargimento di sangue\r\nDrappo bianco in contrasto a indicare la purezza di Cristo\r\nSecondo flagellatore di spalle nell’atto di sottrarre il drappo\r\n\r\nSintesi critica\r\nDialogo diretto con il linguaggio di Caravaggio tra chiaroscuro drammatico e naturalismo\r\nComposizione centrata sul corpo di Cristo e su un lessico simbolico immediato luce contro tenebra colpa contro innocenza\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2fca43ce88f84ce4fb297e733cc592cb",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/37 - RitrattoDiGentiluomo.asset",
+    "ID": 37,
+    "Name": "37 - RitrattoDiGentiluomo",
+    "Title": "RitrattoDiGentiluomo",
+    "TitleLocalized": {
+      "21": "Ritratto di gentiluomo",
+      "10": "Portrait of a Gentleman"
+    },
+    "Artist": "El Greco",
+    "Date": 1575,
+    "RiddleTextKey": "RitrattoDiGentiluomo_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "RitrattoDiGentiluomo_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "RitrattoDiGentiluomo_info_text",
+    "InfoTextLocalized": {
+      "21": "Realizzata da El Greco intorno al 1575, questa opera rivela la sua maestria tecnica e sensibilità artistica. Colori, luce e gesto concorrono a evocare un intenso valore simbolico e narrativo.",
+      "10": "Created by El Greco around 1575, this work reveals the artist’s technical mastery and emotional sensitivity. Color, light, and gesture combine to convey a strong symbolic and narrative meaning."
+    },
+    "InfoAudioKey": "RitrattoDiGentiluomo_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Titolo e autore\r\nDomenikos Theotokopoulos detto El Greco nato a Creta intorno al 1541 morto a Toledo nel 1614\r\n\r\nFormazione e abilità\r\nApprendistato nella scuola cretese come iconografo\r\nMaestro con bottega a 22 anni\r\nCompetenze in pittura scultura disegno architettura\r\n\r\nItalia\r\nTrasferimento a Venezia centro di transito mediterraneo e meta di pittori greci\r\nIncontro con Tiziano e adesione alla scuola veneta\r\nDal 1570 soggiorno a Roma con posizione critica verso la Cappella Sistina\r\nLegame tecnico e stilistico con la tradizione italiana pur orientato alla grazia più che alla resa fedele del reale\r\n\r\nSpagna\r\nTrasferimento a Toledo in cerca di mecenatismo presso Filippo II che non apprezza pienamente la sua arte\r\nConsolidamento di uno stile personale\r\n\r\nOpera in mostra\r\nRitratto di gentiluomo attribuito a El Greco circa 1575\r\nOlio su tavola formato piccolo\r\nPinacoteca del Castello Ursino nel percorso Da Giotto a De Chirico a cura di Vittorio Sgarbi\r\nQuadro attualmente esposto\r\n\r\nDescrizione del ritratto\r\nGiovane uomo dal portamento elegante e fiero\r\nAbito scuro su sfondo scuro con ampio colletto bianco\r\nSguardo diretto e intelligente rivolto allo spettatore\r\nImpostazione che dialoga idealmente con la Maddalena di Caravaggio esposta di fronte\r\n\r\nStile e riferimenti\r\nAscendenze venete manierismo e Rinascimento veneziano\r\nRimandi a Tintoretto e al Tiziano tardo nei colori e nelle linee\r\nPittura orientata alla grazia alla tensione spirituale alla verticalità delle forme\r\n\r\nFortuna critica\r\nInfluenza su artisti del XX secolo tra cui espressionisti e Pollock\r\nFigura di riferimento per la modernità per la libertà del segno e la dimensione visionaria\r\n\r\nInvito alla visione\r\nOpera che unisce eleganza ritrattistica e profondità psicologica\r\nEsperienza diretta consigliata nelle sale della Pinacoteca di Castello Ursino\r\n",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8f049763247eede42b4140d3b8ff8696",
+      "type": 3
+    },
+    "ExtraData": []
+  },
+  {
+    "AssetPath": "ScriptableObjects/Artworks/Catania - Kouros Artworks/99 - Kouros.asset",
+    "ID": 99,
+    "Name": "99 - Kouros",
+    "Title": "Kouros",
+    "TitleLocalized": {
+      "21": "Kouros",
+      "10": "Kouros"
+    },
+    "Artist": "Kouros artist",
+    "Date": 1983,
+    "RiddleTextKey": "Kouros_riddle_text",
+    "RiddleTextLocalized": {
+      "21": "",
+      "10": ""
+    },
+    "RiddleAudioKey": "Kouros_riddle_audio",
+    "RiddleAudio": null,
+    "InfoTextKey": "Kouros_info_text",
+    "InfoTextLocalized": {},
+    "InfoAudioKey": "Kouros_audio_text",
+    "InfoAudio": null,
+    "InfoAI": "Kouros AI INFO",
+    "FullResImage": {
+      "fileID": 0
+    },
+    "ExtraData": []
+  }
+]

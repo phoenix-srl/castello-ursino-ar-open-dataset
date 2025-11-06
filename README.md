@@ -47,6 +47,12 @@ These images are used for **AR-based artwork recognition** and contextual museum
 
 ---
 
+### 🗂️ Artworks Data
+
+Folder containing structured information about the paintings, used by the smart assistant to provide details to users.
+
+---
+
 ## 📜 License
 
 All assets are provided exclusively for **research, education, cultural heritage enhancement, and non-commercial use**.  
