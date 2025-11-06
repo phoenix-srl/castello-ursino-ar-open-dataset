@@ -1,0 +1,249 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/34 - IlProfeta.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "34 - IlProfeta",
+    "m_EditorClassIdentifier": null,
+    "ID": 34,
+    "Title": "IlProfeta",
+    "Artist": "Jusepe De Ribera",
+    "Date": 1613,
+    "RiddleTextKey": "IlProfeta_riddle_text",
+    "RiddleAudioKey": "IlProfeta_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "5d996e4c95df2634b89cefebdc6e5f15",
+      "type": 3
+    },
+    "InfoTextKey": "IlProfeta_info_text",
+    "InfoAudioKey": "IlProfeta_audio_text",
+    "InfoAI": "Titolo e autore\nJusepe de Ribera detto lo Spagnoletto nato a Játiva vicino Valencia nel 1591\n\nProfilo\nProtagonista della pittura napoletana seicentesca accanto a Luca Giordano Francesco Solimena Mattia Preti\nA Roma nel 1613 con opere documentate\nA Napoli dal 1616 forse chiamato dal Viceré conte di Osuna\n\nStile\nAdesione piena al luminismo caravaggesco pittura drammatica e tenebrosa con forti chiaroscuri\nViaggio a Napoli per studiare il periodo più tragico di Caravaggio\nIncontro con Velázquez nel 1630 svolta verso toni più pacati soggetti quotidiani colore più chiaro\n\nFortuna\nOpere diffuse nei maggiori musei Museo del Prado Metropolitan Museum di New York\n\nOpera al Castello Ursino\nProfeta olio su tela circa 1613 attribuito alla fase giovanile\nMezzo busto di uomo barbuto forse Averroè con turbante e libro\nSfondo neutro che esalta il soggetto cifra caravaggesca\nCollezione documentata negli inventari del Museo dagli anni Trenta registrata in origine come opera novelliana\nNel catalogo Libertini assegnata al XVIII secolo\n\nStoria attributiva e restauri\nNel 1953 Ferdinando Bologna ipotizza appartenenza a una serie iconografica e attribuisce al Maestro del Giudizio di Salomone denominazione introdotta da Roberto Longhi per un anonimo caravaggesco dalla personalità ancora fluida\nRestauro 1973 a cura del professor Nicolosi con prime correzioni\nFine anni Ottanta la direzione del Museo identifica il soggetto come profeta o padre della Chiesa più che il filosofo arabo\nRestauro 2011 con reintegrazione di cadute di colore e correzione di ossidazioni\n\nSintesi\nPagine esemplare del primo naturalismo caravaggesco a Napoli\nUno dei fiori all’occhiello della Pinacoteca di Castello Ursino oggi molto richiesta in ambito espositivo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "5d996e4c95df2634b89cefebdc6e5f15",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_IlProfeta.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "5d996e4c95df2634b89cefebdc6e5f15",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_IlProfeta.jpg",
+      "FileSizeBytes": 141095
+    }
+  },
+  "SourceData": {
+    "Artista": "Lo Spagnoletto, Ribera",
+    "Titolo": "Lo spagnoletto",
+    "Descrizione": "Jusepe De Ribera, detto lo spagnoletto a causa della sua bassa statura, nacque a Jàtiva, vicino Valencia, nel 1591. Assieme ad altri pittori dell'epoca come Luca Giordano, Francesco Solimena, Mattia Preti, fu uno dei più importanti esponenti della pittura napoletana seicentesca. Nel 1613 la sua presenza è documentata a Roma dove lasciò opere pregevoli, mentre, nel 1616, si stabilì a Napoli, forse chiamato dal Vicerè Conte di Osuna. Il suo modo di dipingere era caratterizzato da una completa adesione al luminismo caravaggesco, con una pittura drammatica e tenebrosa, ricca di vistosi effetti chiaroscurali. Proprio per studiare il periodo più tragico ed intenso del Caravaggio, Jusepe si spinse a Napoli dove, molto importante, fu il suo incontro con Velazquez, che avvenne nel 1630 e che determinò un cambiamento nella sua pittura, diventando più pacata e quotidiana, con l'uso di un colore più chiaro. La sua collezione è molto vasta e distribuita tra i musei più importanti al mondo, come il Museo del Prado o il Metropolitan Museum di New York; tra le meravigliose opere del pittore iberico, il Museo Civico di Castello Ursino ha l'onore di possedere questo dipinto: un profeta, attribuito alla fase giovanile del pittore, un olio su tela datato 1613 circa. Come potete ammirare è la figura a mezzo busto di un uomo barbuto che, probabilmente, raffigura il filosofo arabo Averroè, con un turbante arabo in testa e un libro tra le mani, posizionato su uno sfondo neutro e uniforme che mette in risalto quello che è il soggetto centrale, tipica caratteristica dello stile caravaggesco. Quest'opera è documentata negli inventari del Museo fin dagli anni '30, registrata come opera novelliana mentre, nel catalogo Libertini, veniva assegnata al XVIII secolo. In seguito al primo restauro del dipinto, ad opere del professor Nicolosi, avvenuto nel 1973, alla fine degli anni '80 la direzione del Museo Civico diede informazioni riguardanti il soggetto del dipinto come un profeta o un padre della chiesa più che il filosofo arabo Averroè. Il professor Ferdinando Bologna suggerì, nel 1953, che quasi certamente faceva parte di una serie iconografica, attribuendo il dipinto al “Maestro del Giudizio di Salomone”, battezzato così dal Professor Roberto Longhi, dalla tela conservata nella Galleria Borghese di Roma, che definiva l'anonimo artista caravaggesco con una personalità “ancora fluida e mal definita”. Nel 2011 il dipinto subisce un altro restauro, correggendo le cadute di colore ed ossidazioni e, rendendo l'opera, come potete osservare, uno tra i fiori all'occhiello del Museo Civico di Castello Ursino e tra le più ambite dei vari musei sparsi nel mondo",
+    "Significato & importanza": "",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": ""
+  }
+}

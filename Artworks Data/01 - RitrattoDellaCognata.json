@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/01 - RitrattoDellaCognata.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "01 - RitrattoDellaCognata",
+    "m_EditorClassIdentifier": null,
+    "ID": 1,
+    "Title": "RitrattoDellaCognata",
+    "Artist": "Giuseppe Gandolfo",
+    "Date": 1823,
+    "RiddleTextKey": "RitrattoDellaCognata_riddle_text",
+    "RiddleAudioKey": "RitrattoDellaCognata_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "bda606bd6835fbe44aea6c97eeae645c",
+      "type": 3
+    },
+    "InfoTextKey": "RitrattoDellaCognata_info_text",
+    "InfoAudioKey": "RitrattoDellaCognata_audio_text",
+    "InfoAI": "Titolo\nRitratto della cognata\n\nSoggetto e ambientazione\nNobildonna cognata del pittore\nSfondo Catania con Etna fumante imponente e affascinante\nFinezze concentrate nella cura dei particolari\n\nStile e intenzione\nImpostazione neoclassica\nDefinizione del prototipo della donna aristocratica catanese di un tempo\n\nL’artista\nGiuseppe Gandolfo nato a Catania nel 1792\nPittore italiano dedito soprattutto al disegno\nAutore di numerosi ritratti di esponenti della cultura etnea\nConosciuto per riproduzioni di opere di Tiziano Raffaello Correggio\nTra i soggetti anche l’eruzione dell’Etna del 1852\nIl dipinto sull’eruzione assume valore aggiunto per la presenza dell’autore stesso\n\nSintesi del valore dell’opera\nRitratto che unisce eleganza aristocratica e identità catanese\nDialogo tra figura femminile e paesaggio vulcanico\nEsempio di neoclassicismo attento al dettaglio e alla resa dei caratteri sociali\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "bda606bd6835fbe44aea6c97eeae645c",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_RitrattoDellaCognata.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "bda606bd6835fbe44aea6c97eeae645c",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_RitrattoDellaCognata.jpg",
+      "FileSizeBytes": 2431246
+    }
+  },
+  "SourceData": {
+    "Artista": "Giuseppe Gandolfo",
+    "Titolo": "Ritratto della cognata",
+    "Descrizione": "Ritratto realistico e intimo della cognata del pittore, con attenzione ai dettagli espressivi del volto.\nRitratto realistico e intimo, in cui la figura femminile—a capo scoperto—guarda leggermente di lato. La pennellata è fluida, con un'attenzione affettuosa al volto. I toni caldi e l’illuminazione soffusa creano un’atmosfera di familiarità e riservatezza Treccani+2Wikimedia Commons+2Wikipedia+2Wikipedia+3itCatania+3Wikipedia+3.",
+    "Significato & importanza": "Dimostra l’abilità di Gandolfo nei ritratti intimi e familiari, offrendo una finestra sulla vita privata dell’artista.\n\nIdentifica la sensibilità ritrattistica di Gandolfo, dedito alla rappresentazione di affetti familiari e soggetti privati. \nIl quadro testimonia l’evoluzione del ritratto ottocentesco siciliano verso una resa psicologica piuttosto che decorative.",
+    "Immagine": "",
+    "Opera di rilievo": "16",
+    "Corridoio": "SX"
+  }
+}

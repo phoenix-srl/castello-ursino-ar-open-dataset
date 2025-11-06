@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/04 - AutoritrattoDiFamiglia.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "04 - AutoritrattoDiFamiglia",
+    "m_EditorClassIdentifier": null,
+    "ID": 4,
+    "Title": "AutoritrattoDiFamiglia",
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "    ",
+    "RiddleTextKey": "AutoritrattoDiFamiglia_riddle_text",
+    "RiddleAudioKey": "AutoritrattoDiFamiglia_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "0ebc54a8b79b2e44eaee31a976cdf5fe",
+      "type": 3
+    },
+    "InfoTextKey": "AutoritrattoDiFamiglia_info_text",
+    "InfoAudioKey": "AutoritrattoDiFamiglia_audio_text",
+    "InfoAI": "Titolo e soggetto\nRitratto di famiglia\n\nRilevanza\nUna delle opere più importanti e significative dell’artista\n\nImpostazione\nPersonaggi a mezzo busto\nCaratterizzazione fisionomica e psicologica intensa nelle espressioni dei volti\n\nCentro della scena\nAutoritratto del pittore\nMostra con la mano la propria tela ai figli\n\nFigure a destra\nMichele in fondo a destra anche lui pittore\nSguardo obliquo e distaccato\nConsapevolezza e sicurezza di sé\nTendenza a estraniarsi dal gruppo\n\nFigure in primo piano\nFrancesco in primo piano\nSguardo rivolto verso la madre\n\nFigure a sinistra\nMoglie e figlia\n\nFigure al centro in basso\nDue nipoti\n\nLuce e stile\nStraordinaria resa dei particolari\nUso sapiente della luce con richiami alla pittura rinascimentale",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "0ebc54a8b79b2e44eaee31a976cdf5fe",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_AutoritrattoDiFamiglia.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "0ebc54a8b79b2e44eaee31a976cdf5fe",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_AutoritrattoDiFamiglia.jpg",
+      "FileSizeBytes": 1588257
+    }
+  },
+  "SourceData": {
+    "Artista": "Giuseppe Rapisardi",
+    "Titolo": "Autoritratto con famiglia",
+    "Descrizione": "Ritratto familiare che ritrae l’artista con i propri cari, con composizione equilibrata e intimità domestica.\nL’opera ritrae Giuseppe Rapisardi insieme ai membri della sua famiglia, in un ambiente domestico carico di intimità. A benedire la scena è lo sguardo diretto e fiero dell’artista, posto al centro della composizione. Intorno a lui figurano i suoi cari – probabilmente la moglie e i figli – disposti in cerchio armonico, con abiti sobri ma eleganti tipici del Primo Ottocento.\nLo sfondo è neutro e senza dettagli, così da portare l’attenzione sul gruppo. La luce morbida illumina volti e mani, creando un clima caldo e gentile. L’uso del colore è tenue e armonioso: gamme beige, marroni e azzurri polverosi conferiscono all’opera un tono di quiete familiare. Le pennellate sono morbide, ma portano un’efficace resa psicologica della relazione tra padre e figli.\nGiuseppe Rapisardi, pittore di formazione neoclassica con influssi romantici, fu prolifico in ritratti, pale e affreschi religiosi Wikipedia. Suo figlio Michele divenne uno dei maggiori pittori siciliani dell’Ottocento. Questo Autoritratto di famiglia (1848) rappresenta una rara testimonianza privata: l’unione di un artista al culmine del suo percorso professionale e umano, che scelse di immortalare i propri affetti con questa intensa tela.",
+    "Significato & importanza": "Opera significativa per il suo valore affettivo e documentario, simbolo di unione familiare.\n\nVita e arte intrecciate: Come autoritratto con soggetto congiunti, l’opera testimonia la doppia funzione dell’arte: come mezzo di espressione personale e come strumento per fissare legami affettivi e generazionali.  \nDocumento sociale: Offre uno spaccato della borghesia catanese dell’epoca, nelle scelte di abbigliamento, pose e rapporti familiari.  \nRilevanza collezionistica: Donato al Castello Ursino dove è ancora esposto, il dipinto ha un importante valore per la memoria storica locale, sia artistica che genealogica. Wikipedia+13museocivicocastelloursino.comune.catania.it+13museocivicocastelloursino.comune.catania.it+13  \nStile e poetica: Espressione dello stile neoclassico-romantico di Rapisardi, con equilibrio compositivo e resa lirica delle emozioni familiari. Wikipedia",
+    "Immagine": "",
+    "Opera di rilievo": "1 - 11",
+    "Corridoio": "SX"
+  }
+}

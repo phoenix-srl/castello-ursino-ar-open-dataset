@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/09 - CardinaleDameECavalieri.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "09 - CardinaleDameECavalieri",
+    "m_EditorClassIdentifier": null,
+    "ID": 9,
+    "Title": "CardinaleDameECavalieri",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "CardinaleDameECavalieri_riddle_text",
+    "RiddleAudioKey": "CardinaleDameECavalieri_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "e0a8d6f74d55f814a93bd295cf71cbd6",
+      "type": 3
+    },
+    "InfoTextKey": "CardinaleDameECavalieri_info_text",
+    "InfoAudioKey": "CardinaleDameECavalieri_audio_text",
+    "InfoAI": "Titolo e tema\nScena aristocratica con cardinale dame e cavalieri in abiti sontuosi tipica della pittura storicista\n\nSoggetto e ambientazione\nCardinale in veste rossa che riceve dame e cavalieri in una sala d’epoca con tappeti specchi lampadari arredi preziosi\nDame in abiti settecenteschi con gonne ampie e tessuti ricamati\nCavalieri in abiti eleganti e atteggiamento composto\n\nResa e stile\nCura minuziosa di tessuti decorazioni d’oro espressioni dei volti gestualità\nCardinale al centro che guida la conversazione\nFigure attorno in effetto corale e ritualità sociale\nPennellate morbide e luci calde per un’eleganza di gusto rococò rivisitata in chiave ottocentesca\n\nAutore e contesto\nNatale Attanasio formatosi a Napoli e attivo a Roma noto per opere storiche ritratti e scene di genere\nRiconoscimenti negli anni Ottanta e Novanta tra biennali torinesi ed esposizioni siciliane\nFase matura in cui unisce ricostruzione costume storicista e calore pittorico coinvolgente\n\nSignificato storico sociale\nTestimonianza della moda e dei costumi d’epoca e documento della cultura visiva del tempo\nRievocazione dell’universo aristocratico e clericale dell’Ancien Régime filtrato dalla sensibilità ottocentesca che intreccia nostalgia e documentazione\n\nValore narrativo e tecnico\nRacconto di microstorie tra sguardi gesti relazioni di cortesia in equilibrio tra stampa di costume e affresco familiare della vita aristocratica\nCapacità di orchestrare grandi compagini unendo figure e ambiente con equilibrio compositivo precisione prospettica e ricchezza decorativa\n\nCircolazione\nOpera passata in aste internazionali a conferma dell’interesse anche sui mercati esteri\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "e0a8d6f74d55f814a93bd295cf71cbd6",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_CardinaleDameECavalieri.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "e0a8d6f74d55f814a93bd295cf71cbd6",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_CardinaleDameECavalieri.jpg",
+      "FileSizeBytes": 2703580
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Cardinale, dame e cavalieri",
+    "Descrizione": "Scena ambientata nell’aristocrazia con cardinali e dame in abiti sontuosi, tipico della pittura storicista.\n\nL’opera rappresenta una raffinata scena di genere storicista: un cardinale, con veste rossa, riceve dame e cavalieri in una sontuosa sala d’epoca, adornata con tappeti, specchi, lampadari e arredi preziosi. Le dame indossano abiti settecenteschi dalle lunghe gonne ampie e tessuti ricamati, i cavalieri sfoggiano abiti eleganti e atteggiamento composto.\nL'artista mostra grande cura nella resa dei dettagli: i tessuti, le decorazioni d’oro, l’espressione dei volti, la gestualità gestuale. Il cardinale al centro guida la conversazione, mentre le figure attorno creano un effetto corale, suggerendo ritualità sociale. Pennellate morbide e luci calde donano alla scena un’impronta elegante, simile alle ambientazioni rococò rivisitate in chiave ottocentesca.\n\nNatale Attanasio iniziò a Napoli e si trasferì a Roma, divenendo noto per opere storiche, ritratti e temi di genere Wikipedia+3Wikipedia+3Artvee+3. Negli anni Ottanta e Novanta, vinse riconoscimenti (biennali torinesi, esposizioni siciliane) e ritrasse scene di corte e città. Cardinale, dame e cavalieri appartiene alla fase in cui l’artista coniuga gusto per la ricostruzione costume‑storicista con un calore pittorico che coinvolge lo spettatore.",
+    "Significato & importanza": "Testimonianza della moda e dei costumi d’epoca, documento della cultura visiva del tempo.\n\n\nRievocazione storica e sociale: Il dipinto evoca l’universo aristocratico e clericale dell’Ancien Régime, ma visto con la sensibilità ottocentesca di Attanasio, che mescola nostalgia e documentazione.  \nValore narrativo: L'artista racconta microstorie – sguardi, gesti, relazioni di cortesia – in un quadro che è insieme stampa di costume e affresco familiare della vita aristocratica.  \nTecnica pittorica: Dimostra la capacità di Attanasio di lavorare su grandi compagini riunendo figura e ambiente con equilibrio compositivo, precisione prospettica e ricchezza decorativa.  \nTestimonianza espositiva: Il dipinto ha circolato nelle aste internazionali (catalogato come Visit with Cardinal - Borghese Family) Pinterest+1Invaluable+1, segno del suo interesse anche sui mercati esteri.",
+    "Immagine": "",
+    "Opera di rilievo": "13",
+    "Corridoio": "DX"
+  }
+}

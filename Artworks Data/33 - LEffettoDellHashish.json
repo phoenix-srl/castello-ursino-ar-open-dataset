@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/33 - LEffettoDellHashish.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "33 - LEffettoDellHashish",
+    "m_EditorClassIdentifier": null,
+    "ID": 33,
+    "Title": "LEffettoDellHashish",
+    "Artist": "Pasquale Liotta Cristaldi",
+    "Date": 1875,
+    "RiddleTextKey": "LEffettoDellHashish_riddle_text",
+    "RiddleAudioKey": "LEffettoDellHashish_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "905bb76e4e0bc304aa6b4a5a1f4e6d9b",
+      "type": 3
+    },
+    "InfoTextKey": "LEffettoDellHashish_info_text",
+    "InfoAudioKey": "LEffettoDellHashish_audio_text",
+    "InfoAI": "Titolo e collocazione\nL’effetto dell’hashish Pasquale Liotta Cristaldi 1875\nXIX sala Pinacoteca del Castello Ursino\n\nAutore\nPasquale Liotta Cristaldi Acireale 1850 Catania 1903\nFormazione a Napoli presso l’Istituto di Belle Arti\nInfluenza di Domenico Morelli tavolozza ricca con toni scuri prevalenza di ocra e bruni\n\nTema e contesto\nScena di vita di un giovane arabo in momento di relax\nGusto ottocentesco per l’esotico e l’orientale\nRimando all’orientalismo introdotto in pittura da Eugène Delacroix e presente nella letteratura del secolo\nEsempio di dialogo tra arti e culture\n\nSoggetto\nUomo in veste marocchina jellabah\nAbbandono agli effetti dell’hashish\nCapo inclinato collo leggermente allungato\nSmorfia appagata che definisce l’espressione del volto\n\nComposizione e luce\nInterno con sfondo scuro\nDominante calda del rosso del divano in contrasto con il buio retrostante\nTonalità calde e brillanti che modellano figure e oggetti\nFantasie floreali vivaci rese con particolare accuratezza\n\nStile e resa\nPennellata attenta al dettaglio decorativo\nImpianto cromatico morelliano con equilibrio tra chiaroscuro e accenti saturi\nAtmosfera intima e sospesa con effetto di prossimità allo spettatore\n\nSignificato\nRappresentazione dell’alterazione percettiva e dell’abbandono sensoriale\nInterpretazione ottocentesca dell’Oriente come spazio estetico e mentale\nArmonia tra ornamento costume e psicologia del personaggio\n\nSintesi\nOpera che unisce orientalismo letterario e ricerca pittorica napoletana\nRitratto moderno per immediatezza quasi fotografica e immersività dello sguardo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "905bb76e4e0bc304aa6b4a5a1f4e6d9b",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LEffettoDellHashish.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "905bb76e4e0bc304aa6b4a5a1f4e6d9b",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LEffettoDellHashish.jpg",
+      "FileSizeBytes": 1122630
+    }
+  },
+  "SourceData": {
+    "Artista": "Pasquale Liotta",
+    "Titolo": "L'effetto dell'hashish",
+    "Descrizione": "Descrizione visiva\nUn uomo è ritratto disteso di traverso su tappeti orientali, con il capo fasciato da un turbante leggero e il corpo avvolto in una tunica bianca. Il volto, inclinato all’indietro, è attraversato da un sorriso largo e appagato; gli occhi semichiusi suggeriscono abbandono e torpore. Il braccio sinistro si allunga mollemente verso il bordo del tappeto, le dita rilassate; l’altro mano poggia sul fianco, come a contenere un’onda di piacere o vertigine. Il corpo segue una diagonale che va dall’angolo in basso a sinistra verso destra, mentre cuscini rossi saturi fanno da contrappunto al bianco della veste. Sullo sfondo, immerso nel buio, si intravvede la sagoma sottile di un narghilè/una lampada, appena suggerita dalla luce. L’ambiente è spoglio ma riccamente “tessile”: tappeti, cuscini e motivi floreali decorativi amplificano la sensazione di morbidezza e calore.\nScelte formali\n\nColore: il contrasto tra il bianco della tunica e i rossi/bruni dei tessuti catalizza lo sguardo sul corpo. Il fondo blu-nero isola la figura e accentua l’effetto di sospensione.  \nComposizione: la diagonale del corpo e l’asimmetria delle braccia traducono in termini visivi l’idea di perdita di controllo; la posa è naturale ma “teatrale”, come colta nel culmine dell’estasi.  \nLuce: un’illuminazione concentrata modella le superfici (viso, mani, tibie) e lascia il resto nel penombra, evocando un interno notturno e intimo.  \nTatto e materia: la pittura indugia su pieghe, trame e ricami, quasi a farci “sentire” il contatto con stoffe e tappeti: è un piacere sensoriale che accompagna quello psichico.\n\n\nIn sintesi: Liotta usa il linguaggio del realismo attento alla resa dei materiali e l’immaginario orientalista per rappresentare un momento di estasi quieta. Il dipinto visualizza l’effetto dell’hashish come dolce abbandono sensoriale: un’esperienza al confine tra delizia e pericolo, che la pittura trasforma in icona estetica dell’Ottocento europeo.",
+    "Significato & importanza": "Il titolo, L’effetto dell’hashish (1875), orienta esplicitamente la lettura: Liotta rappresenta lo stato di euforia estatico-onirica indotto dalla sostanza. L’opera si inserisce nella più ampia fascinazione ottocentesca per l’“Oriente” e per gli stati alterati di coscienza: tra letteratura, resoconti di viaggio e medicina nascente, hashish e oppio erano al centro di curiosità estetica e di indagine scientifica.\n\nOrientalismo: turbante, narghilè, tappeti e cuscini costruiscono un ambiente esotico “immaginato” secondo il gusto europeo del tempo. Non è un interno documentario, ma un teatro dell’esotico funzionale al tema del piacere e dell’abbandono.  \nFisico e psichico: il sorriso, il capo reclinato, le dita abbandonate e la veste scivolata sul petto traducono pittoricamente i sintomi associati all’hashish (rilassamento, dilatazione del piacere, distacco dalla vigilanza). La diagonale del corpo e il fondo scuro danno forma visiva alla dissolvenza dei confini tra corpo e ambiente.  \nAmbivalenza morale: come in molta pittura del tempo, c’è un’ambiguità: da un lato l’incanto sensoriale e la resa seducente della scena; dall’altro, l’isolamento della figura e l’ombra che lo avvolge suggeriscono vulnerabilità e possibile smarrimento. Lo spettatore oscilla tra fascinazione e monito.  \nDettagli da notare (chiavi di lettura rapide)\n\nIl sorriso quasi “beato” e gli occhi socchiusi—indice di euforia controllata, non delirio.  \nLa mano sinistra flaccida e l’altra premuta sul costato—tensione minima, come a trattenere un brivido.  \nIl bianco della tunica come simbolo di leggerezza/assenza di peso, in contrasto coi rossi “caldi” del desiderio.  \nLa sagoma del narghilè appena percepibile—il consumo è suggerito, non spettacolarizzato.  \nLa cura tattile dei tessuti—il piacere non è solo psicotropo: è un trionfo dei sensi (tatto, calore, morbidezza).",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": "CX"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/37 - RitrattoDiGentiluomo.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "37 - RitrattoDiGentiluomo",
+    "m_EditorClassIdentifier": null,
+    "ID": 37,
+    "Title": "RitrattoDiGentiluomo",
+    "Artist": "El Greco",
+    "Date": 1575,
+    "RiddleTextKey": "RitrattoDiGentiluomo_riddle_text",
+    "RiddleAudioKey": "RitrattoDiGentiluomo_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8f049763247eede42b4140d3b8ff8696",
+      "type": 3
+    },
+    "InfoTextKey": "RitrattoDiGentiluomo_info_text",
+    "InfoAudioKey": "RitrattoDiGentiluomo_audio_text",
+    "InfoAI": "Titolo e autore\nDomenikos Theotokopoulos detto El Greco nato a Creta intorno al 1541 morto a Toledo nel 1614\n\nFormazione e abilità\nApprendistato nella scuola cretese come iconografo\nMaestro con bottega a 22 anni\nCompetenze in pittura scultura disegno architettura\n\nItalia\nTrasferimento a Venezia centro di transito mediterraneo e meta di pittori greci\nIncontro con Tiziano e adesione alla scuola veneta\nDal 1570 soggiorno a Roma con posizione critica verso la Cappella Sistina\nLegame tecnico e stilistico con la tradizione italiana pur orientato alla grazia più che alla resa fedele del reale\n\nSpagna\nTrasferimento a Toledo in cerca di mecenatismo presso Filippo II che non apprezza pienamente la sua arte\nConsolidamento di uno stile personale\n\nOpera in mostra\nRitratto di gentiluomo attribuito a El Greco circa 1575\nOlio su tavola formato piccolo\nPinacoteca del Castello Ursino nel percorso Da Giotto a De Chirico a cura di Vittorio Sgarbi\nQuadro attualmente esposto\n\nDescrizione del ritratto\nGiovane uomo dal portamento elegante e fiero\nAbito scuro su sfondo scuro con ampio colletto bianco\nSguardo diretto e intelligente rivolto allo spettatore\nImpostazione che dialoga idealmente con la Maddalena di Caravaggio esposta di fronte\n\nStile e riferimenti\nAscendenze venete manierismo e Rinascimento veneziano\nRimandi a Tintoretto e al Tiziano tardo nei colori e nelle linee\nPittura orientata alla grazia alla tensione spirituale alla verticalità delle forme\n\nFortuna critica\nInfluenza su artisti del XX secolo tra cui espressionisti e Pollock\nFigura di riferimento per la modernità per la libertà del segno e la dimensione visionaria\n\nInvito alla visione\nOpera che unisce eleganza ritrattistica e profondità psicologica\nEsperienza diretta consigliata nelle sale della Pinacoteca di Castello Ursino\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8f049763247eede42b4140d3b8ff8696",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_RitrattoDiGentiluomo2.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "8f049763247eede42b4140d3b8ff8696",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_RitrattoDiGentiluomo2.jpg",
+      "FileSizeBytes": 2099109
+    }
+  },
+  "SourceData": {
+    "Artista": "El Greco",
+    "Titolo": "Ritratto di gentiluomo",
+    "Descrizione": "Il pittore Domenikos Theotokopoulos, con nome d’arte “El Greco”, oppure il “ Greco”,  nacque in Grecia probabilmente nella città di Creta intorno al 1541 e morì nel 1614 a Toledo.\nEl Greco iniziò il suo apprendistato nella scuola cretese come pittore di icone, ma grazie al suo genio ben presto riuscì a diventare maestro e gestire una propria bottega a 22 anni, con abilità anche nella scultura, nei disegni e nel settore dell’architettura. Successivamente decise di lasciare Creta per trasferirsi a Venezia punto centrale di snodo del Mediterraneo, lo sapevate che Venezia era città meta dei pittori greci dell’epoca. In Italia conobbe il pittore Tiziano e ne diverrà suo discepolo. Nel 1570 andrà a vivere a Roma dove ha modo di ammirare la Cappella Sistina, ma, incredibile a dirsi, ne fece dura critica proponendosi di rinnovarne l’affresco nella sua interezza, disse di Michelangelo: “che era un bravo uomo ma non un bravo pittore”. Nonostante ciò molti critici hanno evidenziato un forte legame tra la tecnica pittorica di El Greco e quella del maestro italiano. La sua pittura tende alla grazia e non è finalizzata alla ricerca di una fedele resa della realtà. Ma come spesso accade tra gli artisti “genialoidi” aveva, si dice, un carattere difficile e fu costretto a trasferirsi a Toledo sperando di trovare un mecenate nella figura del sovrano Filippo II, che però non apprezzò la sua arte.\nPOTRAI AMMIRRARE UN “RITRATTO DI GENTILUOMO”\nSei già al Castello Ursino? Tra le sale, esattamente in Pinacoteca, esposto nel percorso della mostra Da Giotto a De Chirico, a cura di Vittorio Sgarbi, cerca il piccolo dipinto, solo per dimensioni, attribuito a El Greco, intorno al 1575 circa, olio su tavola, di un giovane uomo dal portamento elegante e fiero che sembra guardare “te” o  “La Maddalena” di Caravaggio proprio di fronte a lui. Nel ritratto è raffigurato un gentiluomo, non sappiamo chi esso sia, con un vestito scuro su sfondo ugualmente scuro. Esso è circondato da un lussuoso colletto bianco, lo sguardo sembra di una persona fiera, diretto e di fine intelligenza. Si tratta di un quadro che segue la scuola di pittura veneta. Manierismo e Rinascimento veneziano, Tintoretto e il tardo Tiziano, nei suoi colori nelle sue linee, i suoi maestri. Il XX secolo, gli espressionisti, Pollock, ed altri i suoi più moderni ammiratori. E tu? Sei un suo ammiratore? Non ti resta che venire.\n Il quadro è attualmente esposto in Pinacoteca\nProgetto di Alternanza Scuola Lavoro - dicembre 2017.",
+    "Significato & importanza": "",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": ""
+  }
+}

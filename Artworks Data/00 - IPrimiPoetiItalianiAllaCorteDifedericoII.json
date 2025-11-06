@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/00 - IPrimiPoetiItalianiAllaCorteDifedericoII.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "00 - IPrimiPoetiItalianiAllaCorteDiFedericoII",
+    "m_EditorClassIdentifier": null,
+    "ID": 0,
+    "Title": "IPrimiPoetiItalianiAllaCorteDiFedericoII",
+    "Artist": "Michele Rapisardi",
+    "Date": "1852–1854",
+    "RiddleTextKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_riddle_text",
+    "RiddleAudioKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4a663b095bfa89e47b3c1996f4533af9",
+      "type": 3
+    },
+    "InfoTextKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_info_text",
+    "InfoAudioKey": "IPrimiPoetiItalianiAllaCorteDiFedericoII_audio_text",
+    "InfoAI": "Descrizione\nBozzetto storico dedicato alla fioritura della cultura volgare italiana alla corte di Federico II\nPresenza di poeti come Jacopo da Lentini e Giacomo da Pistoia in ambiente colto e raffinato\nAmbientazione architettonica arabeggiante probabilmente nel cortile della Zisa\nTratto rapido e accurato che definisce gerarchie personaggi gesti e spazio\n\nComposizione e stile\nCorte sveva in radunanza solenne con poeti della Scuola Siciliana\nFigura di Federico II suggerita dall assetto delle figure più che rappresentata direttamente\nColori raffinati e pennellate studiate per vesti e gesti\nSpazio armonico con figure in dialogo e fondale essenziale da primo studio\nInterno cortese ispirato a fonti storiche o letterarie\nEquilibrio tra disegno e colore atmosfera narrativa ritmo delle figure\n\nContesto nella produzione di Rapisardi\nBozzetto completato nel 1854 durante la partecipazione alle promotrici fiorentine con soggetti storico letterari\nIn continuità con temi medievalisti come Dante e Beatrice\nInserito nel clima di promozione di una identità culturale nazionale post Risorgimento\nConsolidamento della reputazione dell artista in ambito nazionale\n\nRiconoscimenti\nMassima onorificenza della Promotrice di Firenze e medaglia d oro\nPremio della Società Promotrice di arte nel 1855 per valore storico e formale\nBozzetto preparatorio destinato a una composizione maggiore presentata alla Promotrice di Firenze\n\nSignificato e valore\nCelebrazione della Scuola poetica siciliana primo sviluppo della poesia in volgare italiano sotto Federico II\nOrgoglio della tradizione poetica siciliana e nascita della letteratura italiana\nOpera esemplare della pittura storicista romantica\nRilevanza per identità culturale e ricostruzione storica\nValore didattico come tramite tra conoscenza storica e creazione estetico letteraria\nRiferimento alla fase 1220 1260 della lirica in volgare e della metrica italiana\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4a663b095bfa89e47b3c1996f4533af9",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_IPrimiPoetiItalianiAllaCorteDiFedericoII.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4a663b095bfa89e47b3c1996f4533af9",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_IPrimiPoetiItalianiAllaCorteDiFedericoII.jpg",
+      "FileSizeBytes": 1291270
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "I primi poeti italiani alla corte di Federico II di Sicilia, bozzetto",
+    "Descrizione": "Bozzetto di un'opera storica che rappresenta la fioritura della cultura volgare italiana alla corte di Federico II, figura chiave del Medioevo. Il bozzetto mostra poeti come Jacopo da Lentini e Giacomo da Pistoia, immersi in un ambiente culturale raffinato. I dettagli del volto e delle vesti denotano un attento studio storico.\nQuesto bozzetto ritrae la corte medievale di Federico II, affollata da figure come Jacopo da Lentini e Giacomo da Pistoia, immersi in un ambiente architettonico arabeggiante, probabilmente un cortile della Zisa. Colori raffinati e pennellate studiate ricreano vesti e gesti dei poeti intenti in un momento collettivo di dialogo artistico Wikipedia+11Internet Archive+11itCatania+11.\n\nIl bozzetto raffigura una radunanza solenne nella corte sveva: al centro, la figura di Federico II (forse assente, suggerito dalla disposizione delle figure), è circondato da poeti della Scuola Siciliana – notabili letterati medievali rappresentati in abiti d’epoca – che mostrano pergamene o leggono i loro versi in un'atmosfera colta e regale. La composizione spaziale è armonica, con figure in dialogo e un fondale semplice, pensato appositamente come primo studio. Il tratto, veloce ma accurato, chiarisce la gerarchia dei personaggi, i rispettivi gesti e l'ambientazione: un internamento cortese probabilmente ispirato a fonti storiche o letterarie.\n\n🏛️ Contesto nella produzione di Rapisardi\nRapisa­rdi completò il bozzetto nel 1854, in un periodo in cui partecipava alle promotrice fiorentine con soggetti storici-letterari. L’opera seguiva precedenti temi medievalisti, come \"Dante e Beatrice\", e prese parte al clima artistico innescato dalla promozione di un’identità culturale nazionale post-Risorgimento Istituto MatteucciWikipedia. Ottenne la massima onorificenza dalla Promotrice di Firenze e una medaglia d’oro, consolidando l’artista nell’ambito nazionale.",
+    "Significato & importanza": "L’opera esprime l’orgoglio della tradizione poetica siciliana e la nascita della letteratura italiana. Importante per la ricostruzione storica e il messaggio identitario culturale che veicola.\n\nCelebra la Scuola poetica siciliana, prima fioritura della poesia volgare italiana sotto Federico II Wikipedia.  \nIl bozzetto ha vinto la medaglia d’oro alla Società Promotrice d’arte nel 1855, riconoscendo la sua valenza storica e formale carlovirgilio.it+4Internet Archive+4Wikipedia+4.  \nRilevante per l’identità culturale siciliana e come esempio di pittura storicista-romantica.\nRievocazione culturale e storica: L’opera riprende la famosa \"Scuola poetica siciliana\" sorta tra il 1220–1260 nella corte di Federico II, una fase pionieristica per la lirica in volgare e la metrica italiana scudit.net+13Storia dell'Arte+13Facebook+13Wikipedia+3Wikipedia+3Wikipedia+3.  \nCelebrazione letteraria: Rapisardi mira non solo alla rappresentazione storica ma soprattutto al recupero simbolico del valore poetico e culturale medievale italiano.  \nBozzetto preparatorio di grande valore: Non una finestra ornamentale, ma studio destinato a una composizione maggiore presentata alla Promotrice di Firenze, dove l’opera ottenne la medaglia d’oro nel 1855 Iris Unipa+15carlovirgilio.it+15itCatania+15Internet Archive+1Wikipedia+1.  \nStile e tensione artistica: L’equilibrio tra disegno e colore, la resa dell’atmosfera, e il ritmo delle figure rendono l’opera vivida e intenzionalmente narrativa.  \nValore didattico: Documenta un momento in cui la pittura storica fungeva da tramite tra conoscenza storica e creazione estetico-letteraria.",
+    "Immagine": "",
+    "Opera di rilievo": "2",
+    "Corridoio": "SX"
+  }
+}

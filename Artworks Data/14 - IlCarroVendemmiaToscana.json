@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/14 - IlCarroVendemmiaToscana.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "14 - IlCarroVendemmiaToscana",
+    "m_EditorClassIdentifier": null,
+    "ID": 14,
+    "Title": "IlCarroVendemmiaToscana",
+    "Artist": "Luigi Gioli",
+    "Date": 1887,
+    "RiddleTextKey": "IlCarroVendemmiaToscana_riddle_text",
+    "RiddleAudioKey": "IlCarroVendemmiaToscana_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "709ab29c343ca6f4eac36efe66b24cfe",
+      "type": 3
+    },
+    "InfoTextKey": "IlCarroVendemmiaToscana_info_text",
+    "InfoAudioKey": "IlCarroVendemmiaToscana_audio_text",
+    "InfoAI": "Titolo e tema\nPittura naturalistica rurale toscana dedicata alla vendemmia con uso sapiente della prospettiva atmosferica e funzione di documento sociale e visivo\n\nSoggetto e ambientazione\nCarro trainato da buoi carico di ceste d’uva fermo sul ciglio del vigneto\nContadini e contadine che scaricano raccolti conversano attendono\nSul fondo paesaggio collinare con cipressi e case rurali\nLuce naturale en plein air tipica del realismo toscano post macchiaiolo\n\nComposizione e colore\nEquilibrio tra figura animale e paesaggio\nPennellata fluida e luminosa tocchi finissimi impasti misurati non sovrabbondanti\nTonalità calde terra bruna e ocra verdi dei filari rosso porpora dell’uva\nAcqua e aria rese in chiave atmosferica per profondità e respiro\n\nAutore e contesto\nLuigi Gioli 1854 1947 avvocato divenuto pittore\nIspirazioni post macchiaioli e naturalismo europeo dopo Parigi 1878\nOpera nel corpus di paesaggi animati con figure e animali come i buoi che arano esposti a Venezia 1887\nPartecipazioni a rassegne importanti Biennale di Venezia 1887 Expo di Parigi 1889 Roma 1911\nContributo apprezzato per coerenza stilistica e sensibilità verso temi di terra e lavoro\n\nSignificato e lettura\nRappresentazione del lavoro agricolo con dignità e dimensione comunitaria della vendemmia\nDialogo armonioso tra uomo animali e natura nel solco della tradizione post macchiaiola\nRealismo poetico fondato su luce naturale e variazioni atmosferiche\nTestimonianza dell’identità toscana e del vissuto rurale di fine Ottocento con valenza etnografica e pittorica\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "709ab29c343ca6f4eac36efe66b24cfe",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_IlCarroVendemmiaToscana.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "709ab29c343ca6f4eac36efe66b24cfe",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_IlCarroVendemmiaToscana.jpg",
+      "FileSizeBytes": 1961683
+    }
+  },
+  "SourceData": {
+    "Artista": "Luigi Gioli",
+    "Titolo": "Il carro (vendemmia toscana)",
+    "Descrizione": "Pittura naturalistica di ambiente rurale toscano che raffigura la vendemmia con grande precisione. La scena include figure umane e animali, con un uso sapiente della prospettiva atmosferica. L’opera riflette l’interesse per il paesaggio come documento sociale e visivo.\n\nLa scena raffigura un momento genuino della vita rurale toscana: un carro trainato da buoi, carico di ceste piene d’uva appena raccolta, è fermo sul ciglio di un vigneto. Le figure umane – contadini e contadine – operano intorno al carro: alcuni scaricano i raccolti, altri conversano o attendono. In lontananza si intravede un paesaggio collinare con cipressi e case rurali, reso con ampie pennellate fluide e una luce naturale tipica del realismo toscano post‑macchiaiolo.\nIl colore è caldo, terra bruna e ocra, tra cui spiccano le tonalità verdi dei filari e il rosso‑porpora dell’uva. Le pennellate, impastate ma non sovrabbondanti, creano una scena vivida ma non overwrought—una rappresentazione realistica, senza idealizzazioni accademiche.\n\n🏛️ Contesto artistico\nLuigi Gioli (1854–1947), avvocato divenuto pittore, fu ispirato dagli sviluppi post‑macchiaioli e dal naturalismo europeo dopo un soggiorno a Parigi nel 1878 Pinterest+5Wikipedia+5Wikipedia+5Artnet+15Wikipedia+15Wikipedia+15. L’opera rientra nel suo corpus dedicato a paesaggi rurali animati da figure e animali, come i “buoi che arano” esposti a Venezia (1887) Wikipedia.\nPartecipò a importanti esposizioni – Biennale di Venezia (1887), Expo di Parigi (1889), Roma (1911) Pinterest+4Wikipedia+4Wikipedia+4 – e il suo contributo è oggi apprezzato per la coerenza stilistica e la sensibilità verso temi di terra e Lavoro.",
+    "Significato & importanza": "Evidenzia la relazione armoniosa tra uomo e natura, con valenza etnografica e pittorica. Documento di vita contadina e identità regionale.\n\n\nRappresentazione del lavoro agricolo: Il dipinto esalta la dignità del lavoro contadino e la dimensione comunitaria della vendemmia, tema caro alla corrente macchiaiola e post‑macchiaiola Casa d'aste Farsettiarte+3Wikipedia+3Didatticarte+3Casa d'aste Farsettiarte+7Wikipedia+7Aste Bolaffi+7InvaluableWikipedia.  \nDialogo tra uomo e natura: La composizione mette in evidenza l’armonia tra uomo, animale e paesaggio, mostrando un rapporto equilibrato e rispettoso con la campagna.  \nTecnica post‑macchiaiola: Gioli, influenzato dalla sperimentazione en plein air e da artisti come Degas, adotta pennellate libere e luminose, con un’attenzione particolare alla luce naturale e alla sua variazione atmosferica Casa d'aste Farsettiarte+2Wikipedia+2Wikipedia+2.  \nValore culturale: È una testimonianza visiva dell’identità toscana e del vissuto rurale fine Ottocento, documentando tradizioni osservate e raccontate con sensibilità pittorica.",
+    "Immagine": "",
+    "Opera di rilievo": "26",
+    "Corridoio": "DX"
+  }
+}

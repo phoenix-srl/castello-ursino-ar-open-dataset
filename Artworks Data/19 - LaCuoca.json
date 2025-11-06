@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/19 - LaCuoca.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "19 - LaCuoca",
+    "m_EditorClassIdentifier": null,
+    "ID": 19,
+    "Title": "LaCuoca",
+    "Artist": "Domenico Induno",
+    "Date": "ca. 1865",
+    "RiddleTextKey": "LaCuoca_riddle_text",
+    "RiddleAudioKey": "LaCuoca_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "41edfa5f6354b864cb80de5dd8718483",
+      "type": 3
+    },
+    "InfoTextKey": "LaCuoca_info_text",
+    "InfoAudioKey": "LaCuoca_audio_text",
+    "InfoAI": "Titolo e tema\nInterno domestico con cuoca in attività semplice diretto carico di dignità quotidiana\n\nSoggetto e ambiente\nDonna intenta a cucinare o svolgere faccende in un interno umile cucina o stanza popolare\nVicino a tavolo rustico e camino\nFinestra che illumina lo spazio con luce naturale\n\nColore e materia\nToni terrosi ocra sabbia marrone con accenti di verde sulle stoffe\nPennellata rapida e materica\nVolto non minuzioso ma concentrato e dignitoso\nArredi delineati pentole stoviglie credenza in un contesto essenziale ma vissuto\n\nAutore e contesto\nDomenico Induno dopo esordi storici e religiosi si dedica alla pittura di genere\nSuccesso con scene intime e patetiche come Al cader delle foglie 1859 e Un dramma domestico medaglia d’oro Vienna 1873 valutazionearte it e Wikipedia e Gogna Srl\nLa cuoca rispecchia ambienti poveri personaggi semplici pennellata empatica\nFortuna in esposizioni lombarde ed europee\n\nSignificato\nElogio della semplicità e del lavoro quotidiano tema centrale dell’Ottocento\n\nLettura sociale ed emotiva\nDocumentazione di vita popolare nel filone domestico caro a Induno ritratto con empatia senza moralismo ma per umanità fonti Wikipedia\nSguardo abbassato e atteggiamento introspettivo che evocano fatica riflessione rispetto per il lavoro essenziale\n\nStile\nVerismo di genere lombardo\nMateria pittorica luci naturali atmosfera raccolta\nRiferimenti a Hayez e impronta realista post 1848 Wikipedia e dimanoinmano it\n\nValore culturale\nIn contesto siciliano assume valenza etnografica mostrando la quotidianità domestica del periodo e favorendo la comprensione del ruolo femminile nel lavoro di casa\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "41edfa5f6354b864cb80de5dd8718483",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LaCuoca.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "41edfa5f6354b864cb80de5dd8718483",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LaCuoca.jpg",
+      "FileSizeBytes": 1525603
+    }
+  },
+  "SourceData": {
+    "Artista": "Domenico Induno",
+    "Titolo": "La cuoca",
+    "Descrizione": "Interno domestico con cuoca in attività, semplice e diretto, carico di dignità quotidiana.\nIl dipinto mostra una donna intenta a cucinare o svolgere faccende domestiche in un interno umile, forse una cucina o stanza popolare. Seduta o in piedi vicino a un tavolo rustico e un camino, si nota una finestra che illumina lo spazio in modo naturale. I toni dominanti sono terrosi — ocra, sabbia, marrone — con qualche accento di verde sulle stoffe. Il volto della cuoca, sebbene non dettagliato, trasmette concentrazione e dignità nel gesto quotidiano. Le pennellate, rapide e materiche, delineano gli arredi (pentole, stoviglie, credenza) in un contesto essenziale ma profondamente vissuto. Wikipedia\n\n🏛️ Contesto nella produzione di Induno\nDopo gli esordi con soggetti storici e religiosi, Domenico Induno si dedicò alla pittura di genere, ottenendo successo con scene intime e patetiche come Al cader delle foglie (1859) o Un dramma domestico (medaglia d’oro a Vienna, 1873) valutazionearte.it+14Wikipedia+14Gogna Srl+14. La cuoca riflette questo momento: ambienti poveri, personaggi semplici e pennellata empatica, elementi che confermano la sua fortuna nelle esposizioni lombarde ed europee.",
+    "Significato & importanza": "Elogio della semplicità e del lavoro quotidiano, tema centrale dell’Ottocento.\n\nDocumentazione di vita popolare: La cuoca rientra nel filone del genere domestico, caro a Induno, che ritrae con empatia figure umili e gesti quotidiani — non per moralismo, ma per umanità WikipediaWikipedia.  \nEffetto emotivo: Lo sguardo abbassato e l’atteggiamento introspettivo della figura evocano un senso di fatica, riflessione e rispetto verso il lavoro semplice ma essenziale.  \nStile verista: La pittura materiali, l’uso di luci naturali e l’atmosfera raccolta fanno dell’opera un perfetto esempio della pittura di genere lombarda, ispirata da Francesco Hayez e affinata dall’impronta realista post-1848 Wikipedia+14Wikipedia+14dimanoinmano.it+14.  \nValore sociale: Esposta nel contesto siciliano, acquisisce anche un valore etnografico, mostrando la quotidianità domestica del periodo e favorendo la comprensione del ruolo femminile nel Lavoro casalingo.",
+    "Immagine": "",
+    "Opera di rilievo": "12 - 15",
+    "Corridoio": "CX"
+  }
+}

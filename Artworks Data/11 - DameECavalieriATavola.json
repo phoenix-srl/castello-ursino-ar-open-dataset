@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/11 - DameECavalieriATavola.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "11 - DameECavalieriATavola",
+    "m_EditorClassIdentifier": null,
+    "ID": 11,
+    "Title": "DameECavalieriATavola",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "DameECavalieriATavola_riddle_text",
+    "RiddleAudioKey": "DameECavalieriATavola_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4f9b2af27d60e06449eb5859c60b77c2",
+      "type": 3
+    },
+    "InfoTextKey": "DameECavalieriATavola_info_text",
+    "InfoAudioKey": "DameECavalieriATavola_audio_text",
+    "InfoAI": "Titolo e tema\nInterno elegante con dame e cavalieri attorno a una tavola ricostruzione d’ambiente storico\n\nSoggetto e atmosfera\nRaffinato convivio nobiliario\nDame e cavalieri raccolti intorno a un tavolo sontuoso in dialogo discreto\nAbiti settecenteschi con gonne ampie corpetti ricamati giacche ornate gusto rococò\nGesti misurati il conte versa un calice le dame si scambiano sguardi alcuni cavalieri conversano\n\nArredi e luce\nStoviglie dorate tovaglie broccate candelabro in ferro battuto che illumina la sala\nPavimento a scacchi con effetto prospettico\nLuce calda e uniforme che valorizza trame e tessuti\nTavolozza con colori pastello rossi morbidi beige e oro\nPennellata sicura e attenta al dettaglio\n\nAutore e contesto\nNatale Attanasio\nSeconda metà dell’Ottocento\nFilone storico costumista affiancato ad altre scene aristocratiche come Reception with Cardinal e a temi letterari o sacri\nIn seguito interesse per soggetti sociali e realistici come Donne per i campi e Le tentazioni di San Girolamo\nIn questa opera permane l’eleganza decorativa\n\nSignificato\nEvocazione della convivialità aristocratica e della memoria storica\n\nLettura storico sociale\nRievocazione dei rituali di convivialità dell’aristocrazia settecentesca con taglio di ricostruzione dei costumi tipico dello storicismo ottocentesco\nDimensione narrativa fatta di microstorie sguardi atteggiamenti interazioni di etichetta tra ceti elevati\n\nQualità pittorica\nMaestria nella resa dei tessuti nella luce artificiale e nella prospettiva interna\nLusso realistico ottenuto con equilibrio compositivo\n\nValore collezionistico\nOpera del patrimonio De Federicis Brizzi rappresentativa della predilezione per scene storiche e di genere\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "4f9b2af27d60e06449eb5859c60b77c2",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_DameECavalieriATavola.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4f9b2af27d60e06449eb5859c60b77c2",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_DameECavalieriATavola.jpg",
+      "FileSizeBytes": 2895987
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Dame e cavalieri a tavola",
+    "Descrizione": "Interno elegante con dame e cavalieri attorno a una tavola, suggestiva ricostruzione d’ambiente storico.\n\nLa scena rappresenta un raffinato convivio nobiliario: dame e cavalieri sono riuniti intorno a un sontuoso tavolo, intento a dialogare in un’atmosfera elegante e curata. I partecipanti indossano abiti settecenteschi – gonnelloni ampi, corpetti ricamati e giacche ornate – che riflettono il gusto rococò. I gesti dei commensali sono misurati: il conte versa un calice, le dame si scambiano sguardi discreti, alcuni cavalieri conversano interessati.\nL’arredamento è ricco: stoviglie dorate, tovaglie broccate, un candelabro in ferro battuto che illumina la sala. Il pavimento a scacchi accentua la composizione prospettica. La luce, calda e uniforme, valorizza trame e tessuti, conferendo un’atmosfera conviviale e raffinata. Colori pastello, rossi morbidi, beige e oro dominano la scena, mentre la pennellata è sicura e attenta ai dettagli.\n\nRealizzato nella seconda metà dell’Ottocento, l’opera segue le linee del filone storico-costumista di Attanasio, affiancata ad altre scene aristocratiche – come il Reception with Cardinal – e a temi letterari o sacri. Più tardi, l’artista si volse anche a soggetti sociali e realistici (Donne per i campi, Le tentazioni di San Girolamo), ma qui la sua pennellata rimane profondamente legata all’eleganza decorativa Wikipedia+1Invaluable+1.",
+    "Significato & importanza": "Evoca la convivialità aristocratica e l’importanza della memoria storica.\n\n\nRievocazione storica: Ripropone i rituali di convivialità dell’aristocrazia settecentesca, con un taglio da ricostruzione costumi, emblematico del gusto storicista dell’Ottocento WikipediaWikipedia.  \nDimensione narrativa: L’opera racconta microstorie: sguardi, atteggiamenti, interazioni sociali tipiche dell’epoca, restituendo un affresco vivace di etichetta e relazioni tra ceti elevati.  \nMaestria tecnica: Attanasio dimostra la sua abilità nella resa dei tessuti, della luce artificiale e della prospettiva interna, conferendo lusso realistico alla scena.  \nValore collezionistico: Fa parte del patrimonio De Federicis‑Brizzi ed è rappresentativa delle preferenze collezionistiche per opere storiche e di genere mimmorapisarda.it+2memofonte.it+2itCatania+2Wikipedia+1museocivicocastelloursino.comune.catania.it+1.",
+    "Immagine": "",
+    "Opera di rilievo": "13",
+    "Corridoio": "DX"
+  }
+}

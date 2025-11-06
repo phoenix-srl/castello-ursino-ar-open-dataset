@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/05 - RitrattoDellaMoglie.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "05 - RitrattoDellaMoglie",
+    "m_EditorClassIdentifier": null,
+    "ID": 5,
+    "Title": "RitrattoDellaMoglie",
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "RitrattoDellaMoglie_riddle_text",
+    "RiddleAudioKey": "RitrattoDellaMoglie_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7fa0c40c32d781c4ba508847ffa6daea",
+      "type": 3
+    },
+    "InfoTextKey": "RitrattoDellaMoglie_info_text",
+    "InfoAudioKey": "RitrattoDellaMoglie_audio_text",
+    "InfoAI": "Titolo e soggetto\nRitratto della moglie Rosaria De Luca\n\nRimandi\nFigura ritratta anche dal figlio Michele Rapisardi nel Ritratto di madre\n\nInquadratura\nDonna a mezzo busto\nSguardo rivolto verso l’osservatore\nAssenza di tratti psicologici espliciti\n\nResa formale\nImpostazione realistica\nDefinizione dei dettagli di straordinaria precisione\nColori molto accesi\n\nLuce\nFonte luminosa da destra\nDominio della luce soprattutto al centro del quadro\n\nSfondo\nTonalità scura\nCoerente con la tradizione ritrattistica dell’artista\n\nSintesi\nRitratto rigoroso e frontalmente coinvolgente\nEquilibrio tra brillantezza cromatica e controllo della luce\nProfilo emotivo trattenuto a favore dell’esattezza descrittiva\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7fa0c40c32d781c4ba508847ffa6daea",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_RitrattoDellaMoglie.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "7fa0c40c32d781c4ba508847ffa6daea",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_RitrattoDellaMoglie.jpg",
+      "FileSizeBytes": 1230252
+    }
+  },
+  "SourceData": {
+    "Artista": "Giuseppe Rapisardi",
+    "Titolo": "Ritratto della moglie",
+    "Descrizione": "Ritratto della moglie del pittore, evidenziando la dolcezza dei tratti e l'atmosfera affettuosa.\nIl dipinto ritrae la moglie del pittore con una postura composta e dignitosa. È rappresentata a mezza figura, con il viso rivolto leggermente verso lo spettatore, gli occhi attenti e lo sguardo introspettivo. I capelli sono raccolti con cura, mentre il capo forse è adornato da velature o accessori sobri. Indossa un abito elegante, in linea con la moda borghese del primo Ottocento, e il suo volto è illuminato da una luce tenue che evidenzia i tratti femminili con delicatezza.\nLo sfondo è neutro, privo di elementi descrittivi: ciò mette in risalto la figura e simboleggia l’intimità domestica. I colori scelti sono morbidi ed equilibrati, con dominanti di beige, crema e sfumature pastello. La pennellata è precisa, con particolare cura per i dettagli come i tessuti e l'increspatura delle mani, se visibili.\n\nGiuseppe Rapisardi, allievo di Matteo Desiderato, fu pittore e apprezzato ritrattista nella Sicilia del primo Ottocento, con influenze neoclassiche e romanticizzanti Benvenuti su goccediperle!+10Wikipedia+10Wikipédia+10. Oltre ai ritratti familiari, realizzò opere sacre e storiche, diffusamente esposte in chiese e collezioni locali. Questo ritratto della moglie fa parte di un ciclo dedicato alla vita privata, un filone che valorizzava la dimensione sensibile e domestica del soggetto.",
+    "Significato & importanza": "Importanza affettiva e testimonianza dell’arte del ritratto borghese ottocentesco.\n\nValorizzazione dell’affetto familiare: Il ritratto esprime il legame affettivo e il rispetto che il pittore nutriva per la moglie, incarnando l’ideale borghese di vita familiare.  \nRitratto documentario-sociale: Aggiorna il genere ritrattistico nel contesto catanese tra neoclassicismo e romanticismo, offrendo un modello di eleganza e posizione sociale. WikipediaWikipedia  \nCoerenza stilistica: In linea con l’opera del marito, questo dipinto riflette l’uso misurato del colore e l’attenzione ai dettagli formali, simbolo di un approccio rigoroso condiviso in famiglia.  \nImportanza museale: Parte della collezione donata al Museo Civico del Castello Ursino, è testimonianza diretta del contesto artistico e biografico locale, utile per studi sul pittore e sulla sua cerchia. Wikipedia+8Wikipedia+8Benvenuti su goccediperle!+8Wikipedia+8museocivicocastelloursino.comune.catania.it+8Wikipedia+8",
+    "Immagine": "",
+    "Opera di rilievo": "22",
+    "Corridoio": "SX"
+  }
+}

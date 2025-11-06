@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/08 - Vitellino.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "08 - Vitellino",
+    "m_EditorClassIdentifier": null,
+    "ID": 8,
+    "Title": "Vitellino",
+    "Artist": "Filippo Palizzi",
+    "Date": 1870,
+    "RiddleTextKey": "Vitellino_riddle_text",
+    "RiddleAudioKey": "Vitellino_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "43602f167c1e8534b9d92d70ebe71e2b",
+      "type": 3
+    },
+    "InfoTextKey": "Vitellino_info_text",
+    "InfoAudioKey": "Vitellino_audio_text",
+    "InfoAI": "Titolo e tema\nStudio naturalistico di un vitellino attenzione al vero della scuola napoletana\n\nSoggetto e ambientazione\nGiovane bovino di profilo in ambiente rurale\nLuce naturale che illumina la pelliccia morbida\nRiflessi bianchi su muso e dorso\n\nComposizione\nFondo scuro e neutro privo di dettagli per isolare la figura in primo piano\nPennellata fine e attenta\nDettagli di peluria ombre e struttura corporea\nImpostazione realistica non idealizzata\n\nAutore e contesto\nFilippo Palizzi Vasto 1818 Napoli 1899\nSpecialista in animali e scene di campagna\nInfluenze della scuola di Posillipo e del verismo francese\nVitellino inserito in un ciclo di studi animali degli anni Settanta\nTalento tecnico unito a componente affettiva e poetica verso il mondo contadino\n\nSignificato\nDignità conferita a un animale giovane simbolo di innocenza e vitalità\nRappresentazione della purezza e dell’osservazione diretta del vero\n\nValenza storico artistica\nElemento del verismo naturalista Palizzi tra i fondatori del verismo in pittura italiana\nEsemplare dell’osservazione dal vero priva di retorica\nStudio di forma e luce animale con attenzione anatomica e luministica\nTema frequente nella produzione dell’artista mucche capre bovini\n\nRiconoscimento critico\nEvidenza della sensibilità poetica verso la natura umile e quotidiana\nApprezzamento nei circoli artistici dell’epoca per la resa rispettosa e precisa delle piccole creature rurali\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "43602f167c1e8534b9d92d70ebe71e2b",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_Vitellino.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "43602f167c1e8534b9d92d70ebe71e2b",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_Vitellino.jpg",
+      "FileSizeBytes": 1737823
+    }
+  },
+  "SourceData": {
+    "Artista": "Filippo Palizzi",
+    "Titolo": "Vitellino",
+    "Descrizione": "Studio naturalistico di un vitellino, esempio dell’attenzione al vero tipica della scuola napoletana.\n\nL'opera presenta un giovane bovino — un vitellino — ritratto di profilo in un ambiente rurale. La luce naturale illumina la pelliccia morbida dell’animale, mettendo in risalto i riflessi bianchi sul muso e il dorso. Il fondo è scuro e neutro, privo di dettagli visivi, in modo da far emergere la figura dell’animale, quasi isolata in primo piano. La pennellata è fine e attenta: Palizzi insiste sui dettagli — peluria, ombre, struttura corporea — ma con una misura realistica non idealizzata.\n\nFilippo Palizzi (Vasto 1818 – Napoli 1899) si distinse per rappresentazioni di animali e scene di campagna, influenzato dalla scuola di Posillipo e dal verismo francese Facebook+15it.wikipedia.org+15pinterest.com+15. Vitellino si inserisce in un ciclo di studi animali compiuti attorno agli anni Settanta, in cui Palizzi mostra non solo abilità tecnica, ma anche una componente affettiva e poetica verso il mondo contadino.\nLa scelta del vitello come soggetto, isolato su fondo neutro, ricorda studi accademici ma è animata da un’estetica innovativa che conferisce dignità a un animale giovane, simbolo di innocenza e vitalità.",
+    "Significato & importanza": "Rappresenta la purezza e l’innocenza della natura, oltre che l’osservazione diretta del vero.\n\n\nElemento del verismo naturalista: Palizzi, tra i fondatori del verismo nella pittura italiana, fa del vitellino un soggetto emblematico di osservazione diretta del vero, senza retorica Collezione d'arte Banca d'Italia.  \nStudio di forma e luce animale: L’opera mostra il suo interesse per la resa anatomica e luministica dell’animale, un tema frequente nella sua produzione (mucche, capre, bovini) Collezione d'arte Banca d'Italiaonevisionart.printstoreonline.com.  \nRiconoscimento critico: Espressione della sua capacità di porre attenzione alle piccole creature rurali, incarnando una sensibilità poetica verso la natura umile e quotidiana, spesso apprezzata nei circoli artistici del tempo Finestre sull'Arte.",
+    "Immagine": "",
+    "Opera di rilievo": "24",
+    "Corridoio": "DX"
+  }
+}

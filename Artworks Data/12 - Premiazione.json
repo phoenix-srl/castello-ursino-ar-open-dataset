@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/12 - Premiazione.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "12 - Premiazione",
+    "m_EditorClassIdentifier": null,
+    "ID": 12,
+    "Title": "Premiazione",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "Premiazione_riddle_text",
+    "RiddleAudioKey": "Premiazione_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "a795cf34fe9a5514ea07f32941f0d858",
+      "type": 3
+    },
+    "InfoTextKey": "Premiazione_info_text",
+    "InfoAudioKey": "Premiazione_audio_text",
+    "InfoAI": "Titolo e tema\nScena cerimoniale in costume momento di premiazione evocazione della cultura ottocentesca\n\nSoggetto e azione\nPersonaggio centrale dignitario o mecenate che consegna un premio a un giovane\nGesto di porgere una medaglia o un diploma\nAssemblea raffinata di dame e cavalieri disposti in semicircolo con posture formali e sguardi rivolti al premiato\n\nAmbientazione e décor\nInterno elegante con stucchi colonne tappeti drappeggi possibile arazzo sullo sfondo\nAccessori ricercati guanti e copricapi\n\nLuce e colore\nLighting morbido concentrato sul gesto centrale che crea solennità\nColori caldi e ricche texture dei tessuti\nPennellata precisa e bilanciata\n\nComposizione\nEquilibrio tra figura oggetto e ambiente\nRitmo di sguardi e gesti che guida verso il centro della scena\n\nAutore e contesto\nNatale Attanasio fine XIX secolo\nOpera in linea con il filone di genere e di costume\nAffinità con Cardinale dame e cavalieri e Dame e cavalieri a tavola\nApprezzamenti nelle esposizioni artistiche dell’epoca per eleganza narrativa e cura ornamentale\nCollaborazioni a commissioni private per famiglie siciliane e romane\n\nSignificato\nCelebrazione della meritocrazia e del riconoscimento del valore nell’arte e nella società\n\nChiavi di lettura\nTema celebrativo legato all’ideale risorgimentale di valorizzazione del talento e dell’impegno\nNarrazione di costume che restituisce uno spaccato storico culturale\nSimbolismo del premio come valore morale gratitudine pubblica e codici educativi e comunitari ottocenteschi\n\nQualità tecnica\nUso della luce per accentuare il gesto\nAttenzione decorativa a favore dell’impatto scenografico\nPrecisione nei dettagli di moda e negli arredi\n\nCollocazione culturale\nDocumento collezionistico che integra il percorso museale con scene di vita sociale letteraria e religiosa e con racconti simbolici e storici\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "a795cf34fe9a5514ea07f32941f0d858",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_Premiazione.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "a795cf34fe9a5514ea07f32941f0d858",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_Premiazione.jpg",
+      "FileSizeBytes": 2263515
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Premiazione",
+    "Descrizione": "Scena cerimoniale in costume che ritrae un momento di premiazione, evocativa della cultura ottocentesca.\n\nL’opera raffigura una scena cerimoniale in interni, dove un personaggio centrale – probabilmente un dignitario o mecenate – consegna un premio a un giovane: lo tende la mano o un oggetto simbolico (medaglia o diploma), di fronte a una raffinata assemblea di dame e cavalieri. Le figure sono disposte in semicircolo, con posture formali e sguardi rivolti verso il premiato.\nIl décor è elegante: stucchi, colonne, tappeti, drappeggi, forse un arazzo sullo sfondo. Il lighting è morbido ma puntato sul gesto centrale, conferendo solennità. Colori caldi, ricche texture dei tessuti, raffinatezza negli accessori (guanti, copricapi) emergono da una pennellata precisa e bilanciata.\n\n🏛️ Contesto nella produzione di Attanasio\nRealizzato in un periodo in cui l’artista esplorava temi di genere e di costume (fine XIX secolo), Premiazione si allinea a opere come Cardinale, dame e cavalieri o Dame e cavalieri a tavola. Queste opere vennero apprezzate nelle Esposizioni artistiche dell’epoca per l’eleganza narrativa e la resa dei dettagli ornamentali.[Su questi temi Attanasio collaborò anche a commissioni private per famiglie sia siciliane che romane.",
+    "Significato & importanza": "Celebra la meritocrazia e il riconoscimento del valore nell’arte e nella società.\n\n\nTema celebrativo: La scena rievoca l'idea di riconoscimento del merito, sia artistico sia civile, riflettendo l’ideale risorgimentale della valorizzazione del talento e dell’impegno.  \nNarrazione di costume: Attanasio convoglia dettagli di moda e atteggiamenti sociali per restituire uno spaccato storico-culturale dell’epoca.  \nSimbolismo del premio: Il riconoscimento in pubblico suggerisce un valore morale — doverosa gratitudine, riproduzione dei valori sociali — ravvisabile nel contesto educativo e comunitario dell’Ottocento.  \nQualità tecnica: La composizione mostra equilibrio tra figura, oggetto e ambiente; l’uso della luce accentua l’importanza del gesto; l’attenzione decorativa migliora l’effetto scenografico.  \nDocumento collezionistico: L’opera integra la narrazione tematica della sala, con scene di vita sociale, letteraria o religiosa, contribuendo a un percorso museale basato su racconti simbolici e storici.",
+    "Immagine": "",
+    "Opera di rilievo": "14",
+    "Corridoio": "DX"
+  }
+}

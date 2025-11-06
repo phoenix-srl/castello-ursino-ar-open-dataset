@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/15 - MaggioPescatoreSedutoInContemplazioneDelMareAperto.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "15 - MaggioPescatoreSedutoInContemplazioneDelMareAperto",
+    "m_EditorClassIdentifier": null,
+    "ID": 15,
+    "Title": "MaggioPescatoreSedutoInContemplazioneDelMareAperto",
+    "Artist": "V. Gubricy de Dragon",
+    "Date": 1914,
+    "RiddleTextKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_riddle_text",
+    "RiddleAudioKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "74ec4efc949c5644184ac481f74bdf4a",
+      "type": 3
+    },
+    "InfoTextKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_info_text",
+    "InfoAudioKey": "MaggioPescatoreSedutoInContemplazioneDelMareAperto_audio_text",
+    "InfoAI": "Titolo e tema\nPescatore assorto davanti al mare connotazione poetica e contemplativa legata alla natura\n\nSoggetto e inquadratura\nPescatore isolato seduto su promontorio o argine\nSguardo rivolto al mare aperto\nFigura piccola per enfatizzare la vastità delle acque oltre l’orizzonte\n\nColore e luce\nTavolozza sommessa con grigi intrisi di blu pallido e giallo chiaro\nLuce diffusa quasi misteriosa che genera calma rarefatta e silenziosa\n\nTecnica e stile\nPennellate vibranti e atmosferiche\nStruttura divisionista intuitiva senza rigoroso puntinismo\nComposizione che affida il senso poetico all’aria e alla distanza\n\nAutore e contesto\nVittore Grubicy de Dragon 1851–1920 gallerista critico e artista\nDiviene pittore a fine Ottocento adottando progressivamente il divisionismo dopo aver promosso Segantini e Morbelli\nTarda produzione segnata da approccio emotivo alla luce e all’atmosfera in paesaggi lacustri e marini\nPresenza della figura contemplativa in dialogo con la natura affine a soluzioni di Morbelli e Benvenuti\n\nSignificato e lettura\nContemplazione dell’infinito marino e riflessione sul rapporto uomo natura\nSolitudine esistenziale il pescatore non lavora ma medita\nTransizione stilistica tra divisionismo emotivo e sensibilità simbolista\nPartecipazione alla tradizione simbolista italiana dove la figura è agente introspettivo nel paesaggio\n\nLuoghi e motivi ricorrenti\nCentralità di mari e laghi come Lario e Lago Maggiore\nInteresse per acque cieli e orizzonti come teatro di stati d’animo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "74ec4efc949c5644184ac481f74bdf4a",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_MaggioPescatoreSedutoInContemplazioneDelMareAperto.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "74ec4efc949c5644184ac481f74bdf4a",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_MaggioPescatoreSedutoInContemplazioneDelMareAperto.jpg",
+      "FileSizeBytes": 2152797
+    }
+  },
+  "SourceData": {
+    "Artista": "V. Gubricy de Dragon",
+    "Titolo": "Maggio (Pescatore seduto in contemplazione del mare aperto)",
+    "Descrizione": "Pescatore assorto davanti al mare, connotazione poetica e contemplativa legata alla natura.\nLa scena ritrae un pescatore isolato, seduto su un promontorio o argine, in un momento contemplativo mentre osserva il mare aperto. L’artista adopera pennellate vibranti e una tavolozza sommessa, scandita da grigi profumati di blu pallido e giallo chiaro, colmi di atmosfera. L’uomo appare piccolo nell’inquadratura, enfatizzando la vastità delle acque che si estendono oltre l’orizzonte.\nLe pennellate, pur non rigorosamente puntiniste, suggeriscono una struttura divisionista intuitiva, con i colori che si compongono otticamente. La luce diffusa, quasi misteriosa, trasmette un senso di calma rarefatta e riflessione silenziosa.\n\n🏛️ Contesto nella produzione di Grubicy\nVittore Grubicy de Dragon (1851–1920), gallerista, critico e artista, divenne pittore sul finire del XIX secolo, adottando gradualmente il divisionismo dopo aver promosso artisti come Segantini e Morbelli ([turn0search1]fondazionecrtrieste.it+15en.wikipedia.org+15Wikipedia+15). Le sue opere della tarda produzione si distinguono per l’approccio emotivo alla luce e atmosfera, come visibile nei suoi paesaggi lacustri e marini. La presenza di figure, come il pescatore contemplativo, richiama analoghe composizioni di Morbelli e Benvenuti e la sua riflessione introspettiva sul paesaggio.",
+    "Significato & importanza": "Contemplazione dell’infinito marino, riflessione sul rapporto uomo-natura.\n\n\nSolitudine esistenziale: Il pescatore non è rappresentato nel suo lavoro, ma in un momento spirituale, simbolo di riflessione sull’immensità della natura e del mare.  \nTransizione stilistica: Dopo una carriera come gallerista, Grubicy sperimenta qui l’approccio divisionista “emotivo”, che si sovrappone alla sensibilità simbolista.  \nContemplazione e paesaggio: L’opera partecipa alla tradizione simbolista italiana, in cui le figure umane dialogano con la natura come agenti introspettivi ([turn0search11]Google Arts & Culture+15Wikipedia+15OpenStarts+15).  \nCentralità del mare: Il dipinto testimonia l’interesse per i luoghi lacustri o marini – come il Lario o il lago Maggiore – che caratterizza le opere dell’artista in quegli anni ([turn0search11]Wikipedia).",
+    "Immagine": "",
+    "Opera di rilievo": "33",
+    "Corridoio": "DX"
+  }
+}

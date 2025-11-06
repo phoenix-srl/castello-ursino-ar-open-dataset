@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/16 - Ciociara.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "16 - Ciociara",
+    "m_EditorClassIdentifier": null,
+    "ID": 16,
+    "Title": "Ciociara",
+    "Artist": "Cesare Maccari",
+    "Date": 1896,
+    "RiddleTextKey": "Ciociara_riddle_text",
+    "RiddleAudioKey": "Ciociara_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f472e490b1d54c34d8981d372961782e",
+      "type": 3
+    },
+    "InfoTextKey": "Ciociara_info_text",
+    "InfoAudioKey": "Ciociara_audio_text",
+    "InfoAI": "Titolo e soggetto\nRitratto di giovane donna in abito ciociaro con sfondo naturale tavolozza calda e vibrante\n\nDescrizione della figura\nCostume tradizionale della Ciociaria Lazio meridionale\nGonna lunga gilet ricamato scialle copricapo\nCollana di corallo tipica della cultura contadina\nRitratto a mezza figura frontale con lieve torsione verso lo spettatore\nSguardo intenso consapevole dignitoso\n\nAmbientazione e colore\nSfondo neutro e indefinito per concentrare l’attenzione sulla protagonista\nPennellata morbida\nColori caldi ocra terra rosso corallo\nResa naturale del volto e delle stoffe\n\nDettagli formali\nRicami e gioielli descritti con precisione\nEquilibrio tra realismo e sensibilità quasi fotografica\n\nSignificato\nOmaggio alla cultura popolare italiana e alle identità locali\nRivendicazione della dignità del volto popolare\nAnticipazione di sensibilità etnografica novecentesca\n\nAutore e contesto\nCesare Maccari 1840–1919 noto per scene storiche e affreschi come Cicerone denuncia Catilina a Palazzo Madama\nCiociara 1896 segnala una svolta verso soggetti più intimi e realistici\nIn continuità con la pittura del costume e il genere contadino diffusi nell’Italia ottocentesca\nConfronto con opere affini di Giuseppe Pelizza da Volpedo e Giuseppe Palizzi pur restando pagina meno nota del percorso di Maccari\n\nLettura critica\nRappresentazione veristica del costume priva di folclorismi\nViso dignitoso postura fiera sguardo presente\nGamma cromatica equilibrata e chiaroscuro delicato al servizio di tessuti pelle e gioielli\n\nRilevanza culturale\nDocumento dell’interesse ottocentesco per il contadinismo con valore etnografico e spirituale\nOpera simbolica di identità regionale e memoria collettiva\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f472e490b1d54c34d8981d372961782e",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_Ciociara.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "f472e490b1d54c34d8981d372961782e",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_Ciociara.jpg",
+      "FileSizeBytes": 1084786
+    }
+  },
+  "SourceData": {
+    "Artista": "Cesare Maccari",
+    "Titolo": "Ciociara",
+    "Descrizione": "Ritratto di una giovane donna in abito ciociaro con uno sfondo naturale. La tavolozza è calda e vibrante. L’opera valorizza il patrimonio antropologico delle regioni italiane e rivendica la dignità del volto popolare, anticipando la sensibilità etnografica novecentesca.\nLa figura femminile ritratta veste il costume tradizionale della Ciociaria (Lazio meridionale), composto da gonna lunga, gilet ricamato, scialle e copricapo, con una collana di corallo—tipica della cultura contadina. È rappresentata a mezza figura, frontale ma con lieve torsione verso lo spettatore. Lo sguardo è intenso e consapevole, carico di dignità e forza interiore.\nLo sfondo è neutro e indefinito, appuntando tutta l’attenzione sulla protagonista. La pennellata è morbida, i colori caldi—ocra, terra, rosso corallo—accentuano la naturalezza del volto e la stoffa del costume. I dettagli tessili sui ricami e sui gioielli sono resi con precisione, equilibrando realismo e sensibilità fotografica.\n🏛️ Contesto nella produzione di Maccari\nCesare Maccari (1840–1919) è celebre soprattutto per scene storiche e affreschi (es. Cicerone denuncia Catilina, Palazzo Madama). Ciociara, datata 1896, rappresenta una svolta verso soggetti più intimi e realisti, in continuità con il gusto diffuso in tutta Italia per la pittura del costume e del genere contadino. Il dipinto si confronta con analoghe opere di Giuli Pellizza da Volpedo o Giuseppe Palizzi, sebbene resti meno noto nel percorso dell’artista.",
+    "Significato & importanza": "Omaggio alla cultura popolare italiana, rappresentazione visiva di identità etniche e locali. È un’opera simbolica di rivendicazione culturale.\n\nOmaggio all’identità popolare: L’opera valorizza la figura contadina in costume, un modo per riscoprire e esaltare le radici regionali, all’interno del filone verista e popolare dell’Ottocento italiano.  \nRappresentazione veristica del costume: La resa della ciociara non è folkloristica ma realistica e rispettosa: viso dignitoso, postura fiera, sguardo presente.  \nSensibilità artistica: Il pittore centra la difficoltà di rendere tessuti, gioielli e pelle attraverso un’equilibrata gamma cromatica e un chiaroscuro delicato.  \nRilevanza culturale: Il dipinto testimonia il gusto ottocentesco per il genere “contadinismo” che, come nel caso di Hayez o Palizzi, aveva un valore etnografico e spirituale.",
+    "Immagine": "",
+    "Opera di rilievo": "23",
+    "Corridoio": "CX"
+  }
+}

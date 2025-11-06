@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/07 - Marina.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "07 - Marina",
+    "m_EditorClassIdentifier": null,
+    "ID": 7,
+    "Title": "Marina",
+    "Artist": "Francesco Lojacono",
+    "Date": 1884,
+    "RiddleTextKey": "Marina_riddle_text",
+    "RiddleAudioKey": "Marina_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "12c09d0bfdf5cf748b4e59a594a16e96",
+      "type": 3
+    },
+    "InfoTextKey": "Marina_info_text",
+    "InfoAudioKey": "Marina_audio_text",
+    "InfoAI": "Marina AI INFO",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "12c09d0bfdf5cf748b4e59a594a16e96",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_Marina.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "12c09d0bfdf5cf748b4e59a594a16e96",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_Marina.jpg",
+      "FileSizeBytes": 1759910
+    }
+  },
+  "SourceData": {
+    "Artista": "Francesco Lojacono",
+    "Titolo": "Marina",
+    "Descrizione": "Veduta marina in cui il pittore coglie con maestria la luce mediterranea e la calma del paesaggio costiero.\nLa tela raffigura un tratto di costa siciliana immerso nella luce mediterranea, tipica del maestro palermitano Lojacono (1838–1915) Guida Sicilia+15Wikipedia+15www.wikiart.org+15. Sulla spiaggia, il riflesso del sole crea giochi di luce sull’acqua e sulle emergenze rocciose, con un cielo luminoso e qualche nuvola soffice che introduce profondità. La pennellata è sottile ma visibile, costruendo un’atmosfera serena in cui l’orizzonte suggerisce il continuo dialogo tra mare e cielo.\nElementi naturali come sabbia chiara, acque trasparenti e rocce dal colore caldo si armonizzano in una prospettiva aperta e luminosa. Non si notano figure umane, dominano la sacralità del paesaggio e la dimensione contemplative della natura.\n\nFrancesco Lojacono (Palermo, 1838–1915) fu uno dei maggiori pittori di paesaggio e marina dell’Ottocento. Formatosi tra Napoli e Firenze, partecipò attivamente ai moti risorgimentali e poi si dedicò interamente all’arte della luce, ottenendo medaglie e incarichi accademici MutualArt+14www.wikiart.org+14Wikipedia+14.\nMarina (1884) rientra tra i suoi capolavori più riconosciuti, esposti anche a Firenze (1864), Parigi (1878) e alle Biennali veneziane (dal 1895) WikipediaWikipedia.\nL’opera riflette il viaggio interiore dell’artista verso il paesaggio come espressione emotiva, ritratta con genuina devozione al vero e una vena poetica che lo ha reso il maestro del naturalism siciliano.",
+    "Significato & importanza": "Esemplare della pittura di paesaggio siciliana, esalta la bellezza del territorio.\n\n\nPittore del sole: Lojacono è soprannominato “ladro del sole” per la sua capacità di catturare con intensità la luce siciliana Wikipedia.  \nArmonia tra realismo e lirismo: Marina unisce l’osservazione fedele (acqua, riflessi, cielo) con una gamma cromatica equilibrata, in linea con l’approccio naturalistico e sentimentale dell’Ottocento.  \nValore paesaggistico: Testimonia la costa siciliana, contribuendo alla definizione di un’identità territoriale e di un’estetica mediterranea nella pittura.  \nRilevanza culturale: L’opera è parte di un filone che ha segnato le arti visive siciliane, con riconoscimenti istituzionali (Biennali, Esposizioni universali) WikipediaWikipedia.",
+    "Immagine": "",
+    "Opera di rilievo": "4",
+    "Corridoio": "DX"
+  }
+}

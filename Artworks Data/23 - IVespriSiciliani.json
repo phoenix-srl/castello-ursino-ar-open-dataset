@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/23 - IVespriSiciliani.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "23 - IVespriSiciliani",
+    "m_EditorClassIdentifier": null,
+    "ID": 23,
+    "Title": "IVespriSiciliani",
+    "Artist": "Michele Rapisardi",
+    "Date": "1864-1865",
+    "RiddleTextKey": "IVespriSiciliani_riddle_text",
+    "RiddleAudioKey": "IVespriSiciliani_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "03c8a8066c737f64f98a69ef63023216",
+      "type": 3
+    },
+    "InfoTextKey": "IVespriSiciliani_info_text",
+    "InfoAudioKey": "IVespriSiciliani_audio_text",
+    "InfoAI": "Sezione\nOpere di Michele Rapisardi varietà cromatica che incanta\n\nBiografia essenziale\nNato a Catania il 27 dicembre 1822\nFormazione a Roma poi rientro a Catania con produzione di ritratti in stile romantico\nNel 1852 studi nelle principali città italiane d’arte\nStabilimento a Firenze con affermazione nel genere storico letterario\n\nOpera di spicco\nI Vespri Siciliani\n\nSoggetto e significato\nScena in cui un soldato francese offende una donna palermitana\nL’episodio scatena la vendetta e la rivolta popolare nota come i Vespri siciliani\nEsito storico fine della dominazione angioina\n\nComposizione e dinamica\nMiscuglio di corpi visi arti e armi che anima vivacemente la scena\nIn primo piano donna svenuta che amplifica la drammaticità\nA destra coppia che si stringe in gesto di difesa\nIpotesi autoreferenziale presenza del pittore che indica il focus della scena\n\nStile e resa\nTavolozza varia e vibrante\nEnergia narrativa tipica del romanticismo storico\nAttenzione al pathos e al movimento corale\n\nSintesi critica\nRapisardi unisce formazione accademica e sensibilità drammatica\nRitratti romantici e grandi scene storiche come capitoli di una stessa ricerca sulla memoria e sull’identità siciliana\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "03c8a8066c737f64f98a69ef63023216",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_IVespriSiciliani.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "03c8a8066c737f64f98a69ef63023216",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_IVespriSiciliani.jpg",
+      "FileSizeBytes": 2377093
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "I Vespri Siciliani",
+    "Descrizione": "Pittura storica di grande intensità che raffigura l’insurrezione del 1282 contro gli Angioini. L’opera mostra momenti di tensione collettiva e fermento popolare con grande attenzione alla composizione drammatica. I volti esprimono pathos e le posture testimoniano l’anelito alla libertà.\n\nL’opera – in gran parte incompiuta – ritrae il celebre episodio dei Vespri Siciliani del 1282: un tumultuoso sciopero popolare contro gli invasori angioini a Palermo. Al centro, un giovane siciliano trafigge un soldato francese, probabilmente Drouet, mentre dietro si agitano figure armate, manifestando rabbia e slancio vendicativo. In primo piano una donna svenuta aumenta la drammaticità della scena, intensificata dalle movenze tese e dal colorismo vivo. Rapisardi cura i contrasti tra figura umana e cielo aperto, lavorando attentamente sulla luce naturale, come mostrano le tavolette en plein air preparatorie Wikimedia Commons+13Storia dell'Arte+13Wikipedia+13.\n\n🏛️ Contesto nella carriera di Rapisardi\nDopo il successo e i riconoscimenti tra il 1858 e il 1861 (acquisizioni accademiche e soggiorno parigino), Rapisardi sceglie un soggetto simbolo della resistenza italiana. I Vespri Siciliani rappresentano l’epilogo del suo percorso storico-romantico, ancor prima di virare verso nudi e temi intime come Ofelia e Paesaggi con figure impactum-journals.uc.pt+2Wikipedia+2Storia dell'Arte+2.",
+    "Significato & importanza": "Emblema della rivolta siciliana e dell'identità regionale. È un quadro di lotta e speranza, un riferimento storico-artistico fondamentale per la coscienza collettiva isolana.\n\n\nRievocazione storica e sentimenti patriottici: L’opera celebra un episodio di rivolta popolare e orgoglio nazionale, in pieno clima post‑Risorgimento: i Siciliani liberano la loro terra dall’oppressione straniera impactum-journals.uc.ptWikipedia.  \nIl popolo protagonista: A differenza della trattazione accademica, Rapisardi concentra l’attenzione sugli umili – contadini e donne – come elementi motori del cambiamento YouTube+14impactum-journals.uc.pt+14Wikipedia+14.  \nTecnica e stile: Si colloca nel filone romantico-narrativo, con insegnamenti macchiaioli nella resa della luce e del dramma, ma conserva la codifica visiva storicista, visibile nelle figure orchestrate ma vivide Storia dell'ArteFinestre sull'Arte.  \nValore culturale: Considerata la maggiore opera di Rapisardi e non terminata, è comunque esposta al pubblico come caposaldo dell’identità collettiva siciliana, raccontando memoria e memoria condivisa WikipediaFacebook.",
+    "Immagine": "",
+    "Opera di rilievo": "1",
+    "Corridoio": "CX"
+  }
+}

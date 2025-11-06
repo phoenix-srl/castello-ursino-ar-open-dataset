@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/26 - BagnanteSedutaSuUnaCassa.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "26 - BagnanteSedutaSuUnaCassa",
+    "m_EditorClassIdentifier": null,
+    "ID": 26,
+    "Title": "BagnanteSedutaSuUnaCassa",
+    "Artist": "Michele Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "BagnanteSedutaSuUnaCassa_riddle_text",
+    "RiddleAudioKey": "BagnanteSedutaSuUnaCassa_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ba096a54ff8bb5143ad94a7dcfa59f99",
+      "type": 3
+    },
+    "InfoTextKey": "BagnanteSedutaSuUnaCassa_info_text",
+    "InfoAudioKey": "BagnanteSedutaSuUnaCassa_audio_text",
+    "InfoAI": "Titolo e tema\nDonna bagnante seduta su una cassa studio della figura femminile in posa rilassata\n\nSoggetto e ambientazione\nGiovane bagnante o venere domestica seduta su cassa\nInterno neutro o backstage che evoca atmosfera del nudo lirico e femminile\nSchiena arcuata testa reclinata sguardo introspettivo capelli raccolti\n\nLuce e colore\nLuce morbida che fa emergere il corpo come forma delicata\nPelle resa con accenti chiari e ombre leggere che rivelano la materia pittorica\nTavolozza sobria rosa crema verde grigiastro con ombre soffuse\n\nStile e tecnica\nIntimismo lontano dalla monumentalità storica\nPennellata sciolta ma controllata a favore dell’eleganza naturale del soggetto\nImpronta simbolica e intimista più narrativa che anatomica\n\nContesto nella produzione di Rapisardi\nEsecuzione tra 1864 e 1875 fase matura con linguaggio più libero intimista e naturale\nIn contrappunto ai grandi quadri storici come I Vespri Siciliani\nRicorrenza del nudo in studi e bozzetti a conferma di versatilità e ricerca espressiva centrata sul contenuto emotivo\n\nLettura e significato\nStudio che esplora grazia e sensualità attraverso la figura femminile\nTransizione tematica in dialogo con altri nudi come Ofelia e Venere verso una pittura più intima poetica e di memoria estetica\nPsicologia della bagnante non virtuosismo anatomico ma quiete emotiva e sospensione meditativa\nLegame con la poetica figurativa europea di fine Ottocento sensibilità simbolista filtrata dalla formazione storica e romantica dell’artista\nValore estetico lirico maturità nel trattare il nudo con eleganza e misura senza eccessi accademici o compiacimenti sensuali\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ba096a54ff8bb5143ad94a7dcfa59f99",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_BagnanteSedutaSuUnaCassa.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "ba096a54ff8bb5143ad94a7dcfa59f99",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_BagnanteSedutaSuUnaCassa.jpg",
+      "FileSizeBytes": 1566621
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "Bagnante seduta su una cassa",
+    "Descrizione": "Donna bagnante seduta su una cassa, studio della figura femminile in posa rilassata.\nLa protagonista, una giovane bagnante o “venere domestica”, è ritratta seduta su una cassa in un interno neutro o in un contesto di backstage che evoca l’atmosfera del nudo purché lirico e femminile. Il corpo, colpito da luce morbida, emerge come forma delicata: schiena arcuata, testa reclinata e sguardo introspettivo. I capelli sono raccolti, la pelle resa con accenti chiari e ombre leggere che evidenziano la matericità pittorica.\nLo stile è intimo, lontano dalla monumentalità storica, e avvicina l’opera alla pittura simbolica e intimista, con una tavolozza sobria: toni di rosa, crema, verde-grigiastro affiancano ombre soffuse. La pennellata è sciolta ma controllata, enfatizzando l’eleganza naturale del soggetto.\n🏛️ Contesto nella produzione di Rapisardi\nRealizzata tra il 1864 e il 1875, in una fase matura in cui l’artista consolidava un linguaggio pittorico più libero, intimista e naturale, l’opera contrappone l’energia dei grandi quadri storici (come I Vespri Siciliani) a studi interiori e femminili. I nudi di Rapisardi, spesso ricorrenti nei suoi studi e bozzetti, dimostrano la sua versatilità e la progressiva ricerca espressiva verso il contenuto emotivo dei personaggi.",
+    "Significato & importanza": "Studio che esplora la grazia e la sensualità attraverso la figura femminile.\n\nTransizione tematica: L’opera segue la via intrapresa con altri nudi come Ofelia e Venere, ed evidenzia la parabola stilistica di Rapisardi verso una pittura più intima, poetica e di ricordo estetico.  \nPsicologia della bagnante: L’artista non immortala un nudo per virtuosismo anatomico, bensì descrive uno stato di quiete emotiva: il personaggio appare pensieroso, forse assorto in un ricordo, con un momento di preziosa sospensione.  \nLegame con la poetica figurativa europea: L’opera richiama la vena intimista e simbolista che si afferma negli anni Ottanta-Novecento, ma con un tratto personale, evidente in Rapisardi, radicato nella sua formazione storica e romantica.  \nValore estetico-lirico: Emblema della maturità dell’artista, il quadro conferma la sua capacità di trattare il nudo con eleganza e misura, senza mai cadere in eccessi accademici o eccessivo sensualismo.",
+    "Immagine": "",
+    "Opera di rilievo": "28",
+    "Corridoio": "SX"
+  }
+}

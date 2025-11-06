@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/25 - PaesaggioConFigure.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "25 - PaesaggioConFigure",
+    "m_EditorClassIdentifier": null,
+    "ID": 25,
+    "Title": "PaesaggioConFigure",
+    "Artist": "Michele Rapisardi",
+    "Date": "1864-1875",
+    "RiddleTextKey": "PaesaggioConFigure_riddle_text",
+    "RiddleAudioKey": "PaesaggioConFigure_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f794530baf3ac0a45a76aff65998daad",
+      "type": 3
+    },
+    "InfoTextKey": "PaesaggioConFigure_info_text",
+    "InfoAudioKey": "PaesaggioConFigure_audio_text",
+    "InfoAI": "Titolo e tema\nPaesaggio animato da figure studio atmosferico e narrativo\n\nSoggetto e ambientazione\nStudio preparatorio in formato quadro\nFigure umane contadini o pastori disperse in campagna\nSentiero sterrato alberi radi orizzonte aperto in luce naturale\n\nTecnica e colore\nPennellate rapide dense e calibrate\nToni terrosi e verdi con luminosità nei chiari di cielo e luce\nFigure rese come brevi accenni cromatici evocativi del gesto più che del dettaglio\n\nEsito visivo\nImmagine vibrante dal vero\nMateria pittorica che restituisce un momento di osservazione naturalistica spensierata\nEquilibrio tra composizione spontanea e struttura narrativa con allusione a una scena di vita rurale fedele all’osservazione diretta\n\nContesto nella produzione di Rapisardi\nDatazione probabile 1864–1875\nAnni in cui l’artista combina studi naturalistici anche di figura femminile con opere storiche drammatiche\nEsperienza sul campo che informa le pitture narrative e retoriche garantendo qualità visiva spontanea anche nelle grandi tele\nParziale emulazione dei Macchiaioli e attenzione ai mutamenti moderni\nIntegrazione dello studio dal vero con la tradizione romantico storico letteraria\n\nSintesi interpretativa\nUnione di paesaggio ed elemento umano come esercizio compositivo e narrativo\n\nChiavi di lettura\nPratica en plein air come impegno nella pittura dal vero bozzetto a diretto contatto con la natura che anticipa composizioni monumentali e storiche come I Vespri Siciliani\nVerifica dei rapporti spaziali e cromatici con l’accento umano come nucleo narrativo soggiacente\nTransizione dal romanticismo descrittivo verso un approccio più sicuro pulsante e aperto alle influenze realistiche e naturaliste vicine ai paesaggisti italiani\nValore documentario nella scelta di formato palette e movimento che elevano paesaggio e figure marginali a tema artistico legittimo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f794530baf3ac0a45a76aff65998daad",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_PaesaggioConFigure.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "f794530baf3ac0a45a76aff65998daad",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_PaesaggioConFigure.jpg",
+      "FileSizeBytes": 1136091
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "Paesaggio con figure (studio)",
+    "Descrizione": "Paesaggio animato da figure, studio atmosferico e narrativo insieme.\nSi tratta di uno studio preparatorio in formato quadro, in cui Rapisardi esercita la resa simultanea di figura e paesaggio. La scena immersa nella luce naturale mostra alcune figure umane – probabilmente contadini o pastori – sparse in un ambiente campestre: sentiero sterrato, alberi radi e un orizzonte aperto. L’artista utilizza pennellate rapide, dense, ma ben calibrate: i colori sono terrosi e verdi, luminosi nei toni chiari di cielo e luce; le sagome umane appaiono brevi accenni cromatici, evocativi del gesto in sé piuttosto che dettagliati.\nIl risultato è un’immagine vibrante, dove la materia pittorica trasmette l’immediata percezione di un momento “dal vero” e di spensierata osservazione naturalistica. Lo studio presenta un equilibrio tra composizione spontanea e struttura narrativa – Rapisardi allude a una scena di vita rurale, restando fedele all’osservazione diretta.\n\n🏛️ Contesto nella produzione di Rapisardi\nRealizzato probabilmente tra il 1864 e il 1875, periodo in cui l’artista combinò studi naturalistici (anche di figura femminile) con opere storiche drammatiche. L’esperienza sul campo – paesaggi, studi – servì a informare pitture narrative e retoriche, garantendo qualità visiva spontanea anche nelle grandi tele. Rapisardi, emulo in parte dei Macchiaioli e attento ai mutamenti moderni, integra qui il valore dello studio dal vero con la tradizione romantico-storico-letteraria.",
+    "Significato & importanza": "Unisce il paesaggio all’elemento umano, studio compositivo e narrativo.\n\n\nPratica en plein air: L’opera riflette l’impegno di Rapisardi nella pittura dal vero: un bozzetto dal contatto diretto con la natura che anticipa le composizioni monumentali e storiche (es. I Vespri Siciliani).  \nStudio di dinamiche compositive: Le figure inserite nel paesaggio preparano la resa dei rapporti spaziali e cromatici in opere maggiori, ponendo l’accenno umano come elemento narrativo soggiacente.  \nTransizione stilistica: Mostra il passaggio dal romanticismo descrittivo verso un approccio più sicuro, pulsante e aperto all’influenza realistica e naturalista, emulando macchiaioli e paesaggisti italiani.  \nValore documentario: Offre uno sguardo sulla sensibilità dell’artista: la scelta di formato, palette e movimento suggeriscono una volontà di elevare il paesaggio e le figure marginali a tema artistico legittimo.",
+    "Immagine": "",
+    "Opera di rilievo": "29",
+    "Corridoio": "SX"
+  }
+}

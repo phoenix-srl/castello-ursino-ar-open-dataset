@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/31 - DonnePerICcampi.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "31 - DonnePerICcampi",
+    "m_EditorClassIdentifier": null,
+    "ID": 31,
+    "Title": "DonnePerICcampi",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "DonnePerICcampi_riddle_text",
+    "RiddleAudioKey": "DonnePerICcampi_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87164a2087e23c84da3d92e382eac27a",
+      "type": 3
+    },
+    "InfoTextKey": "DonnePerICcampi_info_text",
+    "InfoAudioKey": "DonnePerICcampi_audio_text",
+    "InfoAI": "Titolo e tema\nDonne per i campi scena di genere realista ottocentesca nell’Italia meridionale\n\nSoggetto e atmosfera\nPiù contadine impegnate nel lavoro agricolo in un clima silenzioso e naturale\nAbiti semplici gonne alla caviglia fazzoletti in testa\nFigure che camminano o sostano con pose tranquille ma espressive\nSfondo di ampi spazi rurali con vegetazione a contrasto\n\nLuce e colore\nToni tenui e terrosi ocra verdi polverosi marroni caldi\nIlluminazione delicata che definisce i contorni e aggiunge profondità realistica\nAssenza di decorativismi eccessivi a favore della sobrietà\n\nAutore e contesto\nNatale Attanasio formato a Napoli con Domenico Morelli e attivo a Roma\nCelebre per scene di genere quadri storici e ritratti\nOpere affini Sunt lacrimae rerum Le pazze 1891 e Tasso e il cardinale d’Este\nDonne per i campi tra i contributi più significativi alla sua pittura di genere\n\nSignificato sociale e poetica\nAttenzione alla condizione delle classi lavoratrici rurali\nRitratto delle contadine con dignità e rispetto immerse nella quotidianità\nComunità femminile fatta di fatica condivisione e solidarietà\n\nImportanza e collocazione\nDimensione sociale che anticipa una lettura quasi etnografica del lavoro rurale\nInserimento nel percorso espositivo del Castello Ursino accanto a opere storiche e ritrattistiche per una visione articolata del realismo ottocentesco\nValore artistico nella resa spontanea e verista dei gesti essenziali coerente con la poetica dei fatti della vita di Attanasio\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87164a2087e23c84da3d92e382eac27a",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_DonnePerICcampi.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "87164a2087e23c84da3d92e382eac27a",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_DonnePerICcampi.jpg",
+      "FileSizeBytes": 1767277
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Donne per i campi",
+    "Descrizione": "Il dipinto raffigura diverse contadine impegnate nell’attività agricola nei campi, raffreddate da un’atmosfera silenziosa e naturale. Le figure – vestite con abiti semplici, gonne alla caviglia e fazzoletti in testa – camminano o si fermano, in pose tranquille ma espressive. Lo sfondo suggerisce ampi spazi rurali, con accenni di vegetazione a contrasto. I colori sono tenui e terrosi: tonalità ocra, verdi polverosi e marroni caldi donano all’insieme una sensazione di calma mattutina o pomeridiana. L’illuminazione delicata evidenzia i contorni, donando profondità e un senso realistico alla scena, senza decorativismi eccessivi.\n\nNatale Attanasio studiò a Napoli con Domenico Morelli e si spostò poi a Roma. È celebre per scene di genere, quadri storici e ritratti, come “Sunt lacrimae rerum – Le pazze” (1891, Palermo) valutazionearte.it+13Wikipedia+13Wikipedia+13. “Donne per i campi” rappresenta uno dei suoi contributi più significativi alla pittura di genere, insieme a opere come “Tasso e il cardinale d’Este” e appunto “Le pazze” Alamy+4Wikipedia+4Wikipedia+4.",
+    "Significato & importanza": "“Donne per i campi” appartiene al filone della pittura di genere realista ottocentesca, tipica dell’Italia meridionale, e segna l’attenzione di Attanasio verso la condizione sociale ed esistenziale delle classi lavoratrici rurali. Le contadine vengono ritratte con dignità e rispetto: non protagoniste di eroismi, ma immerse nella loro quotidianità – camminano, parlano forse tra loro, manifestano quella comunanza femminile di fatica e solidarietà.\nIl dipinto è importante per diverse ragioni:\n\nDimensione sociale: testimonia la sensibilità dell’artista verso i temi della vita contadina, anticipando una lettura quasi etnografica del lavoro rurale Jeni Kirby History.  \nContestualizzazione storica: si inserisce in un percorso espositivo (Castello Ursino) insieme a opere storiche e ritrattistiche, contribuendo a una visione articolata del realismo del tempo Wikimedia Commons+2Wikipedia+2Wikipedia+2.  \nValore artistico: l’opera cattura l’essenzialità delle scene di lavoro attraverso una resa spontanea e verista dei gesti quotidiani, allineandosi alla poetica «dei fatti della vita» portata avanti da Attanasio.",
+    "Immagine": "",
+    "Opera di rilievo": "1 - 20",
+    "Corridoio": "CX"
+  }
+}

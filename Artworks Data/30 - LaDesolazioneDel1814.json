@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/30 - LaDesolazioneDel1814.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "30 - LaDesolazioneDel1814",
+    "m_EditorClassIdentifier": null,
+    "ID": 30,
+    "Title": "LaDesolazioneDel1814",
+    "Artist": "Giuseppe Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "LaDesolazioneDel1814_riddle_text",
+    "RiddleAudioKey": "LaDesolazioneDel1814_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "98ce1026c37e39649bad5c475b18f536",
+      "type": 3
+    },
+    "InfoTextKey": "LaDesolazioneDel1814_info_text",
+    "InfoAudioKey": "LaDesolazioneDel1814_audio_text",
+    "InfoAI": "Titolo e tema\nLa desolazione del 1814 memoria storica siciliana legata alla Restaurazione borbonica dopo l’occupazione napoleonica\n\nAtmosfera e soggetto\nGrafica cupa e intensamente emotiva\nFigure umane provate contadini soldati famiglie\nPaesaggi spogli o interni senza speranza come scenario simbolico di afflizione e smarrimento collettivo\n\nImpostazione visiva\nComposizione equilibrata con accenti neoclassico romantici\nCentralità del pathos psicologico\nToni scuri e impianto sobrio per amplificare l’intensità del tema storico\n\nAttribuzione e stile\nGiuseppe Rapisardi autore attento a psicologia e misura compositiva\nAccuratezza derivata dalla pratica in ritratti e sacre conversazioni applicata a un soggetto civile e storico\nScelta di una resa intima per tradurre il trauma della transizione politica del 1814\n\nContesto nell’opera di Rapisardi\nFormazione locale tra affreschi sacri dipinti mitologici e ritratti d’élite\nLa desolazione del 1814 come rara incursione in temi storico politici coerente con la sua sensibilità narrativa e introspettiva\n\nLettura critica\nTestimonianza del disagio della popolazione all’indomani del mutamento di potere\nIntrospezione che affianca la narrazione storica facendo emergere stati d’animo collettivi\nEquilibrio tra effetto realistico e sensibilità romantica nel solco del neoclassicismo siciliano\n\nValore e collocazione\nDocumento pittorico della Sicilia preunitaria e della cultura visiva ottocentesca\nInserimento nella sala dell’Ottocento in dialogo con altri dipinti della famiglia Rapisardi e ritratti di nobili catanesi\nContributo al percorso iconografico e culturale della città attraverso il racconto di una crisi storica\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "98ce1026c37e39649bad5c475b18f536",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LaDesolazioneDel1814.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "98ce1026c37e39649bad5c475b18f536",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LaDesolazioneDel1814.jpg",
+      "FileSizeBytes": 204159
+    }
+  },
+  "SourceData": {
+    "Artista": "Giuseppe Rapisardi",
+    "Titolo": "La desolazione del 1814",
+    "Descrizione": "L'opera, dalla grafica cupa e intensamente emotiva, richiama il contesto storico della Sicilia nel 1814, con la Restaurazione borbonica dopo l'occupazione napoleonica. Anche in assenza di fonti specifiche con dettagli visivi, è plausibile ipotizzare un dipinto composto da figure umane provate – contadini, soldati, famiglie – immerse in paesaggi spogli o interni privi di speranza: uno scenario desolato e simbolico, espressione di uno stato collettivo di afflizione e smarrimento.\nEssa si inserisce in una produzione pittorica di Giuseppe Rapisardi caratterizzata da un linguaggio neoclassico-romantico, con attenzione al pathos psicologico e all'assetto compositivo equilibrato. L’artista, noto per la sua accuratezza nei ritratti e nelle composizioni sacre, potrebbe aver scelto una resa intima e sobria per trasmettere l’intensità emotiva dell’evento storico WikipediaIstituto Matteucci.\n\n\n🏛️ Contesto nell’opera di Rapisardi\nGiuseppe Rapisardi, formatosi nella scena locale con opere religiose e ritratti di élite, si distingueva per attenzione alla psicologia e alla composizione equilibrata. Il suo repertorio includeva affreschi sacri, dipinti mitologici e ritratti fino a produzioni più tarde con temi civili e storici. La desolazione del 1814 è una di queste rare eccezioni di soggetto storico/politico, coerente con il suo stile e l’interesse verso stati d’animo collettivi Istituto Matteuccihttps://www.antoniorandazzo.it/.",
+    "Significato & importanza": "Memoria storica siciliana: L’opera analizza la transizione traumatica del 1814, intendendo testimoniare il disagio e l'inquietudine della popolazione all'indomani del cambiamento politico.  \nIntrospezione psicologica: Sebbene non pitture sacre, come altri suoi lavori, questo dipinto conserva uno sguardo narrativo ma anche introspettivo, tipico delle sue composizioni opac-bncs.cultura.gov.it+14Istituto Matteucci+14itCatania+14.  \nValore documentario e artistico: È un esempio raro della pittura storica in Sicilia preriferita nel contesto neoclassico, che combina effetto realistico e sensibilità romantica.  \nContesto locale: Inserita nella sala dell'Ottocento insieme ad altri dipinti della famiglia Rapisardi e ai ritratti dei nobili catanesi, l’opera contribuisce a tracciare un percorso iconografico e culturale del presente storico cittadino Istituto Matteucci+8museocivicocastelloursino.comune.catania.it+8Wikipedia+8.",
+    "Immagine": "",
+    "Opera di rilievo": "10",
+    "Corridoio": "SX"
+  }
+}

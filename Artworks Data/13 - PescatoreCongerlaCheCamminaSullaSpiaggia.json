@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/13 - PescatoreCongerlaCheCamminaSullaSpiaggia.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "13 - PescatoreCongerlaCheCamminaSullaSpiaggia",
+    "m_EditorClassIdentifier": null,
+    "ID": 13,
+    "Title": "PescatoreCongerlaCheCamminaSullaSpiaggia",
+    "Artist": "Francesco Lojacono",
+    "Date": "   ",
+    "RiddleTextKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_riddle_text",
+    "RiddleAudioKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "adecbaa45d812c944b48bbfb11e53fb3",
+      "type": 3
+    },
+    "InfoTextKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_info_text",
+    "InfoAudioKey": "PescatoreCongerlaCheCamminaSullaSpiaggia_audio_text",
+    "InfoAI": "Titolo e tema\nPescatore in cammino con gerla ambientazione marittima luce naturale senso del quotidiano\n\nSoggetto e azione\nPescatore che avanza sulla battigia con grande gerla sulle spalle\nScenario marino con acqua bassa riflessi chiaroscurali luce mattutina o pomeridiana\nSul fondo altre figure di pescatori che raccolgono frutti di mare o sistemano attrezzi\nOrizzonte aperto mare calmo cielo luminoso\n\nComposizione e colore\nPennellata fluida e luminosa con tocchi finissimi\nTonalità dai blu sereni ai verdi pallidi dell’acqua con tocchi di sabbia ocra e carnazioni brune\nEquilibrio compositivo con il pescatore centrale che guida lo sguardo verso le altre figure e l’orizzonte\n\nAutore e contesto\nFrancesco Lojacono Palermo 1838 1915 paesaggista e docente\nCelebre per marine liriche e realistiche in linea con opere come Pescatori di telline\nPartecipazione a mostre nazionali e internazionali e consenso per la sensibilità verso luce e paesaggio costiero\nNegli anni Settanta dell’Ottocento stile che integra realismo sociale e raffinatezza formale\n\nInterpretazione\nEsaltazione del lavoro umile e quotidiano dei pescatori figura tipica del paesaggio siciliano\nValorizzazione della dignità del lavoro e dell’armonia tra uomo e natura\nRealismo poetico con luce morbida e silenzio operativo che creano clima contemplativo\nIdentità mediterranea attraverso pratiche tradizionali della pesca e sensibilità naturalistica dell’epoca\n\nQualità pittorica\nMaestria nella resa di acqua luce atmosfera\nConferma della fama di Lojacono come ladro del sole\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "adecbaa45d812c944b48bbfb11e53fb3",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_PescatoreCongerlaCheCamminaSullaSpiaggia.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "adecbaa45d812c944b48bbfb11e53fb3",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_PescatoreCongerlaCheCamminaSullaSpiaggia.jpg",
+      "FileSizeBytes": 1269029
+    }
+  },
+  "SourceData": {
+    "Artista": "Francesco Lojacono",
+    "Titolo": "Pescatore con gerla sulle spalle che cammina sulla spiaggia",
+    "Descrizione": "Pescatore in cammino con una gerla, ambientazione marittima con luce naturale e senso del quotidiano.\n\nLa tela ritrae un pescatore in cammino sulla battigia, con una grande gerla – paniere tradizionale – caricato sulle spalle. Lo scenario marino è reso con estrema delicatezza: acqua poco profonda, luce mattutina o pomeridiana che crea riflessi chiaroscurali sull’onda bassa. Sullo sfondo, si intravedono altre figure di pescatori intenti a raccogliere frutti di mare o a sistemare attrezzi, poco nitide nella distanza, e un orizzonte aperto su mare calmo e cielo luminoso.\nLa pennellata è fluida e luminosa, costruita con tocchi finissimi. Le tonalità vanno dai blu sereni a verdi pallidi dell’acqua, con tocchi di sabbia ocra e pelli scure che delineano i pescatori. La composizione è equilibrata: il soggetto principale, il pescatore centrale, dà ritmo allo sguardo che scivola poi verso gli altri e verso l’orizzonte.\n\n🏛️ Contesto nella produzione dell’autore\nFrancesco Lojacono (Palermo 1838–1915), celebre paesaggista e docente, è noto per le sue marine liriche e realistiche. La scena del pescatore con gerla è in linea con altre opere come Pescatori di telline, in cui il tema marino e umano si intreccia in composizioni contemplative ([turn0image7]) the-saleroom.com+1Pinterest+1.\nPartecipò a mostre nazionali e internazionali, venendo acclamato per la sensibilità verso la luce e il paesaggio costiero. Negli anni ’70 del XIX secolo adottò uno stile che integrava realismo sociale e forma pittorica raffinate.",
+    "Significato & importanza": "Esalta il lavoro umile e quotidiano dei pescatori, figura tipica del paesaggio siciliano.\n\n\nValorizzazione della figura umile: Il pescatore è rappresentato con dignità, simbolo del lavoro quotidiano e dell’armonia tra uomo e natura.  \nRealismo poetico: La scena non è drammatica, ma poetica: Lojacono privilegia la luce morbida e il silenzio domestico del lavoro marino, evocando un paesaggio quasi contemplativo.  \nIdentità mediterranea: L’opera celebra la vita costiera siciliana, valorizzando pratiche tradizionali come la pesca, in linea con la sensibilità naturalistica dell’epoca.  \nTecnica matura di Lojacono: Si apprezza la mano sicura nel rendere acqua, luce e atmosfera, confermando la sua fama di “ladro del sole” ([turn0image4][turn0image5]) Tutt'Art+5Tutt'Art+5the-saleroom.com+5.",
+    "Immagine": "",
+    "Opera di rilievo": "12",
+    "Corridoio": "DX"
+  }
+}

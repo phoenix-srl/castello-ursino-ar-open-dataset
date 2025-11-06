@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/02 - Autoritratto.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "02 - Autoritratto",
+    "m_EditorClassIdentifier": null,
+    "ID": 2,
+    "Title": "Autoritratto",
+    "Artist": "Giuseppe Gandolfo",
+    "Date": "   ",
+    "RiddleTextKey": "Autoritratto_riddle_text",
+    "RiddleAudioKey": "Autoritratto_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87a7d236a244d86449e9bdc9b79fbaa4",
+      "type": 3
+    },
+    "InfoTextKey": "Autoritratto_info_text",
+    "InfoAudioKey": "Autoritratto_audio_text",
+    "InfoAI": "Titolo\nAutoritratto come contadino\n\nSoggetto\nIl pittore Giuseppe Gandolfo si rappresenta in una situazione insolita non collegata alla sua reale professione\n\nAbbigliamento e simboli\nVesti semplici prive di carattere regale o elegante\nFalce appoggiata sulla spalla destra come chiaro segno della volontà di mostrarsi contadino\n\nRelazione con l osservatore\nVolto rivolto frontalmente\nScambio di sguardi intenso e diretto\n\nAmbientazione\nScelta di uno sfondo naturalistico leggero e accennato\nDettagli volutamente approssimativi per non distrarre dalla figura\n\nConfronto con altri ritratti di Gandolfo\nDi norma fondale neutro e scuro\nIn questo caso scelta differente con paesaggio all aperto\n\nIndizi geografici\nPresenza del vulcano Etna in lontananza unica traccia del luogo\n\nSintesi interpretativa\nAutoritratto che ribalta l immagine ufficiale del pittore\nEnfasi sulla dimensione umile e laboriosa\nDialogo visivo con chi osserva sostenuto da pose semplici e segni chiari\nPaesaggio ridotto a nota essenziale per definire identita catanese senza prevalere sulla figura\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "87a7d236a244d86449e9bdc9b79fbaa4",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_Autoritratto.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "87a7d236a244d86449e9bdc9b79fbaa4",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_Autoritratto.jpg",
+      "FileSizeBytes": 2475832
+    }
+  },
+  "SourceData": {
+    "Artista": "Giuseppe Gandolfo",
+    "Titolo": "Autoritratto",
+    "Descrizione": "Autoritratto sobrio e diretto che cattura l’autoconsapevolezza dell’artista nel suo periodo maturo.\nL’autoritratto mostra l’artista con espressione piana e sguardo determinato. La composizione sobria, con abiti scuri e sfondo neutro, evidenzia il viso e lo sguardo come centri emotivi e autoreferenziali Facebook+13Wikipedia+13itCatania+13Wikipedia+2Wikipedia+2Wikipedia+2.\n\nL’artista si ritrae quasi a mezza figura: volto tranquillo e lo sguardo dritto verso lo spettatore. I lineamenti, contraddistinti da folti baffi e uno sguardo pacato, emergono su uno sfondo neutro con pennellata morbida e dettagli controllati. A differenza del precedente costume shakespeariano, qui appare nell’abbigliamento di artista – semplice giacca e camicia – mentre sullo sfondo compare un attrezzo da lavoro (potrebbe essere una zappa o un altro strumento, giocando sulle sue radici e la sua attenzione per la quotidianità) carlovirgilio.it.\n\n🏛️ Contesto storico‑artistico\nNato e formato tra Catania, Roma e Firenze, Gandolfo tradusse il rigore neoclassico nella ritrattistica siciliana dell’Ottocento. Questo autoritratto rispecchia la sua maturità tecnica (forme modellate, luce equilibrata) e psicologica (serenità, introspezione) Wikipedia+9Wikipedia+9treccani.it+9.",
+    "Significato & importanza": "Testimonianza dell’identità artistica di Gandolfo, importante documento autobiografico.\n\nDocumento di introspezione e autosservazione: Gandolfo riflette su sé stesso come artista e uomo. \nHa valore storico: marca la sua presenza tra i primi pittori a produrre autoritratti in Sicilia, un segno di coscienza identitarian artistica.\nRitrattistica matura: Questo autoritratto del 1840 testimonia la fase finale della sua carriera, quando Gandolfo era già celebre come ritrattista a Catania.  \nEsplorazione psicologica: Lo sguardo diretto e l’ambiente scarno suggeriscono una personalità riflessiva, sicura del proprio percorso artistico.  \nIdentità locale e arte: Realizzato dopo il ritorno definitivo da Firenze e Roma (1822), rappresenta il pittore già affermato che si riconosce figura rassicurante nel panorama artistico siciliano Wikipedia+1carlovirgilio.it+1.",
+    "Immagine": "",
+    "Opera di rilievo": "17",
+    "Corridoio": "SX"
+  }
+}

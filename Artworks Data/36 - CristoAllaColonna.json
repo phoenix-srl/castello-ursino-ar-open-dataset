@@ -1,0 +1,249 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/36 - CristoAllaColonna.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "36 - CristoAllaColonna",
+    "m_EditorClassIdentifier": null,
+    "ID": 36,
+    "Title": "CristoAllaColonna",
+    "Artist": "Mario Minniti",
+    "Date": "   ",
+    "RiddleTextKey": "CristoAllaColonna_riddle_text",
+    "RiddleAudioKey": "CristoAllaColonna_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2fca43ce88f84ce4fb297e733cc592cb",
+      "type": 3
+    },
+    "InfoTextKey": "CristoAllaColonna_info_text",
+    "InfoAudioKey": "CristoAllaColonna_audio_text",
+    "InfoAI": "Titolo e autore\nMario Minniti 1577 Siracusa – 1640 Siracusa\n\nFormazione e influenze\nApprendistato in Sicilia poi trasferimento a Roma nel 1593\nBottega del Cavalier d’Arpino\nIncontro con Michelangelo Merisi detto Caravaggio e assimilazione dello stile caravaggesco\nRapporto di amicizia modello e collaborazione con Caravaggio nella bottega di Lorenzo Carli\n\nRuolo di modello\nMinniti raffigurato da Caravaggio in più opere\nEsempio Fanciullo con canestro di frutta\n\nRientro in Sicilia\nDal 1606 attività in patria con numerose commissioni\nOpere conservate anche nel Museo del Convento dei Padri Cappuccini a Caltagirone\n\nOpera esposta\nCristo alla colonna\nOlio su tela 140 x 106 cm\nImpronta caravaggesca\n\nSoggetto e impostazione\nIspirazione alla Flagellazione di Cristo di Caravaggio\nSfondo scuro con figure che emergono per luce radente da sinistra\nCristo in primo piano corpo reso con forte realismo fulcro della scena\n\nPersonaggi e simboli\nFlagellatore alle spalle con volto non visibile per la scarsa luce\nVeste rossa del carnefice come segno di violenza e spargimento di sangue\nDrappo bianco in contrasto a indicare la purezza di Cristo\nSecondo flagellatore di spalle nell’atto di sottrarre il drappo\n\nSintesi critica\nDialogo diretto con il linguaggio di Caravaggio tra chiaroscuro drammatico e naturalismo\nComposizione centrata sul corpo di Cristo e su un lessico simbolico immediato luce contro tenebra colpa contro innocenza\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2fca43ce88f84ce4fb297e733cc592cb",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_CristoAllaColonna.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "2fca43ce88f84ce4fb297e733cc592cb",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_CristoAllaColonna.jpg",
+      "FileSizeBytes": 422359
+    }
+  },
+  "SourceData": {
+    "Artista": "Mario Minoriti",
+    "Titolo": "Cristo  alla colonna",
+    "Descrizione": "Qui davanti a voi potete ammirare un suo importante quadro, “Cristo alla colonna” olio su tela (140x106 cm) ad impronta caravaggesca. Il dipinto si ispira all’opera “La flagellazione di Cristo” di Caravaggio; infatti simili sono le tecniche utilizzate, come ad esempio lo sfondo scuro, da cui emergono le figure tramite la luce, proveniente da sinistra. In primo piano risalta il corpo di Cristo, figura centrale del quadro, riprodotto con grande realismo. Alle sue spalle vi è un flagellatore di cui non si riesce a vedere il volto a causa della poca luce. Ciò che spicca sicuramente è la veste rossa che lui indossa, simbolo di violenza e spargimento di sangue. A fare da contrasto il drappo bianco, che sottolinea invece la purezza di Cristo, che viene a lui tolto dall’altro flagellatore, visto di spalle.",
+    "Significato & importanza": "",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": ""
+  }
+}

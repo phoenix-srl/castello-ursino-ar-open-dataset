@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/21 - LAddio.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "21 - LAddio",
+    "m_EditorClassIdentifier": null,
+    "ID": 21,
+    "Title": "LAddio",
+    "Artist": "Francesco P. Michetti",
+    "Date": 1893,
+    "RiddleTextKey": "LAddio_riddle_text",
+    "RiddleAudioKey": "LAddio_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3ec8693bbd1c32345a4e512cd216b569",
+      "type": 3
+    },
+    "InfoTextKey": "LAddio_info_text",
+    "InfoAudioKey": "LAddio_audio_text",
+    "InfoAI": "Titolo e tema\nL’Addio scena emozionale di separazione tra due figure con pennellata densa e vibrante e gamma cromatica drammatica\n\nComposizione\nFigura probabilmente femminile che si congeda da un’altra persona forse in lontananza\nGesto delle mani e incrocio degli sguardi come chiavi iconografiche\nPaesaggio marino sullo sfondo che suggerisce viaggio e distacco\n\nColore e pennellata\nTavolozza su toni caldi e dorati di atmosfera crepuscolare\nPennellate dense ma delicate orientate a evocare l’emozione più che la resa fotografica\n\nLuce e atmosfera\nLuce radente che avvolge personaggi e paesaggio\nTransizione emotiva e spaziale tra mattina e pomeriggio tra terra e mare\n\nAutore e contesto\nFrancesco Paolo Michetti 1851–1929 interprete del verismo emozionale italiano\nSensibilità paesaggistica e narrativa dopo soggetti urbani e religiosi\nAttenzione a scene popolari contadine pastorali marine\nL’Addio come tappa verso uno stile più lirico guidato da luce naturale sentimento tattilità del colore e preludio alle celebri marine e ai temi della vita quotidiana degli Abruzzi\n\nSignificato\nSimbolo visivo dell’abbandono e dell’ineluttabilità del distacco\nElemento centrale dell’estetica sentimentale e pittorica del secondo Ottocento\n\nLettura critica\nTema universale dell’addio con attimo struggente prima della partenza\nEmpatia e realismo emotivo ottenuti attraverso gesti luci colori\nFilone del verismo evocativo che integra sensibilità verista con cromie meditate e vibrazione della pennellata\n\nRilievo e fonti\nOpera legata alla pinacoteca Ursino come tassello dell’identità culturale locale tra fine Ottocento e primo Novecento\nInfluenza letteraria e fotografica nella pratica di Michetti con cronache abruzzesi e narrazione fluida tipica della sua produzione post 1890\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3ec8693bbd1c32345a4e512cd216b569",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LAddio.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "3ec8693bbd1c32345a4e512cd216b569",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LAddio.jpg",
+      "FileSizeBytes": 2504397
+    }
+  },
+  "SourceData": {
+    "Artista": "Francesco P. Michetti",
+    "Titolo": "L’Addio",
+    "Descrizione": "Scena emozionale che rappresenta la separazione tra due figure. Michetti usa una pennellata densa e vibrante, e una gamma di colori drammatici per accentuare il turbamento interiore. Il gesto delle mani e l’incrocio degli sguardi sono fondamentali nella lettura iconografica.\n\n🔹 Composizione: La scena raffigura un momento carico di tensione emotiva: una figura (probabilmente femminile) si congeda da un'altra persona—forse in lontananza, suggerita da un abbraccio o da uno sguardo spezzato. Sullo sfondo, un paesaggio marino suggerisce la presenza imminente del viaggio o della separazione.\n🔹 Colori e pennellata: La tavolozza è indirizzata verso toni caldi e dorati che suggeriscono un ambiente tramontante, tipico delle opere di Michetti. Le pennellate sono dense ma delicate, tese a evocare l’atmosfera emotiva piuttosto che la resa fotografica.\n🔹 Luce e atmosfera: Una luce radente avvolge i personaggi e il paesaggio, accentuando il tema della separazione come transizione emotiva e spaziale (mattina/pomeriggio, terra/mare).\n\n🏛️ Contesto nella produzione dell’autore\nFrancesco Paolo Michetti (1851–1929), aprendo la strada al verismo emozionale italiano, si distinse per una sensibilità paisaggistica e narrativa. Dopo ambienti urbani e religiosi, si rivolse a scene popolari — contadine, pastorali, marine. L’Addio rappresenta una tappa di passaggio verso uno stile più lirico, guidato dalla luce naturale, dal sentimento e dalla tattilità della colore, anticipando le sue celebri marine e opere sulla vita quotidiana degli Abruzzi pilloledarte.netWikipedia.",
+    "Significato & importanza": "Simbolo visivo dell'abbandono, dell'ineluttabilità del distacco. Conquista un ruolo centrale nell'estetica sentimentale e pittorica del secondo Ottocento.\n\n\nTema universale dell’addio: Il dipinto cattura l’attimo struggente prima della partenza, tema caro a Michetti che esplorava il dramma umano nei suoi aspetti più semplici ma universali.  \nEmpatia e realismo emotivo: L’artista usa gesti, luci e colori per evocare la malinconia e l’attesa, raggiungendo un alto livello di immedesimazione nell’osservatore.  \nFilone del verismo evocativo: L’Addio integra la sensibilità verista di Michetti con pennellate vibranti e scelte cromatiche meditativi, anticipando l’attenzione al paesaggio e alla luce dominante nella sua produzione successiva pilloledarte.netWikipedia.  \nRilievo collezionistico locale: Parte della pinacoteca Ursino, alla fine del XIX secolo questo dipinto contribuiva all’identità culturale siciliana dell’arte moderna, intrecciando umanità ed emozione.  \nInfluenza letteraria e fotografica: Michetti—pittore e fotografo—spesso si ispirava alla cronaca abruzzese e ai temi emotivi comuni nella gente. In L’Addio si sente una naturale fluidità narrativa tipica della sua opera pittorica post-1890 Invaluable+14Academia+14sicilia.indettaglio.it+14Antonacci Lapiccirella Fine Art+11lifeinabruzzo.com+11Wikipedia+11.",
+    "Immagine": "",
+    "Opera di rilievo": "5",
+    "Corridoio": "CX"
+  }
+}

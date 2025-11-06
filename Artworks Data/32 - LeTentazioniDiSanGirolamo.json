@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/32 - LeTentazioniDiSanGirolamo.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "32 - LeTentazioniDiSanGirolamo",
+    "m_EditorClassIdentifier": null,
+    "ID": 32,
+    "Title": "LeTentazioniDiSanGirolamo",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "LeTentazioniDiSanGirolamo_riddle_text",
+    "RiddleAudioKey": "LeTentazioniDiSanGirolamo_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7db0fee102cf3cf4fa62c32f529f5349",
+      "type": 3
+    },
+    "InfoTextKey": "LeTentazioniDiSanGirolamo_info_text",
+    "InfoAudioKey": "LeTentazioniDiSanGirolamo_audio_text",
+    "InfoAI": "Tema e soggetto\nSan Girolamo seduto in contesto desertico o di studio mentre resiste alle tentazioni demoniache\nFigure femminili evanescenti come demoni o allegorie della tentazione che fluttuano con pose seduttive e atteggiamenti inquietanti\nLibri e simboli clericali come croce o teschio a incorniciare il santo in preghiera su un drappo scorbutico\n\nLuce colore atmosfera\nContrasto tra il santo a linee marcate e colori terrosi e le tentatrici in tonalità sfumate\nIlluminazione morbida sospesa che crea un’aura tra realtà e visione\nSfondo buio con luce fioca concentrata su volto mani e pieghe del mantello rosso marrone\n\nDescrizione della scena\nGirolamo seduto o genuflesso con tavoletta o libro fra le mani assorto in meditazione\nFigure femminili eteree sospese nell’aria avvolte da luce spettrale\nTensione psicologica tra rettitudine spirituale e seduzioni mondane delle presenze semitrasparenti\n\nAutore e contesto\nNatale Attanasio Catania 1845 Roma 1923 allievo di Domenico Morelli attivo tra Napoli Roma e Catania\nPittura storica di genere e religiosa\nLe tentazioni di San Girolamo presente nelle raccolte civiche catanesi e in dialogo con opere come Le pazze e Tasso e il cardinale d’Este\n\nSignificato\nTematica spirituale del ritiro nel deserto e delle insidie del demonio con forte introspezione\nValore espressivo nella resa delle figure inquietanti e nello sguardo intenso del santo\n\nLettura critica\nSintesi di sensibilità realista e decorso simbolico visionario con anticipazioni di inquietudini novecentesche\nOpera con funzione meditativa e devozionale e ruolo identitario nel percorso del Castello Ursino che unisce arte sacra storica e morale\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7db0fee102cf3cf4fa62c32f529f5349",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LeTentazioniDiSanGirolamo.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "7db0fee102cf3cf4fa62c32f529f5349",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LeTentazioniDiSanGirolamo.jpg",
+      "FileSizeBytes": 1752256
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Le tentazioni di San Girolamo",
+    "Descrizione": "L’opera ritrae san Girolamo, seduto in un contesto desertico/studio, mentre resiste alle tentazioni demoniache. Le figure femminili evanescenti — forse demoni o allegorie della tentazione — fluttuano intorno al santo con pose seduttive e atteggiamenti inquietanti. Incorniciato da libri e simboli clericali (probabilmente croce o teschio), Girolamo appare raccolto in preghiera su un drappo scorbutico.\nIl contrasto tra il santo, tratto con linee marcate e colori terrosi, e le figure tentatrici, resi con tonalità sfumate, crea un'atmosfera di tensione psicologica. L’illuminazione è morbida, quasi sospesa, donando al dipinto un’aura sospesa tra realtà e visione. \n\nSan Girolamo è raffigurato nel suo ritiro desertico, seduto o genuflesso con una tavoletta o libro fra le mani, perso nella preghiera o nella meditazione. Intorno a lui emergono figure femminili eteree – probabilmente demoni tentatori o visioni sensuali – che si librano sospese nell’aria, avvolte in una luce spettrale. Lo sfondo è buio, creando un contrasto perfetto con la figura centrale, illuminata da una luce fioca e concentrata che evidenzia il volto, le mani e le pieghe del mantello rosso-marrone. La scena evoca tensione tra la rettitudine spirituale del santo e le seduzioni mondane rappresentate dale figure semi-trasparenti.\n\n🏛️ Contesto nella produzione di Attanasio\nNatale Attanasio (Catania 1845–Roma 1923), allievo di Domenico Morelli, operò tra Napoli, Roma e Catania: fu apprezzato per la sua pittura storica, di genere e religiosa. Le tentazioni di San Girolamo facevano parte delle sue opere esposte al Museo Civico, come evidenziato in collezioni di Catania Facebook+11Benvenuti su goccediperle!+11Wikipedia+11. Il soggetto si inserisce nella sua produzione che alternava letteratura religiosa (Le pazze, Tasso e il cardinale d’Este) e temi di forte tensione emotiva.",
+    "Significato & importanza": "Tematica spirituale: L’opera interpreta il momento cruciale in cui Girolamo, isolato nel deserto, affronta le insidie del demonio: un tema caro alla pittura sacra, ricco di introspezione e forza visiva. \nValore espressivo: La resa delle figure inquietanti e l’intensità dello sguardo del santo rendono palpabile il conflitto interiore tra fede e tentazione.  \nInnovazione stilistica: Attanasio fonde una sensibilità realista (nella resa dei corpi e dell’ambiente) con un decorso simbolico/visionario, anticipando inquietudini novecentesche nella pittura. Alamy  \nRuolo identitario: Inserita nel contesto del Castello Ursino, la tela rafforza la narrativa complessiva della pinacoteca, che coniuga arte sacra, storica e morale.\n\n\nTematica spirituale universale: La scena rielabora uno dei momenti più intensi della hagiografia di San Girolamo – le tentazioni carnali e demoniache – esplorando la lotta interiore tra santità e debolezza umana Wikipedia.  \nEspressione simbolica: Le figure femminili rappresentano non tanto minacce esterne, ma proiezioni dei desideri interiori, suggerendo un conflitto psicologico e morale.  \nInfluenza del verismo simbolico: Attanasio coniuga realismo psicologico e atmosfera visionaria, collocandosi alla confluenza tra pittura di genere, spiritualità e sensibilità simbolista wwwuser.gwdguser.de+13Benvenuti su goccediperle!+13accademiadeglizelanti.it+13Wikipedia.  \nValore didattico e devozionale: Oltre al fascino visivo, l’opera funge da strumento di meditazione spirituale, seguendo la tradizione dei pittori sacri ottocenteschi.",
+    "Immagine": "",
+    "Opera di rilievo": "6",
+    "Corridoio": "CX"
+  }
+}

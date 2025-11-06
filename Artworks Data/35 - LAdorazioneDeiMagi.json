@@ -1,0 +1,249 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/35 - LAdorazioneDeiMagi.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "35 - LAdorazioneDeiMagi",
+    "m_EditorClassIdentifier": null,
+    "ID": 35,
+    "Title": "LAdorazioneDeiMagi",
+    "Artist": "Simone De Wobrek",
+    "Date": "   ",
+    "RiddleTextKey": "LAdorazioneDeiMagi_riddle_text",
+    "RiddleAudioKey": "LAdorazioneDeiMagi_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3bc6f03fa83bf5c4784a5ac9f452f088",
+      "type": 3
+    },
+    "InfoTextKey": "LAdorazioneDeiMagi_info_text",
+    "InfoAudioKey": "LAdorazioneDeiMagi_audio_text",
+    "InfoAI": "Titolo e dati\nAdorazione dei Magi Simone De Wobrek 1585 olio e tempera su tavola\n\nAutore e contesto\nPittore fiammingo attivo in Sicilia per oltre trent’anni\nOpera esposta al centro della sala del parlamento\n\nSoggetto e originalità\nNatività ambientata non nella mangiatoia ma tra rovine di architettura classica\nRiferimento a Jacopo da Varagine il Cristianesimo nasce dalle rovine del mondo pagano\n\nComposizione e stile\nSchiera ricca di personaggi con fisionomie accentuate e atteggiamenti vari\nColori brillanti e forte chiaroscuro a celebrare il trionfo della religione cristiana\nDettaglio memorabile il nano in basso a sinistra che guarda lo spettatore e invita alla partecipazione\n\nFormato e destinazione originaria\nGrande tavola 399 x 235 cm\nCommissione come pala d’altare per la chiesa palermitana della Compagnia del Celso\n\nProvenienza e storia collezionistica\nCon le leggi Siccardi 1866 1867 e la confisca dei beni ecclesiastici il dipinto passa sul mercato\nAcquistato dal collezionista siciliano Giovanbattista Finocchiaro\nAlla sua morte donato al Museo Civico del Castello Ursino insieme ad altre 122 opere\n\nSintesi\nCapolavoro tardo cinquecentesco che unisce iconografia sacra e citazione antiquaria\nLuce colore e teatralità corale rendono la scena un manifesto della fede cristiana nata dalle rovine del paganesimo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "3bc6f03fa83bf5c4784a5ac9f452f088",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LAdorazioneDeiMagi.png.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "3bc6f03fa83bf5c4784a5ac9f452f088",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 1,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LAdorazioneDeiMagi.png",
+      "FileSizeBytes": 15802772
+    }
+  },
+  "SourceData": {
+    "Artista": "Simone De Wobrekm, 1585",
+    "Titolo": "Adorazione dei Magi",
+    "Descrizione": "L’opera osservata é “L’adorazione dei Magi” di Simone De Wobrek (artista fiammingo della seconda metà del ‘500 che fu attivo in Sicilia per oltre trent’anni).\nIl dipinto, che si erge al centro della “sala del parlamento“ nel pieno della sua bellezza e dei suoi colori, è peculiare poiché solitamente la nascita di Gesù viene rappresentata nel luogo povero per antonomasia: la mangiatoia con bue e asinello.\nDe Wobrek stravolge la tradizione e ritrae la scena fra elementi architettonici in rovina di matrice classica. Ciò che può sembrare stravagante, in realtà, è una citazione dello storico Jacopo da Varagine, secondo il quale il Cristianesimo nasce dalle rovine del mondo pagano.\nIl trionfo della religione Cristiana, inoltre, viene celebrato da una ricca schiera di personaggi esaltati nelle fisionomie e negli atteggiamenti da colori brillanti e chiaroscuri. Alcuni di questi appaiono molto buffi, come nel caso del nano in basso a sinistra che guarda dritto verso l’osservatore come se volesse invitarlo a partecipare alla scena.\nLa grande tavola (399x235 cm) in origine venne commissionata come pala d’altare per la chiesa palermitana della Compagnia del Celso.\nCon la promulgazione delle leggi Siccardi nel 1866/67 e la successiva confisca dei beni appartenuti agli ordini ecclesiastici, il dipinto venne acquistato dal famoso collezionista siciliano Giovanbattista Finocchiaro. Alla sua morte, secondo le volontà, fu donata al Museo Civico del Castello Ursino insieme ad altre 122 opere.",
+    "Significato & importanza": "",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": ""
+  }
+}

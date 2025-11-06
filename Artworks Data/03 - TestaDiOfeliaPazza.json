@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/03 - TestaDiOfeliaPazza.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "03 - TestaDiOfeliaPazza",
+    "m_EditorClassIdentifier": null,
+    "ID": 3,
+    "Title": "TestaDiOfeliaPazza",
+    "Artist": "Michele Rapisardi",
+    "Date": 1865,
+    "RiddleTextKey": "TestaDiOfeliaPazza_riddle_text",
+    "RiddleAudioKey": "TestaDiOfeliaPazza_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "da0c53c348646a64ba52bb8aa7b17ca3",
+      "type": 3
+    },
+    "InfoTextKey": "TestaDiOfeliaPazza_info_text",
+    "InfoAudioKey": "TestaDiOfeliaPazza_audio_text",
+    "InfoAI": "Titolo e autore\nMichele Rapisardi Ofelia la pazza 1865\n\nTipologia e tecnica\nStudio olio su carta incollata su cartone\n\nSoggetto\nOfelia personaggio dell’Amleto di Shakespeare\nFigura femminile in apparente quiete\n\nInquadratura e gesto\nLabbra serrate\nSguardo di sbieco\n\nTono emotivo e significato\nCalma solo in superficie\nInquietudine profonda che rivela la follia d’amore\nEspressione folle dovuta alla passione non corrisposta che conduce al suicidio\n\nContesto drammaturgico\nAllusione alla vicenda di Ofelia nella tragedia shakespeariana\nEco dei suoi versi ho visto\n\nEffetto sullo spettatore\nDialogo silenzioso e tragico con chi osserva\nTensione psicologica resa con mezzi sobri e concentrati sulla figura\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "da0c53c348646a64ba52bb8aa7b17ca3",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_TestaDiOfeliaPazza.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "da0c53c348646a64ba52bb8aa7b17ca3",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_TestaDiOfeliaPazza.jpg",
+      "FileSizeBytes": 3675060
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "Testa di Ofelia pazza (studio)",
+    "Descrizione": "Studio pittorico raffigurante la tragica figura di Ofelia impazzita, personaggio shakespeariano.\nStudio intenso del volto di Ofelia in stato di follia, tratto shakespeariano. Il volto è distorto e gli occhi persi, con tratti coloristici variabili che sottolineano volatilità emotiva. Pennellate rapide rendono visivamente il disagio psicologico Wikimedia Commons+1Wikipedia+1carlovirgilio.it.\nQuest'opera è uno studio preparatorio della figura di Ofelia, celebre personaggio dell’Amleto di Shakespeare, colta nel momento della follia prima della sua tragica morte. L’immagine si concentra esclusivamente sul volto e parte del busto: lo sguardo perso nel vuoto, le labbra semiaperte, i capelli sciolti e mossi che incorniciano il volto.\nRapisardi esegue questo studio con estrema tensione emotiva. Le pennellate sono rapide e nervose, i colori spenti (ocra, grigi, blu slavati), mentre il viso appare alterato da un’espressione di alienazione. La luce colpisce la parte sinistra del viso, lasciando l’altra nell’ombra: una tecnica chiaroscurale che esalta il dissidio interiore.\nLa figura femminile è fragile ma intensa, costruita con pochi tratti essenziali, che però bastano a suggerire dramma, poesia, perdita del senno. Il fondo è neutro e sfumato, quasi a suggerire una dissolvenza nella mente turbata di Ofelia.\n\n\nMichele Rapisardi (1822–1886) è considerato il maggiore pittore storico siciliano dell’Ottocento. Quest’opera, pur essendo uno studio, è fondamentale per capire la sua transizione dal rigore accademico alla libertà espressiva. Con Ofelia, Rapisardi abbandona la narrazione eroica per avventurarsi nel dramma dell’interiorità, preannunciando una svolta moderna nella sua pittura.",
+    "Significato & importanza": "Riflessione sull’alienazione mentale e la tragedia femminile, tema romantico ricorrente.\n\nRappresenta il tema romantico della follia femminile, carico di pathos e introspezione. \nConnesso alla versione di Ofelia presentata all’Esposizione Universale di Parigi del 1867, una delle immagini iconiche di Rapisardi itCatania+1Wikipedia+1.\n\n\nIconografia romantica: Ofelia è uno dei personaggi più rappresentati nel Romanticismo per il suo carico simbolico — purezza, follia, destino tragico.  \nStudio psicologico: Più che una narrazione, Rapisardi propone qui un’indagine dell’emotività femminile al limite, usando la pittura per esplorare la mente turbata.  \nArte come introspezione: Questo studio è un esempio pionieristico di espressionismo emotivo nella pittura italiana dell’Ottocento.  \nRisonanza internazionale: La figura di Ofelia fu al centro dell’interesse europeo (pensiamo a Millais, Delacroix). Rapisardi si collega così al panorama romantico europeo, mostrando una spiccata sensibilità letteraria e simbolica.  \nCollegamento a grandi opere: Questo studio fu realizzato in preparazione alla grande tela di Ofelia, inviata da Rapisardi all’Esposizione Universale di Parigi del 1867, evento che consacrò la sua reputazione oltre i confine italiani.",
+    "Immagine": "",
+    "Opera di rilievo": "1 - 27",
+    "Corridoio": "SX"
+  }
+}

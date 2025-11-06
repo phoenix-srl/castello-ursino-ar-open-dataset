@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/20 - LaMorteDelTasso.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "20 - LaMorteDelTasso",
+    "m_EditorClassIdentifier": null,
+    "ID": 20,
+    "Title": "LaMorteDelTasso",
+    "Artist": "Domenico Morelli",
+    "Date": 1869,
+    "RiddleTextKey": "LaMorteDelTasso_riddle_text",
+    "RiddleAudioKey": "LaMorteDelTasso_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ff03ca19caa5cc4499d112c798f8df4c",
+      "type": 3
+    },
+    "InfoTextKey": "LaMorteDelTasso_info_text",
+    "InfoAudioKey": "LaMorteDelTasso_audio_text",
+    "InfoAI": "Titolo e tema\nDrammatica rappresentazione della morte di Torquato Tasso solo e sofferente nel convento di Sant’Onofrio luce radente che sottolinea la sofferenza fisica e psicologica accento su abbandono e solitudine del genio in sintonia con il Romanticismo\n\nDescrizione della scena\nIl poeta negli ultimi istanti coronato idealmente d’alloro\nFigure femminili e maschili gli rendono onore una porge libro o medaglia\nTasso giace su un letto tra panneggi e cuscini capo reclinato sguardo semichiuso immerso in luce calda\nSul fondo presenze secondarie rese in modo suggestivo e atmosferico\n\nColore e tecnica\nPalette con ocra marroni tonalità carne bianchi e azzurri delle vesti in contrasto con ombre profonde\nLuce orientata da sinistra che mette in risalto volto e fulcro dell’azione\nPennellata sciolta e vibrante tipica della maturità di Morelli\n\nAutore e contesto\nDomenico Morelli 1823–1901 figura trainante della Scuola Napoletana capace di unire tradizione storica accenti simbolisti e patriottici\nTra fine anni Sessanta e Settanta alterna soggetti religiosi letterari patriottici\nLa morte del Tasso insieme ad Arabo in preghiera conferma una visione umanistica del dramma interiore\n\nInterpretazione\nRappresentazione del genio incompreso e della tensione tra mondo interiore e società riflessione sull’alienazione intellettuale\nCelebrazione poetica momento emblematico della fine di Tasso con incoronazione figurativa a poeta nazionale\nIntreccio di storia e simbolo cura dei dettagli costume-storici e centralità del pathos\n\nCronologia e ricezione\nData 1869 fase di transizione dal romanticismo al simbolismo con intatto impatto narrativo ed emotivo\n\nCollocazione\nOpera nella collezione del Castello Ursino momento di riflessione letteraria e spirituale nella pinacoteca catanese\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "ff03ca19caa5cc4499d112c798f8df4c",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LaMorteDelTasso.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "ff03ca19caa5cc4499d112c798f8df4c",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LaMorteDelTasso.jpg",
+      "FileSizeBytes": 1764464
+    }
+  },
+  "SourceData": {
+    "Artista": "Domenico Morelli",
+    "Titolo": "La morte del Tasso",
+    "Descrizione": "Drammatica rappresentazione della morte del poeta Torquato Tasso, solo e sofferente nel convento di Sant’Onofrio. La luce radente sottolinea la sofferenza fisica e psicologica. L'opera accentua il senso di abbandono e la solitudine del genio, in perfetta sintonia con i dettami del Romanticismo.\n\nL’opera raffigura il poeta Torquato Tasso nei suoi ultimi istanti, coronato idealmente d’alloro e circondato da figure femminili e maschili, tra cui una che gli porge un libro o medaglia in segno di onore. Il poeta giace su un letto, sostenuto da panneggi e cuscini, con il capo reclinato e sguardo semi chiuso, immerso in una luce calda. Sullo sfondo compaiono figure secondarie, tratteggiato in modo suggestivo e atmosferico.\nLa palette cromatica è composta da ocra, marroni, tonalità carne e accenti chiari nei bianchi e azzurri delle vesti, contrastati da ombre profonde. La luce orientata dal lato sinistro della tela enfatizza il volto e la scena centrale, dando dignità e drammaticità alla fine tragica del poeta. Le pennellate sono sciolte e vibranti, tipiche della maturità espressiva di Morelli.\n\n🏛️ Contesto nella produzione di Morelli\nDomenico Morelli (1823–1901), figura trainante della Scuola Napoletana, si distingue per la sua capacità di unire la tradizione storica con accenti simbolisti e patriottici MeisterDrucke+13unict.academia.edu+13Wikipedia+13Wikipedia+5en.wikipedia.org+5picryl.com+5. Dopo aver ricevuto incarichi accademici e riconoscimenti, la sua produzione tra fine anni Sessanta e Settanta alterna soggetti religiosi, letterari e patriottici. La morte del Tasso, insieme a Arabo in preghiera (seppur differente per tema), conferma la sua visione umanistica del dramma interiore.",
+    "Significato & importanza": "Rappresenta il genio incompreso, la solitudine del poeta romantico e la tensione tra mondo interiore e società. È una riflessione sull’alienazione intellettuale.\n\n\nCelebrazione poetica: Ritrae il momento emblematico della morte di Tasso, che simboleggia la conclusione della sua travagliata esistenza e l’incoronazione figurativa di poeta nazionale.  \nIntreccio tra storia e simbolo: Morelli dedica attenzione ai dettagli storico-costumistici (vesti, corona, oggetti) mentre concentra l’attenzione sul pathos emotivo del morente, unendo elemento realistico e visione simbolista.  \nValore formativo: Data 1869, l’opera si colloca nel periodo in cui Morelli passava dal romanticismo al simbolismo, mantenendo la forza narrativa e l’impatto emotivo nei suoi soggetti religiosi e letterari catalogo.fondazionezeri.unibo.it.  \nRilevanza locale: Inserita nella collezione del Castello Ursino, l’opera è un pernottamento significativo di storica letteraria, offrendo un momento di riflessione intellettuale e spirituale alla pinacoteca Catanese.",
+    "Immagine": "",
+    "Opera di rilievo": "3",
+    "Corridoio": "CX"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/17 - RitrattoDelPadre.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "17 - RitrattoDelPadre",
+    "m_EditorClassIdentifier": null,
+    "ID": 17,
+    "Title": "RitrattoDelPadre",
+    "Artist": "Antonio Mancini",
+    "Date": "   ",
+    "RiddleTextKey": "RitrattoDelPadre_riddle_text",
+    "RiddleAudioKey": "RitrattoDelPadre_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7030b97827d38e74486bbe9496bcbc26",
+      "type": 3
+    },
+    "InfoTextKey": "RitrattoDelPadre_info_text",
+    "InfoAudioKey": "RitrattoDelPadre_audio_text",
+    "InfoAI": "Titolo e soggetto\nRitratto del padre dell’artista intenso personale carico di affetto e introspezione\n\nDescrizione della scena\nDon Paolo Mancini seduto al tavolino\nVolto di profilo leggermente girato verso lo spettatore\nBaffi folti pelle vissuta occhi attenti e concentrati\nGesto di lettura o meditazione capo appoggiato alla mano\nLuce soffusa che esalta l’espressione riflessiva\n\nStile e resa\nImpostazione verista\nPennellate dense impasto materico su volto e abiti\nSfondo indefinito a macchie atmosferiche che accentua la centralità del soggetto\nTavolozza di terre e ocra\nContrasto tra luce calda e ombra profonda per profondità emotiva e realismo intenso\n\nAutore e contesto\nAntonio Mancini 1852 1930 figura chiave del Verismo italiano\nDagli anni Novanta pittura di impasto materico e forti accenti emotivi\nPeriodo romano e poi a Frascati con ritratti della cerchia familiare amici personalità\nIn questo clima affettivo Ritratto del padre emerge come lavoro intimo e personale dove la poesia del vissuto passa attraverso luce e superficie del volto\n\nSignificato\nCelebrazione della figura paterna e dei legami familiari\nSimbolo del legame tra generazioni e del rispetto filiale\nRicerca di spessore psicologico oltre la somiglianza\nStudio riflessione e saggezza dell’età come nucleo espressivo\n\nValore artistico\nManifesto del verismo maturo di Mancini\nRealismo espressivo materia pittorica resa di emozioni interiori\n\nRisonanza\nIngresso nel circuito museale internazionale con riproduzione alla Tate a conferma della rilevanza oltre il contesto italiano\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "7030b97827d38e74486bbe9496bcbc26",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_RitrattoDelPadre.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "7030b97827d38e74486bbe9496bcbc26",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_RitrattoDelPadre.jpg",
+      "FileSizeBytes": 1953111
+    }
+  },
+  "SourceData": {
+    "Artista": "Antonio Mancini",
+    "Titolo": "Ritratto del padre",
+    "Descrizione": "Ritratto del padre dell’artista, intenso e personale, carico di affetto e introspezione.\nIl dipinto ritrae il padre dell'artista, Don Paolo Mancini, seduto al tavolino, volto di profilo leggermente girato verso lo spettatore. Il volto è segnato dagli anni: baffi folti, pelle vissuta, occhi attenti e concentrati. È rappresentato nell’atto del leggere o meditare, con il capo appoggiato alla mano, circondato da una luce soffusa che mette in risalto la sua espressione riflessiva.\nLo stile è tipicamente verista, con pennellate dense e un impasto materico, specie sul volto e sugli abiti. Lo sfondo è indefinito, fatto di macchie di colore e atmosfera, che amplifica la centralità del soggetto. La tavolozza utilizza terre e ocra, con contrasti tra luce calda e ombra profonda, conferendo profondità emotiva e realismo intensissimo.\n🏛️ Contesto nella produzione di Mancini\nAntonio Mancini (1852–1930), figura chiave del Verismo italiano, a partire dagli anni Novanta sviluppò una pittura di impasto materico e forti accenti emotivi Wikimedia Commons+6en.wikipedia.org+6Wikipedia+6. Spostatosi a Roma e quindi a Frascati, eseguì ritratti intensi della sua cerchia: bambini, amici, personalità. In questo contesto affettivo e domestico, Ritratto del padre emerge come uno dei suoi lavori maggiormente intimi e personali, dove la poesia del vissuto si manifesta nella luce e nella superficie visiva del volto.",
+    "Significato & importanza": "Opera intimista che celebra la figura paterna e i legami familiari.\n\nRitratto intimo e affettivo: Ritrae il padre in un momento di raccoglimento, simbolo del legame tra le generazioni e del rispetto filiale.  \nSpessore psicologico: Mancini non mira alla mera somiglianza, ma coglie un’attitudine esistenziale: lo studio, la riflessione, la saggezza dell’età.  \nEsempio di verismo pittorico: Il ritratto è un manifesto del suo stile maturo: realismo espressivo, materia pittorica, resa delle emozioni interiori.  \nRisonanza internazionale: L’opera è entrata nel circuito museale inglese, dove la Tate l’ha riprodotta, confermando il valore artistico del ritratto al di fuori del contesto italiano Pinterest+2Pinterest+2catalogo.fondazionezeri.unibo.it+2.",
+    "Immagine": "",
+    "Opera di rilievo": "7",
+    "Corridoio": "CX"
+  }
+}

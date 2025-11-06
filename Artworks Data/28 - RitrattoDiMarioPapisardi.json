@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/28 - RitrattoDiMarioPapisardi.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "28 - RitrattoDiMarioPapisardi",
+    "m_EditorClassIdentifier": null,
+    "ID": 28,
+    "Title": "RitrattoDiMarioPapisardi",
+    "Artist": "Antonino Gandolfo",
+    "Date": "ca. 1934",
+    "RiddleTextKey": "RitrattoDiMarioPapisardi_riddle_text",
+    "RiddleAudioKey": "RitrattoDiMarioPapisardi_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8cc110f9d2467be489dba99df010cb0f",
+      "type": 3
+    },
+    "InfoTextKey": "RitrattoDiMarioPapisardi_info_text",
+    "InfoAudioKey": "RitrattoDiMarioPapisardi_audio_text",
+    "InfoAI": "Soggetto\nPoeta ritratto in posizione frontale con sguardo diretto verso l’osservatore in cerca di relazione visiva\n\nAbiti e dettagli\nVesti sobrie dai toni scuri\nUnico elemento in evidenza il colletto della camicia bianca\n\nAmbientazione\nSfondo scuro come negli altri ritratti dell’artista\nLa figura del poeta tende a uniformarsi allo spazio circostante\n\nLuce\nAccenno luminoso proveniente dall’angolo in alto a destra della tela\nIlluminazione minima che definisce i volumi senza interrompere l’unità tonale\n\nCarattere del ritratto\nImpostazione essenziale e concentrata sul volto\nRegistro introspettivo fondato su sguardo e misura cromatica\n\nDati tecnici\nAssenza di firma\nAssenza di data\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "8cc110f9d2467be489dba99df010cb0f",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_RitrattoDiMarioPapisardi.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "8cc110f9d2467be489dba99df010cb0f",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_RitrattoDiMarioPapisardi.jpg",
+      "FileSizeBytes": 1336195
+    }
+  },
+  "SourceData": {
+    "Artista": "Antonino Gandolfo",
+    "Titolo": "Ritratto di Mario Rapisardi",
+    "Descrizione": "Ritratto postumo del celebre poeta catanese Mario Rapisardi, con volto ispirato a fotografie e memorie. Lo sguardo severo ma fiero, la posa statica e la tavolozza contenuta donano solennità al soggetto. L’opera è un omaggio pittorico e civile alla figura intellettuale.\nIl ritratto presenta lo scrittore e poeta Mario Rapisardi, “il vate etneo”, con postura calma e sguardo profondo. È raffigurato mezza figura su sfondo scuro, con giacca scura e cravatta, e viso illuminato da luce laterale che rivela i tratti decisi: occhi intensi, baffi folti e capigliatura ordinata. La resa del volto è attenta ma non eccessivamente dettagliata, mentre lo sfondo scuro ne esalta la presenza.\nLa pennellata è morbida e controllata, tipica del realismo siciliano post‑macchiaiolo. L’atmosfera è intima e raccolta, probabilmente ispirata alla relazione personale fra Gandolfo e il poeta: amici e protagonisti del cenacolo letterario catanese Wikipedia+1gandolfosfamilyarts.com+1Wikipedia.\n🏛️ Contesto nella carriera di Gandolfo\nAntonino Gandolfo, appartenente a una famiglia di artisti, si formò tra Firenze e Catania, approfondendo un realismo intimo e verista. Negli anni Ottanta e Novanta si dedicò intensamente alla ritrattistica – eseguendo volti di letterati, studiosi e figure pubbliche della Sicilia. Il Ritratto di Mario Rapisardi rientra in questo periodo ed è tra i migliori esempi di tale fase, insieme ai suoi ritratti di Luigi Capuana, Giovanni Verga e Salvatore Tomaselli fr.m.wikipedia.org+7Wikipedia+7Wikipedia+7.",
+    "Significato & importanza": "Testimonianza della venerazione per il poeta e la cultura laica, sociale e libertaria. È un documento identitario per la Catania letteraria.\n\nRitratto intimo e commemorativo: Raffigura uno dei massimi intellettuali catanesi con affetto e rispetto, immortalando l’essenza di Rapisardi, figura carismatica del panorama letterario siciliano StoriEnogastronomiche.itWikipedia.  \nTestimonianza del cenacolo artistico‑letterario: Gandolfo, cugino di Verga e amico di Rapisardi, documenta attraverso la pittura l’ambiente culturale di fine Ottocento a Catania WikipediaStoriEnogastronomiche.it.  \nValore artistico‑ritrattistico: L’opera esprime la maturità ritrattistica di Gandolfo: equilibrio compositivo, controllo della luce e interpretazione psicologica del soggetto Wikipedia.  \nImportanza collezionistica: Inserito nella collezione del museo per diritto anagrafico e culturale, l'opera rappresenta un documento visivo chiave dell’identità culturale catanese Benvenuti su goccediperle!+4museocivicocastelloursino.comune.catania.it+4Catalogo Beni Culturali+4.",
+    "Immagine": "",
+    "Opera di rilievo": "19",
+    "Corridoio": "SX"
+  }
+}

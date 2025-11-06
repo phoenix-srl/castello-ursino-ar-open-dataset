@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/22 - AmoreEMorte.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "22 - AmoreEMorte",
+    "m_EditorClassIdentifier": null,
+    "ID": 22,
+    "Title": "AmoreEMorte",
+    "Artist": "Calcedonio Reina",
+    "Date": 1881,
+    "RiddleTextKey": "AmoreEMorte_riddle_text",
+    "RiddleAudioKey": "AmoreEMorte_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "239801dbf06358b48a0c218c50a7cf7c",
+      "type": 3
+    },
+    "InfoTextKey": "AmoreEMorte_info_text",
+    "InfoAudioKey": "AmoreEMorte_audio_text",
+    "InfoAI": "Titolo e data\nCalcedonio Reina Amore e Morte 1881\n\nProvenienza\nAcquistato dal Comune di Catania nel 1881\n\nSoggetto e ambientazione\nBacio appassionato tra due amanti\nScenario delle catacombe dei Cappuccini di Palermo\nPresenza di teschi e mummie a sottolineare il contrasto tra amore e morte\n\nComposizione e resa\nCentralità del gesto del bacio\nDrappeggi curati e attenti al rilievo plastico\nUso del colore ricco e teatrale per intensificare pathos e atmosfera\n\nStile e influenze\nFormazione presso Domenico Morelli maestro della scuola napoletana\nEredità morelliana nell’uso del colore e nel trattamento dei panneggi\nAderenza alla cultura europea e alla corrente simbolista ottocentesca\n\nProfilo dell’autore\nPittore catanese con vena macabra ricorrente\nInteresse per temi emotivi e visionari con forte carica allegorica\n\nTemi e significato\nDialettica eros thanatos amore e morte come poli opposti e complementari\nBellezza che nasce dal luogo terribile del sepolcro trasformato in teatro di passione\nRiflessione sul limite tra vita desiderio e caducità\n\nLettura critica\nEsempio di simbolismo mediterraneo in chiave scenografica\nEquilibrio tra fascinazione macabra e intensità sentimentale\nIcona del bacio nell’arte per forza evocativa e memoria collettiva\n\nSintesi\nOpera che unisce suggestione funebre e lirismo amoroso\nCapace di coniugare tradizione morelliana sensibilità simbolista e identità siciliana\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "239801dbf06358b48a0c218c50a7cf7c",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_AmoreEMorte.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "239801dbf06358b48a0c218c50a7cf7c",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_AmoreEMorte.jpg",
+      "FileSizeBytes": 1983641
+    }
+  },
+  "SourceData": {
+    "Artista": "Calcedonio Reina",
+    "Titolo": "Amore e morte",
+    "Descrizione": "Composizione allegorica in cui due figure — Amore e Morte — si contrappongono, con tonalità cromatiche che sfumano dal rosso passionale al nero della dissoluzione. L’artista propone una meditazione pittorica sull’ineluttabilità della morte e l’illusione dell’amore.\n\nLa scena raffigura una coppia che si bacia tra le arcate delle Catacombe dei Cappuccini di Palermo, immortalando il contrasto tra amore intenso e morte silenziosa. Gli sposi sono vestiti con abiti eleganti: lui con giacca scura, lei in un vestito bianco, illuminato come un faro in un ambiente plumbeo. Le pareti della cripta, costellate di mummie allineate, fanno da sfondo tetro e simbolico.\nL’illuminazione drammatica accentua il parallelismo tra i corpi viventi e le ossa dei defunti, evidenziando la tensione tra passione e precarietà dell’esistenza. La pennellata è morbida ma definita, con un equilibrio tra realismo e atmosfera simbolica.\n\n🏛️ Contesto nella produzione dell’autore\nCalcedonio Reina (1842–1911), autodidatta influenzato da Morelli e figure simboliste, organizzò la sua arte attorno a contrasti: realismo, allegoria, romanticismo. Amore e morte fu esposto a Milano nel 1881 e a Napoli nel 1882, collocandosi tra le sue opere tematiche di maggior impatto come quelli ispirati alle catacombe palermitane Reddit+11sicilyinpainting.it+11frontini.altervista.org+11.",
+    "Significato & importanza": "Opera allegorica di rara forza simbolica. Rappresenta la dialettica esistenziale tra desiderio e fine, un’icona visiva della filosofia tardo-romantica.\n\n\nCarpe diem macabro: L’opera indaga il tema esistenziale del momento rubato alla morte, facendo eco a Hayez, ma con la visione cupa e simbolista di Reina frontini.altervista.org+2Byron's Muse+2Pomeriggi perduti+2.  \nSimbolismo forte: Il bacio diventa atto di ribellione all’irreversibilità del tempo, mentre le mummie incarnano l’ineluttabilità della morte Byron's MusePomeriggi perduti.  \nMagistrale esplorazione del contrasto: Il contrasto cromatico (bianco vs scuro) e l’ambientazione lugubre rendono l’opera memorabile e suggestiva.  \nOpera meditativa: Il dipinto invita lo spettatore a riflettere sulla dimensione effimera dell’amore e del tempo, incarnando una sensibilità esistenziale ormai vicina al Secolo breve Pomeriggi perdutiByron's Muse.  \nPittura-poesia: Com’è nel carattere poliedrico di Reina — pittore e poeta — Amore e morte è un’allegoria visiva che fonde narrazione e meditazione simbolica en.wikipedia.org+3sicilyinpainting.it+3Byron's Muse+3.",
+    "Immagine": "",
+    "Opera di rilievo": "8",
+    "Corridoio": "CX"
+  }
+}

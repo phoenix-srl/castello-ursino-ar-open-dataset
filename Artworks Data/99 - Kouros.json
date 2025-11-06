@@ -1,0 +1,75 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/99 - Kouros.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "99 - Kouros",
+    "m_EditorClassIdentifier": null,
+    "ID": 99,
+    "Title": "Kouros",
+    "Artist": "Kouros artist",
+    "Date": 1983,
+    "RiddleTextKey": "Kouros_riddle_text",
+    "RiddleAudioKey": "Kouros_riddle_audio",
+    "FullResImage": {
+      "fileID": 0
+    },
+    "InfoTextKey": "Kouros_info_text",
+    "InfoAudioKey": "Kouros_audio_text",
+    "InfoAI": "Kouros AI INFO",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    }
+  },
+  "SourceData": {
+    "Artista": "sconosciuto",
+    "Titolo": "sconosciuto",
+    "Descrizione": "'-",
+    "Significato & importanza": "'-",
+    "Immagine": "",
+    "Opera di rilievo": "",
+    "Corridoio": "CX"
+  }
+}

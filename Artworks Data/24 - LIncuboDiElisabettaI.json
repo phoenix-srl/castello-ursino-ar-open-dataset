@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/24 - LIncuboDiElisabettaI.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "24 - LIncuboDiElisabettaI",
+    "m_EditorClassIdentifier": null,
+    "ID": 24,
+    "Title": "LIncuboDiElisabettaI",
+    "Artist": "Pasquale Liotta",
+    "Date": "   ",
+    "RiddleTextKey": "LIncuboDiElisabettaI_riddle_text",
+    "RiddleAudioKey": "LIncuboDiElisabettaI_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "40c42a79ece9ff54e91127f00de58798",
+      "type": 3
+    },
+    "InfoTextKey": "LIncuboDiElisabettaI_info_text",
+    "InfoAudioKey": "LIncuboDiElisabettaI_audio_text",
+    "InfoAI": "Titolo e autore\nPasquale Liotta Cristaldi 1850 1903 pittore catanese dell Ottocento\n\nContesto\nPeriodo ricco di scambi tra le arti e di affinità elettive\nProduzione intensa soprattutto locale\nOpera esposta insieme ad altri quadri ma capace di catturare sguardo e attenzione per storia colori e scena\n\nDati tecnici\nOlio su tela con cornice\nMisure 133 x 193 cm dimensione prossima a una scena reale\n\nSoggetto\nIncubo della regina Elisabetta I d Inghilterra\nLa sovrana si desta alla visione della cugina Maria Stuart che regge la propria testa\n\nProfilo storico\nMaria Stuart regina di Scozia di fede cattolica\nRivolta dei protestanti contro di lei\nFuga in Inghilterra in cerca di ospitalità dalla cugina Elisabetta I\nPrigionia per quasi vent anni\nEsecuzione finale per neutralizzare il fronte scozzese e l opposizione cattolica\n\nIconografia e stile\nPresenza di elementi gotici\nSimboli forti come i teschi alle spalle di Maria\nFigura di un vecchio interpretabile come personificazione dell incubo\nPossibile ritratto dell amico Calcedonio Reina cui Liotta dedica l opera\n\nLettura\nContrasto tra eros della vita di corte e thanatos della decapitazione\nVisione onirica che mescola storia leggenda e memoria affettiva dell artista\n\nSintesi\nOpera di forte impatto scenico e simbolico che unisce cultura locale sensibilità ottocentesca e immaginario gotico\nLa visione è più suggestiva dal vero ma attenzione alla cosiddetta sindrome di Stendhal\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "40c42a79ece9ff54e91127f00de58798",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LIncuboDiElisabettaI.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "40c42a79ece9ff54e91127f00de58798",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LIncuboDiElisabettaI.jpg",
+      "FileSizeBytes": 1686068
+    }
+  },
+  "SourceData": {
+    "Artista": "Pasquale Liotta",
+    "Titolo": "L’incubo di Elisabetta I",
+    "Descrizione": "Scena onirica che raffigura un incubo della regina Elisabetta I, carica di simbolismo e angoscia.\nComposizione onirica e macabra: la regina Elisabetta I giace nel suo letto, evidente segno di tormento psicologico. Al suo fianco, o leggermente sullo sfondo, compare il volto spettrale di Maria Stuarda con la testa mozzata—il motivo del suo incubo. L’atmosfera è scura, carica di inquietudine: la regina si scopre disperata, l’effetto è accentuato dal contrasto tra la figura illuminata e lo sfondo ombroso.\nTecnica mista: la sensibilità della tempera e l’approccio su pergamena conferiscono all’opera una nitidezza delicata e al contempo enigmatica. La resa dei colori si mantiene sottile, creatrice di un’atmosfera sospesa, tra sogno e visione.\nIconografia simbolica: l’incubo visivo è supportato da simbologie forti—l’apparizione del fantasma decapitato come simbolo di rimorso, peccato e destino tragico. L'opera, pur minuta, esprime un dramma interiore potente.\n\n🏛️ Contesto nella carriera di Liotta\nPasquale Liotta Cristaldi (1850–1909), nato e formato a Napoli con Domenico Morelli, esplorò sia la pittura storica (come La cospirazione degli esuli siciliani a Roma) sia quella simbolista. Con L’incubo di Elisabetta I (o La veglia della regina originariamente dedicata a Maria Tudor la Sanguinaria), partecipa a una tappa matura del suo percorso, influenzato da Morelli e da figure come Reina—inizia a intessere simbolo e visione drammatica su temi storici-laterali Catalogo Beni Culturali+2Catalogo Beni Culturali+2Catalogo Beni Culturali+2Wikimedia Commons+12Wikipedia+12www.agrigentodoc.it+12.\nÈ parte della collezione donata da Mario Rapisardi, riconosciuta per la sua rilevanza simbolico-storica, e oggi è visibile nella Biblioteca Museo, a testimonianza di come l’arte privata circolasse all’interno del cenacolo culturale catanese Catalogo Beni Culturali+2Catalogo Beni Culturali+2Catalogo Beni Culturali+2.",
+    "Significato & importanza": "Rappresentazione psicologica della regina, carica di tensione e profondità emotiva.\n\n\nVisione storica-personale: liotta Cristaldi, allievo di Morelli, affronta qui le conseguenze psicologiche del cruento atto politico: Elisabetta vive il rimorso postmortem di Maria Stuarda Threads+13Wikipedia+13Catalogo Beni Culturali+13.  \nSimbolismo erotico-macabro: l’opera convoglia pathos, storia, simbolismo e tensione visiva, anticipando sensibilità su animo e paura interiori.  \nContenuto culturale: combinando narrazione storica e drammaticità visionaria, il quadro incarna la vena simbolista e intellettuale dell’artista siciliano, all’altezza delle tensioni psicologiche rappresentate nell’arte tardoromantica italiana.  \nValore evocativo: piccolo formato, grande effetto narrativo: mostra come Liotta potesse manipolare la materia pittorica su supporti inconsueti per comunicare un’intensa emozione visionaria.",
+    "Immagine": "",
+    "Opera di rilievo": "32",
+    "Corridoio": "CX"
+  }
+}

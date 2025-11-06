@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/06 - FedericoBarbarossaVintoDallaLegaLombarda.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "06 - FedericoBarbarossaVintoDallaLegaLombarda",
+    "m_EditorClassIdentifier": null,
+    "ID": 6,
+    "Title": "FedericoBarbarossaVintoDallaLegaLombarda",
+    "Artist": "Michele Rapisardi",
+    "Date": 1859,
+    "RiddleTextKey": "FedericoBarbarossaVintoDallaLegaLombarda_riddle_text",
+    "RiddleAudioKey": "FedericoBarbarossaVintoDallaLegaLombarda_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2d47c063e5a82c449bc8eb2577f6f7b2",
+      "type": 3
+    },
+    "InfoTextKey": "FedericoBarbarossaVintoDallaLegaLombarda_info_text",
+    "InfoAudioKey": "FedericoBarbarossaVintoDallaLegaLombarda_audio_text",
+    "InfoAI": "Titolo e tema\nBozzetto patriottico sulla sconfitta imperiale ad opera dei comuni della Lega Lombarda\n\nTecnica e formato\nStudio su carta con tratti rapidi e vibranti che anticipano la monumentalità dell’opera finale\n\nScena\nL’imperatore Federico Barbarossa circondato dalle truppe della Lega Lombarda nel momento della sconfitta\nAffollamento di figure cavalli e stendardi che rende l’atmosfera concitata\n\nComposizione e movimento\nAddensamento al centro della scena\nBandiere elmi stemmi comunali come simboli di identità civica\nGestualità eroica che suggerisce dinamismo e confusione bellica\n\nColore e tratto\nToni sobri con prevalenza di terre grigi e ocra\nPennellate veloci a delineare soldati e cavalli\nSuggestione della tipica concitazione di uno scontro medievale\n\nAutore e periodo\nMichele Rapisardi 1822–1886 pittore storico siciliano\nFase di massima creatività tra il 1858 e il 1861\n\nOpere correlate\nFederico Barbarossa vinto dalla Lega Lombarda bozzetto 1859\nI Vespri Siciliani 1864–1865\nPercorso storico mitologico e patriottico coerente con l’ideologia risorgimentale\n\nValore e contesto\nIl bozzetto è impulso compositivo di primaria importanza nel processo creativo\nEnfasi su unità nazionale e autonomia comunale\nRiflesso del fervore risorgimentale\n\nSignificato storico\nRichiamo alla Battaglia di Legnano 1176 con i comuni lombardi vittoriosi\nOde alla libertà contro il dominio straniero\n\nValenza politica ottocentesca\nLa figura di Barbarossa usata come emblema della resistenza dei popoli italiani contro oppressioni esterne in linea con il moto unitario\n\nSintesi\nBozzetto preparatorio che unisce simboli identitari energia narrativa e finalità civica collegando memoria storica e aspirazione all’indipendenza nazionale\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "2d47c063e5a82c449bc8eb2577f6f7b2",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_FedericoBarbarossaVintoDallaLegaLombarda.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "2d47c063e5a82c449bc8eb2577f6f7b2",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_FedericoBarbarossaVintoDallaLegaLombarda.jpg",
+      "FileSizeBytes": 1149056
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "Federico Barbarossa vinto dalla Lega Lombarda (primo pensiero); bozzetto",
+    "Descrizione": "Bozzetto patriottico che immortala la sconfitta imperiale da parte dei comuni italiani uniti nella Lega Lombarda. Rapisardi inserisce simboli di identità civica: bandiere, elmi, stemmi comunali. Il bozzetto è ricco di movimento e suggerisce la monumentalità della scena definitiva.\n\n\nQuesto bozzetto mostra una scena di forte dinamismo storico-patriottico: l'imperatore Federico Barbarossa, circondato da truppe della Lega Lombarda, è ritratto nel momento della sconfitta. Le figure si affollano attorno al centro, con cavalli e bandiere che suggeriscono movimento e confusione bellica. Il bozzetto, grazie alla tecnica su carta, presenta tratti rapidi e vibranti, che mettono in evidenza l’atmosfera concitata del dramma.\nIl colore è utilizzato con sobrietà: toni terrosi, grigiastri e ocra dominano la composizione, mentre i tratti veloci delineano i contorni dei soldati e dei cavalli. Le pennellate suggeriscono la confusione tipica di uno scontro medievale.\n\nMichele Rapisardi (1822–1886), fondamentale pittore storico siciliano, vive un momento di massima creatività tra il 1858 e il 1861 Wikipedia+1itCatania+1. In questi anni realizza una serie di opere monumentali, tra cui:\n\nFederico Barbarossa vinto dalla Lega Lombarda (bozzetto, 1859)  \nI Vespri Siciliani (1864–1865)  \nStudio storico-mitologico e patriottico coerente con l'ideologia risorgimentale. \nIl bozzetto funge da impulso compositivo verso il lavoro definitivo, con grande importanza nel processo creative.",
+    "Significato & importanza": "Enfatizza l’unità nazionale, il valore dell’autonomia comunale, e riflette il fervore risorgimentale dell’epoca.\n\n\nAffermazione storica: La scena richiama la leggendaria Battaglia di Legnano del 1176, in cui i comuni lombardi sconfissero l’Imperatore, e rappresenta un chiaro simbolo del patriottismo risorgimentale: un'ode alla libertà contro il dominio straniero Wikipedia+1itCatania+1Yumpu+1Wikipedia+1Wikipedia+1Wikipedia+1Wikipedia+2Wikipedia+2Wikipedia+2.  \nSimbolo politico: Durante l’Ottocento la figura di Barbarossa fu usata per esaltare la resistenza dei popoli italiani contro oppressioni esterne, in linea con la spinta all’Unità nazionale YumpuWikipedia.  \nValore artistico: Come bozzetto preparatorio, rappresenta il primo impulso compositivo e rappresentativo dell’opera finale. Rapisardi vi inserisce simboli identitari — stendardi, elmi, pose eroiche — destinati al grande dipinto conclusivo Wikipedia+10Yumpu+10itCatania+10.  \nContesto risorgimentale: Realizzato nel 1859, si inserisce nel fervore politico italiano post-1848, evidenziando il legame tra memoria storica e aspirazione all’indipendenza nazionale.",
+    "Immagine": "",
+    "Opera di rilievo": "21",
+    "Corridoio": "SX"
+  }
+}

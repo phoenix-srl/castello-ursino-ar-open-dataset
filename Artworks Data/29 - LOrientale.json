@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/29 - LOrientale.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "29 - LOrientale",
+    "m_EditorClassIdentifier": null,
+    "ID": 29,
+    "Title": "LOrientale",
+    "Artist": "Michele Rapisardi",
+    "Date": "   ",
+    "RiddleTextKey": "LOrientale_riddle_text",
+    "RiddleAudioKey": "LOrientale_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "b679b9a3af85cbb40af0a2e9bbb0f189",
+      "type": 3
+    },
+    "InfoTextKey": "LOrientale_info_text",
+    "InfoAudioKey": "LOrientale_audio_text",
+    "InfoAI": "Titolo e soggetto\nRitratto femminile di origine orientale\n\nAbbigliamento e resa pittorica\nStoffe preziose dipinte con ricercatezza\nAttenzione ai particolari di trama e riflessi\nRicami lucenti che amplificano il pregio dell’abito\n\nIdentità e caratteri\nLuccichio dei ricami come indizio della provenienza orientale\nTratti somatici orientali evidenziati con cura\n\nColore e materia\nTavolozza ricca che valorizza tessuti e luminosità\nSuperfici rese con finezza per suggerire tattilità e peso dei materiali\n\nContesto di gusto\nRimando al fascino ottocentesco per l’Oriente\nInteresse europeo per tessuti colori e fisionomie orientali in fase di scoperta\n\nSintesi interpretativa\nImmagine che coniuga eleganza decorativa e identità culturale\nIl virtuosismo nella resa dei tessuti diventa veicolo di esotismo e segno del gusto del tempo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "b679b9a3af85cbb40af0a2e9bbb0f189",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_LOrientale.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "b679b9a3af85cbb40af0a2e9bbb0f189",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_LOrientale.jpg",
+      "FileSizeBytes": 2132135
+    }
+  },
+  "SourceData": {
+    "Artista": "Michele Rapisardi",
+    "Titolo": "L'orientale",
+    "Descrizione": "Il dipinto ritrae una figura femminile dal sapore esotico, con turbante e vesti preziose in stile orientalista. Il volto, dai tratti morbidi e lo sguardo dolce, è reso con una pennellata levigata e attenzione ai riflessi dorati dei tessuti. Lo sfondo è neutro e attenua eventuali suggestioni paesaggistiche, concentrando l’attenzione sulla figura: una “convenzione pittorica” più che una ricostruzione reale, secondo le fonti musealimuseocivicocastelloursino.comune.catania.it. L’opera esprime eleganza e delicatezza, sulla scia dei ritratti raffinati che Rapisardi realizzava negli anni Ottanta.\n\n🏛️ Contesto nella produzione dell’artista\nAlla fine della sua carriera, Rapisardi si dedica meno a temi storici e più a ritratti e figure eleganti, capaci di evocare sensualità attraverso la luce, il colore e la composizione. L’orientale, datato 1883, si inserisce in questa fase, accanto a creazioni come Ore felici e Venere su divano verde Wikipedia+2Wikipedia+2Wikipedia+2.",
+    "Significato & importanza": "Orientalismo pittorico: Attraverso l’uso di simboli esotici come turbante e gioielli dorati, l’opera aderisce alla moda ottocentesca dell’orientalismo, senza però richiamare un contesto geografico preciso askART+15museocivicocastelloursino.comune.catania.it+15itCatania+15.  \nRitrattistica di maniera: L’opera non cerca autenticità etnografica, ma mira all’effetto decorativo ed estetico, in linea con “ritratti di maniera” museocivicocastelloursino.comune.catania.it.  \nEleganza formale e tecnica: La resa luminosa dei tessuti e il volto dalle tonalità morbide dimostrano la piena maturità stilistica di Rapisardi, capace di unire sentimento e raffinatezza formale.  \nPunta di modernità: Sebbene radicata nella tradizione romantico-neoclassica, l’opera si confronta con sensibilità esotico-orientaliste e mostra un Rapisardi attento ai gusti internazionali dell’ultimo Ottocento.",
+    "Immagine": "",
+    "Opera di rilievo": "18",
+    "Corridoio": "SX"
+  }
+}

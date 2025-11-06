@@ -1,0 +1,264 @@
+{
+  "AssetFile": "ScriptableObjects/Artworks/Catania - Kouros Artworks/10 - TorquatoTassoEIlcardinaleLuigiDEste.asset",
+  "MonoBehaviour": {
+    "m_ObjectHideFlags": 0,
+    "m_CorrespondingSourceObject": {
+      "fileID": 0
+    },
+    "m_PrefabInstance": {
+      "fileID": 0
+    },
+    "m_PrefabAsset": {
+      "fileID": 0
+    },
+    "m_GameObject": {
+      "fileID": 0
+    },
+    "m_Enabled": 1,
+    "m_EditorHideFlags": 0,
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3
+    },
+    "m_Name": "10 - TorquatoTassoEIlcardinaleLuigiDEste",
+    "m_EditorClassIdentifier": null,
+    "ID": 10,
+    "Title": "TorquatoTassoEIlcardinaleLuigiDEste",
+    "Artist": "Natale Attanasio",
+    "Date": "   ",
+    "RiddleTextKey": "TorquatoTassoEIlcardinaleLuigiDEste_riddle_text",
+    "RiddleAudioKey": "TorquatoTassoEIlcardinaleLuigiDEste_riddle_audio",
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f00bc26191fa33c489ba4db1eb59a24b",
+      "type": 3
+    },
+    "InfoTextKey": "TorquatoTassoEIlcardinaleLuigiDEste_info_text",
+    "InfoAudioKey": "TorquatoTassoEIlcardinaleLuigiDEste_audio_text",
+    "InfoAI": "Titolo e tema\nScena intimista e psicologica tra Torquato Tasso e il cardinale Luigi d’Este dramma silenzioso sul rapporto tra mecenatismo e libertà creativa\n\nAmbientazione\nChiostro rinascimentale suggerito da colonne marmoree e pavimento geometrico a scacchi\nLuce morbida che valorizza volti e architettura tono solenne non pomposo\n\nDisposizione delle figure\nTasso in primo piano a sinistra dignitoso assorto volto inquieto rivolto al cardinale\nCardinale a destra in porpora e drappeggi ricchi figura dominante che guida il colloquio\nTerza figura in disparte possibile assistente o testimone\n\nStile e resa\nPennellate misurate equilibrio tra figure e spazio architettonico\nAttenzione ai dettagli di abiti gesti sguardi per una coralità controllata\n\nAutore e periodo\nNatale Attanasio Catania 1845 Roma 1923 allievo di Domenico Morelli\nPittore di scene storiche letterarie e sacre\nOpera collocabile nella fase finale 1880 1900 con forte attenzione psicologica e ambientazioni precise\n\nContesto dell’autore\nTema coerente con la sua narrativa culturale accanto a Le tentazioni di San Girolamo Donne per i campi Le pazze esposte nella stessa sala dedicate a figure religiose popolari letterarie\n\nSignificato storico letterario\nRievocazione del rapporto fra Tasso e il mecenate Luigi d’Este negli anni ferraresi 1565 1572 decisivi per La Gerusalemme liberata\nRiflessione sulla tensione tra creatività e autorità\n\nLettura psicologica\nTasso rispettoso ma in bilico tra devozione e inquietudine\nCardinale autorevole e contemplativo\n\nCollocazione museale\nSala storica del Castello Ursino dedicata tra gli altri a Rapisardi e Attanasio integrazione di narrazioni letterarie spirituali e sociali nella visione collezionistica del museo\n",
+    "ExtraData": []
+  },
+  "References": {
+    "m_Script": {
+      "fileID": 11500000,
+      "guid": "4b1cce60abc451145b60979d5563b39a",
+      "type": 3,
+      "MetaPath": "Scripts/Scriptable Objects/Artwork.cs.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "4b1cce60abc451145b60979d5563b39a",
+        "MonoImporter": {
+          "externalObjects": {},
+          "serializedVersion": 2,
+          "defaultReferences": [],
+          "executionOrder": 0,
+          "icon": {
+            "instanceID": 0
+          },
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Scripts/Scriptable Objects/Artwork.cs",
+      "FileSizeBytes": 1923
+    },
+    "FullResImage": {
+      "fileID": 2800000,
+      "guid": "f00bc26191fa33c489ba4db1eb59a24b",
+      "type": 3,
+      "MetaPath": "Textures/Artwork Info Pictures/Info_TorquatoTassoEIlcardinaleLuigiDEste.jpg.meta",
+      "Meta": {
+        "fileFormatVersion": 2,
+        "guid": "f00bc26191fa33c489ba4db1eb59a24b",
+        "TextureImporter": {
+          "internalIDToNameTable": [],
+          "externalObjects": {},
+          "serializedVersion": 13,
+          "mipmaps": {
+            "mipMapMode": 0,
+            "enableMipMap": 1,
+            "sRGBTexture": 1,
+            "linearTexture": 0,
+            "fadeOut": 0,
+            "borderMipMap": 0,
+            "mipMapsPreserveCoverage": 0,
+            "alphaTestReferenceValue": 0.5,
+            "mipMapFadeDistanceStart": 1,
+            "mipMapFadeDistanceEnd": 3
+          },
+          "bumpmap": {
+            "convertToNormalMap": 0,
+            "externalNormalMap": 0,
+            "heightScale": 0.25,
+            "normalMapFilter": 0,
+            "flipGreenChannel": 0
+          },
+          "isReadable": 0,
+          "streamingMipmaps": 0,
+          "streamingMipmapsPriority": 0,
+          "vTOnly": 0,
+          "ignoreMipmapLimit": 0,
+          "grayScaleToAlpha": 0,
+          "generateCubemap": 6,
+          "cubemapConvolution": 0,
+          "seamlessCubemap": 0,
+          "textureFormat": 1,
+          "maxTextureSize": 2048,
+          "textureSettings": {
+            "serializedVersion": 2,
+            "filterMode": 1,
+            "aniso": 1,
+            "mipBias": 0,
+            "wrapU": 0,
+            "wrapV": 0,
+            "wrapW": 0
+          },
+          "nPOTScale": 0,
+          "lightmap": 0,
+          "compressionQuality": 50,
+          "spriteMode": 0,
+          "spriteExtrude": 1,
+          "spriteMeshType": 1,
+          "alignment": 0,
+          "spritePivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "spritePixelsToUnits": 100,
+          "spriteBorder": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 0
+          },
+          "spriteGenerateFallbackPhysicsShape": 1,
+          "alphaUsage": 1,
+          "alphaIsTransparency": 0,
+          "spriteTessellationDetail": -1,
+          "textureType": 0,
+          "textureShape": 1,
+          "singleChannelComponent": 0,
+          "flipbookRows": 1,
+          "flipbookColumns": 1,
+          "maxTextureSizeSet": 0,
+          "compressionQualitySet": 0,
+          "textureFormatSet": 0,
+          "ignorePngGamma": 0,
+          "applyGammaDecoding": 0,
+          "swizzle": 50462976,
+          "cookieLightType": 0,
+          "platformSettings": [
+            {
+              "serializedVersion": 3,
+              "buildTarget": "DefaultTexturePlatform",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Standalone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "iPhone",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "WebGL",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            },
+            {
+              "serializedVersion": 3,
+              "buildTarget": "Android",
+              "maxTextureSize": 2048,
+              "resizeAlgorithm": 0,
+              "textureFormat": -1,
+              "textureCompression": 1,
+              "compressionQuality": 50,
+              "crunchedCompression": 0,
+              "allowsAlphaSplitting": 0,
+              "overridden": 0,
+              "ignorePlatformSupport": 0,
+              "androidETC2FallbackOverride": 0,
+              "forceMaximumCompressionQuality_BC6H_BC7": 0
+            }
+          ],
+          "spriteSheet": {
+            "serializedVersion": 2,
+            "sprites": [],
+            "outline": [],
+            "physicsShape": [],
+            "bones": [],
+            "spriteID": null,
+            "internalID": 0,
+            "vertices": [],
+            "indices": null,
+            "edges": [],
+            "weights": [],
+            "secondaryTextures": [],
+            "nameFileIdTable": {}
+          },
+          "mipmapLimitGroupName": null,
+          "pSDRemoveMatte": 0,
+          "userData": null,
+          "assetBundleName": null,
+          "assetBundleVariant": null
+        }
+      },
+      "AssetPath": "Textures/Artwork Info Pictures/Info_TorquatoTassoEIlcardinaleLuigiDEste.jpg",
+      "FileSizeBytes": 1817766
+    }
+  },
+  "SourceData": {
+    "Artista": "Natale Attanasio",
+    "Titolo": "Torquato Tasso e il cardinale Luigi d’Este",
+    "Descrizione": "Scena intimista e psicologica: Tasso siede di fronte al potente cardinale, tra rispetto e conflitto. L’atmosfera è tesa, la luce evidenzia il volto inquieto del poeta. La tela è un dramma silenzioso sul rapporto tra mecenatismo e libertà creativa.\n\n\nLa scena ritrae il poeta Torquato Tasso in un momento di udienza o colloquio con il cardinale Luigi d’Este, svolto presumibilmente in un chiostro rinascimentale, come suggeriscono colonne marmoree e pavimento geometrico. Tasso, collocato in primo piano a sinistra, ha l’aspetto dignitoso e assorto. Il cardinale, con la sua porpora e abito riccamente drappeggiato, domina la scena di destra, mentre una terza figura osserva in disparte, forse assistente o testimone del colloquio. Skuola.net\nLa luce è morbida, creando un contrasto equilibrato tra le figure e l’ambiente architettonico. Il colore sobrio e i dettagli come il pavimento a scacchi conferiscono all’insieme un tono solenne, ma non pomposo, valorizzando la dimensione intellettuale e cortesana dell’incontro.\n\n\nNatale Attanasio (Catania 1845–Roma 1923), allievo di Domenico Morelli, si dedicò a scene storiche, letterarie e sacre. Questo dipinto si inserisce nella fase finale del suo percorso (anni 1880–1900), caratterizzata da attenzione alla psicologia dei personaggi e ambientazioni architettoniche precise cora.ucc.ie+13Wikipedia+13www2.regione.sicilia.it+13.\nIl soggetto rientra nella sua narrativa culturale, accanto a opere come Le tentazioni di San Girolamo, Donne per i campi e Le pazze, tutte esposte nella stessa sala, che esplorano figure emblematiche: religiose, popolari, letterarie.",
+    "Significato & importanza": "Illustra il difficile rapporto tra creatività e autorità. È un saggio pittorico sull’introspezione e la condizione artistica.\n\n\nDramma storico-letterario: Il dipinto evoca il legame profondo fra Tasso e Luigi d’Este, mecenate che sostenne il poeta negli anni ferraresi (1565–1572), periodo cruciale per l’elaborazione de La Gerusalemme liberata SlidePlayer+4Wikipedia+4Skuola.net+4.  \nDimensione psicologica: Attanasio rappresenta non solo l’incontro, ma un momento di tensione sottile — Tasso appare rispettoso ma in bilico tra devozione e inquietudine; il cardinale è autorevole ma anche contemplativo.  \nExpres­sione culturale: Il quadro mostra l’importanza del mecenatismo nella cultura rinascimentale, ricreando un momento emblematico dell’intellettualità europea del XVI secolo.  \nCollocazione museale: Collocata nella sala storica del Castello Ursino – dedicata tra gli altri a Rapisardi e Attanasio – l’opera integra narrazioni letterarie, spirituali e sociali nella visione collezionistica del museo Benvenuti su goccediperle!Wikipedia+2Wikipedia+2Wikipedia+2.",
+    "Immagine": "",
+    "Opera di rilievo": "9",
+    "Corridoio": "DX"
+  }
+}
