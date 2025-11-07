@@ -53,6 +53,18 @@ Folder containing structured information about the paintings, used by the smart 
 
 ---
 
+| Screenshot                                 | Description                                                                                    |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| ![](./app_screenshots/main_menu.jpg)         | **Main Menu** – Selection of artworks to explore in AR.                                        |
+| ![](app_screenshots/kouros_reassemble.jpg) | **Kouros Puzzle** – Reassemble the statue by dragging the fragments into place.                |
+| ![](app_screenshots/artwork_info.jpg)      | **Artwork Information** – Historical and artistic details with guided narration and Smart Assistant help.               |
+| ![](app_screenshots/kouros_speaking.jpg)   | **Narrating Avatar** – The Kouros comes to life and guides the user through the experience.    |
+| ![](app_screenshots/game.jpg)              | **“Lost Balance” Minigame** – One of 9 available minigames.                   |
+| ![](app_screenshots/game_tutorial.jpg)     | **Minigame Tutorial** – Intro instructions: find the balance between “love and death.”         |
+| ![](app_screenshots/credits.jpg)           | **Credits Screen** – Project partners, research institutions, and funding (PNRR – SAMOTHRACE). |
+| ![](app_screenshots/final_scene.jpg)       | **Final Screen** – End of the experience with optional email submission for rewards.           |
+
+
 ## 📜 License
 
 All assets are provided exclusively for **research, education, cultural heritage enhancement, and non-commercial use**.  
