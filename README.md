@@ -16,8 +16,9 @@ This dataset has been produced within the **HPX – Heritage, Play, Experience**
 **Sicilian Micronanotech Research and Innovation Center – SAMOTHRACE**,  
 **Spoke 1 — University of Catania**, funded by:
 
-- **PNRR – NextGenerationEU**
-- **Mission 4, Component 2, Investment 1.5**
+- **EU PNRR – NextGenerationEU**
+- **Mission 4, Component 2, Investment 1.5 “Creazione e rafforzamento di Ecosistemi dell’Innovazione, costruzione di leader territoriali di R&S”**
+- **ID code ECS00000022, CUP E63C22000900006 Spoke 1 – Università di Catania**
 
 ---
 
